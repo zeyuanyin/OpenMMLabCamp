@@ -57,8 +57,24 @@ python tools/train.py data/rtmpose_s_ear.py
 
 Run the following command to test the model:
 ```
-python tools/test.py data/rtmpose_s_ear.py \
-        work_dirs/rtmpose_s_ear/epoch_300.pth
+python tools/test.py data/rtmpose-s-ear.py \
+        work_dirs/rtmpose-s-ear/epoch_300.pth
 ```
 
 
+## Results
+
+Object Detection (test on epoch_200.pth)
+
+[homework-1/log/mmdetection_test/20230604_185806.json](log/mmdetection_test/20230604_185806.json)
+
+```
+{"coco/bbox_mAP": 0.792, "coco/bbox_mAP_50": 0.955, "coco/bbox_mAP_75": 0.946, "coco/bbox_mAP_s": -1.0, "coco/bbox_mAP_m": -1.0, "coco/bbox_mAP_l": 0.792, "data_time": 0.2294788360595703, "time": 0.34926186908375134}
+```
+
+Pose Estimation (test on epoch_190.pth)
+
+[homework-1/log/mmpose_test_E190/20230604_195520.json](log/mmdetection_test/20230604_185806.json)
+```
+{"coco/AP": 0.6579857911246617, "coco/AP .5": 1.0, "coco/AP .75": 0.7857978775631519, "coco/AP (M)": -1.0, "coco/AP (L)": 0.6579857911246617, "coco/AR": 0.7142857142857143, "coco/AR .5": 1.0, "coco/AR .75": 0.8571428571428571, "coco/AR (M)": -1.0, "coco/AR (L)": 0.7142857142857143, "PCK": 0.9523809523809522, "AUC": 0.09971655328798187, "NME": 0.04699088548586752, "data_time": 1.4403223594029744, "time": 1.6241701046625774}
+```
