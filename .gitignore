@@ -1,0 +1,8 @@
+*/zh_code/
+# */data/
+*.zip
+
+mmdetection/
+mmpose/
+
+*ipynb
