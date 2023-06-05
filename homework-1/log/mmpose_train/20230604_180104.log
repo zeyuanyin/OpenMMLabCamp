@@ -2869,3 +2869,894 @@ NormalInit: mean=0, std=0.01, bias=0
 2023/06/04 19:52:16 - mmengine - INFO - Epoch(train) [193][3/6]  lr: 3.300856e-03  eta: 0:59:24  time: 5.483073  data_time: 5.419982  memory: 1654  loss: 0.057870  loss_kpt: 0.057870  acc_pose: 0.992560
 2023/06/04 19:52:22 - mmengine - INFO - Epoch(train) [193][4/6]  lr: 3.295709e-03  eta: 0:59:19  time: 5.480749  data_time: 5.417906  memory: 1654  loss: 0.057834  loss_kpt: 0.057834  acc_pose: 0.994048
 2023/06/04 19:52:28 - mmengine - INFO - Epoch(train) [193][5/6]  lr: 3.290547e-03  eta: 0:59:14  time: 5.481283  data_time: 5.418007  memory: 1654  loss: 0.058008  loss_kpt: 0.058008  acc_pose: 0.977679
+2023/06/04 19:52:30 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 19:52:30 - mmengine - INFO - Epoch(train) [193][6/6]  lr: 3.285371e-03  eta: 0:59:06  time: 5.392278  data_time: 5.329355  memory: 594  loss: 0.057094  loss_kpt: 0.057094  acc_pose: 0.988095
+2023/06/04 19:52:36 - mmengine - INFO - Epoch(train) [194][1/6]  lr: 3.280181e-03  eta: 0:59:01  time: 5.389951  data_time: 5.326945  memory: 1654  loss: 0.057086  loss_kpt: 0.057086  acc_pose: 0.980655
+2023/06/04 19:52:42 - mmengine - INFO - Epoch(train) [194][2/6]  lr: 3.274976e-03  eta: 0:58:56  time: 5.492856  data_time: 5.429338  memory: 1654  loss: 0.058233  loss_kpt: 0.058233  acc_pose: 0.985119
+2023/06/04 19:52:49 - mmengine - INFO - Epoch(train) [194][3/6]  lr: 3.269757e-03  eta: 0:58:51  time: 5.499009  data_time: 5.435468  memory: 1654  loss: 0.057972  loss_kpt: 0.057972  acc_pose: 0.992560
+2023/06/04 19:52:55 - mmengine - INFO - Epoch(train) [194][4/6]  lr: 3.264523e-03  eta: 0:58:46  time: 5.499519  data_time: 5.436251  memory: 1654  loss: 0.057823  loss_kpt: 0.057823  acc_pose: 0.997024
+2023/06/04 19:53:02 - mmengine - INFO - Epoch(train) [194][5/6]  lr: 3.259276e-03  eta: 0:58:41  time: 5.506068  data_time: 5.442391  memory: 1654  loss: 0.057953  loss_kpt: 0.057953  acc_pose: 0.974606
+2023/06/04 19:53:03 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 19:53:03 - mmengine - INFO - Epoch(train) [194][6/6]  lr: 3.254014e-03  eta: 0:58:33  time: 5.419434  data_time: 5.356264  memory: 594  loss: 0.056851  loss_kpt: 0.056851  acc_pose: 1.000000
+2023/06/04 19:53:09 - mmengine - INFO - Epoch(train) [195][1/6]  lr: 3.248738e-03  eta: 0:58:28  time: 5.416748  data_time: 5.353523  memory: 1654  loss: 0.056779  loss_kpt: 0.056779  acc_pose: 0.994048
+2023/06/04 19:53:15 - mmengine - INFO - Epoch(train) [195][2/6]  lr: 3.243449e-03  eta: 0:58:23  time: 5.502817  data_time: 5.439038  memory: 1654  loss: 0.057636  loss_kpt: 0.057636  acc_pose: 0.989583
+2023/06/04 19:53:22 - mmengine - INFO - Epoch(train) [195][3/6]  lr: 3.238145e-03  eta: 0:58:18  time: 5.502430  data_time: 5.438324  memory: 1654  loss: 0.057693  loss_kpt: 0.057693  acc_pose: 0.991071
+2023/06/04 19:53:28 - mmengine - INFO - Epoch(train) [195][4/6]  lr: 3.232827e-03  eta: 0:58:13  time: 5.510755  data_time: 5.446945  memory: 1654  loss: 0.057595  loss_kpt: 0.057595  acc_pose: 0.995488
+2023/06/04 19:53:34 - mmengine - INFO - Epoch(train) [195][5/6]  lr: 3.227496e-03  eta: 0:58:07  time: 5.505440  data_time: 5.442050  memory: 1654  loss: 0.057342  loss_kpt: 0.057342  acc_pose: 0.983631
+2023/06/04 19:53:35 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 19:53:35 - mmengine - INFO - Epoch(train) [195][6/6]  lr: 3.222151e-03  eta: 0:58:00  time: 5.405243  data_time: 5.341944  memory: 594  loss: 0.056351  loss_kpt: 0.056351  acc_pose: 0.970238
+2023/06/04 19:53:42 - mmengine - INFO - Epoch(train) [196][1/6]  lr: 3.216792e-03  eta: 0:57:54  time: 5.401121  data_time: 5.337897  memory: 1654  loss: 0.056176  loss_kpt: 0.056176  acc_pose: 0.998512
+2023/06/04 19:53:48 - mmengine - INFO - Epoch(train) [196][2/6]  lr: 3.211420e-03  eta: 0:57:49  time: 5.488892  data_time: 5.425521  memory: 1654  loss: 0.057150  loss_kpt: 0.057150  acc_pose: 0.995392
+2023/06/04 19:53:53 - mmengine - INFO - Epoch(train) [196][3/6]  lr: 3.206034e-03  eta: 0:57:44  time: 5.472135  data_time: 5.408606  memory: 1654  loss: 0.057065  loss_kpt: 0.057065  acc_pose: 0.989583
+2023/06/04 19:53:59 - mmengine - INFO - Epoch(train) [196][4/6]  lr: 3.200634e-03  eta: 0:57:38  time: 5.460806  data_time: 5.397591  memory: 1654  loss: 0.057169  loss_kpt: 0.057169  acc_pose: 0.989583
+2023/06/04 19:54:05 - mmengine - INFO - Epoch(train) [196][5/6]  lr: 3.195221e-03  eta: 0:57:33  time: 5.462163  data_time: 5.398780  memory: 1654  loss: 0.057263  loss_kpt: 0.057263  acc_pose: 0.995536
+2023/06/04 19:54:07 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 19:54:07 - mmengine - INFO - Epoch(train) [196][6/6]  lr: 3.189795e-03  eta: 0:57:26  time: 5.368905  data_time: 5.305906  memory: 594  loss: 0.056203  loss_kpt: 0.056203  acc_pose: 0.988095
+2023/06/04 19:54:13 - mmengine - INFO - Epoch(train) [197][1/6]  lr: 3.184356e-03  eta: 0:57:20  time: 5.361236  data_time: 5.298171  memory: 1654  loss: 0.056238  loss_kpt: 0.056238  acc_pose: 0.992560
+2023/06/04 19:54:19 - mmengine - INFO - Epoch(train) [197][2/6]  lr: 3.178903e-03  eta: 0:57:15  time: 5.446678  data_time: 5.383354  memory: 1654  loss: 0.057287  loss_kpt: 0.057287  acc_pose: 0.988095
+2023/06/04 19:54:25 - mmengine - INFO - Epoch(train) [197][3/6]  lr: 3.173437e-03  eta: 0:57:10  time: 5.444668  data_time: 5.381213  memory: 1654  loss: 0.057097  loss_kpt: 0.057097  acc_pose: 0.994048
+2023/06/04 19:54:31 - mmengine - INFO - Epoch(train) [197][4/6]  lr: 3.167958e-03  eta: 0:57:05  time: 5.445696  data_time: 5.382431  memory: 1654  loss: 0.057014  loss_kpt: 0.057014  acc_pose: 0.989583
+2023/06/04 19:54:38 - mmengine - INFO - Epoch(train) [197][5/6]  lr: 3.162467e-03  eta: 0:57:00  time: 5.449167  data_time: 5.385825  memory: 1654  loss: 0.057100  loss_kpt: 0.057100  acc_pose: 0.985119
+2023/06/04 19:54:39 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 19:54:39 - mmengine - INFO - Epoch(train) [197][6/6]  lr: 3.156962e-03  eta: 0:56:52  time: 5.363769  data_time: 5.300907  memory: 594  loss: 0.056229  loss_kpt: 0.056229  acc_pose: 1.000000
+2023/06/04 19:54:45 - mmengine - INFO - Epoch(train) [198][1/6]  lr: 3.151444e-03  eta: 0:56:47  time: 5.351655  data_time: 5.288569  memory: 1654  loss: 0.056075  loss_kpt: 0.056075  acc_pose: 0.989583
+2023/06/04 19:54:51 - mmengine - INFO - Epoch(train) [198][2/6]  lr: 3.145913e-03  eta: 0:56:42  time: 5.447267  data_time: 5.384017  memory: 1654  loss: 0.057001  loss_kpt: 0.057001  acc_pose: 0.991071
+2023/06/04 19:54:58 - mmengine - INFO - Epoch(train) [198][3/6]  lr: 3.140370e-03  eta: 0:56:36  time: 5.440142  data_time: 5.377083  memory: 1654  loss: 0.057074  loss_kpt: 0.057074  acc_pose: 0.988095
+2023/06/04 19:55:04 - mmengine - INFO - Epoch(train) [198][4/6]  lr: 3.134814e-03  eta: 0:56:31  time: 5.439391  data_time: 5.376038  memory: 1654  loss: 0.056852  loss_kpt: 0.056852  acc_pose: 0.989583
+2023/06/04 19:55:11 - mmengine - INFO - Epoch(train) [198][5/6]  lr: 3.129246e-03  eta: 0:56:26  time: 5.449276  data_time: 5.385932  memory: 1654  loss: 0.056892  loss_kpt: 0.056892  acc_pose: 0.994048
+2023/06/04 19:55:12 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 19:55:12 - mmengine - INFO - Epoch(train) [198][6/6]  lr: 3.123664e-03  eta: 0:56:19  time: 5.359645  data_time: 5.296684  memory: 594  loss: 0.055770  loss_kpt: 0.055770  acc_pose: 0.994048
+2023/06/04 19:55:19 - mmengine - INFO - Epoch(train) [199][1/6]  lr: 3.118071e-03  eta: 0:56:14  time: 5.358808  data_time: 5.295910  memory: 1654  loss: 0.055866  loss_kpt: 0.055866  acc_pose: 0.992560
+2023/06/04 19:55:25 - mmengine - INFO - Epoch(train) [199][2/6]  lr: 3.112465e-03  eta: 0:56:09  time: 5.454512  data_time: 5.391285  memory: 1654  loss: 0.056742  loss_kpt: 0.056742  acc_pose: 0.992560
+2023/06/04 19:55:31 - mmengine - INFO - Epoch(train) [199][3/6]  lr: 3.106847e-03  eta: 0:56:03  time: 5.453131  data_time: 5.389550  memory: 1654  loss: 0.056772  loss_kpt: 0.056772  acc_pose: 0.980655
+2023/06/04 19:55:37 - mmengine - INFO - Epoch(train) [199][4/6]  lr: 3.101216e-03  eta: 0:55:58  time: 5.445808  data_time: 5.382552  memory: 1654  loss: 0.056844  loss_kpt: 0.056844  acc_pose: 0.997024
+2023/06/04 19:55:43 - mmengine - INFO - Epoch(train) [199][5/6]  lr: 3.095573e-03  eta: 0:55:53  time: 5.430312  data_time: 5.367210  memory: 1654  loss: 0.056872  loss_kpt: 0.056872  acc_pose: 0.992560
+2023/06/04 19:55:44 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 19:55:44 - mmengine - INFO - Epoch(train) [199][6/6]  lr: 3.089918e-03  eta: 0:55:45  time: 5.328716  data_time: 5.266214  memory: 594  loss: 0.056180  loss_kpt: 0.056180  acc_pose: 0.916667
+2023/06/04 19:55:51 - mmengine - INFO - Epoch(train) [200][1/6]  lr: 3.084251e-03  eta: 0:55:40  time: 5.328773  data_time: 5.266721  memory: 1654  loss: 0.056138  loss_kpt: 0.056138  acc_pose: 0.997024
+2023/06/04 19:55:57 - mmengine - INFO - Epoch(train) [200][2/6]  lr: 3.078572e-03  eta: 0:55:35  time: 5.420751  data_time: 5.358596  memory: 1654  loss: 0.057218  loss_kpt: 0.057218  acc_pose: 0.986559
+2023/06/04 19:56:03 - mmengine - INFO - Epoch(train) [200][3/6]  lr: 3.072881e-03  eta: 0:55:30  time: 5.420938  data_time: 5.359088  memory: 1654  loss: 0.057186  loss_kpt: 0.057186  acc_pose: 0.997024
+2023/06/04 19:56:10 - mmengine - INFO - Epoch(train) [200][4/6]  lr: 3.067179e-03  eta: 0:55:25  time: 5.431939  data_time: 5.369827  memory: 1654  loss: 0.057109  loss_kpt: 0.057109  acc_pose: 0.992560
+2023/06/04 19:56:16 - mmengine - INFO - Epoch(train) [200][5/6]  lr: 3.061464e-03  eta: 0:55:20  time: 5.429897  data_time: 5.367390  memory: 1654  loss: 0.057201  loss_kpt: 0.057201  acc_pose: 0.989583
+2023/06/04 19:56:18 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 19:56:18 - mmengine - INFO - Epoch(train) [200][6/6]  lr: 3.055738e-03  eta: 0:55:12  time: 5.346041  data_time: 5.283166  memory: 594  loss: 0.056190  loss_kpt: 0.056190  acc_pose: 0.994048
+2023/06/04 19:56:18 - mmengine - INFO - Saving checkpoint at 200 epochs
+2023/06/04 19:56:24 - mmengine - INFO - Epoch(val) [200][1/6]    eta: 0:00:06  time: 1.083604  data_time: 1.063292  memory: 293  
+2023/06/04 19:56:25 - mmengine - INFO - Epoch(val) [200][2/6]    eta: 0:00:05  time: 1.102757  data_time: 1.082336  memory: 293  
+2023/06/04 19:56:26 - mmengine - INFO - Epoch(val) [200][3/6]    eta: 0:00:03  time: 1.101003  data_time: 1.080586  memory: 293  
+2023/06/04 19:56:27 - mmengine - INFO - Epoch(val) [200][4/6]    eta: 0:00:02  time: 1.100425  data_time: 1.080000  memory: 293  
+2023/06/04 19:56:29 - mmengine - INFO - Epoch(val) [200][5/6]    eta: 0:00:01  time: 1.101326  data_time: 1.080873  memory: 293  
+2023/06/04 19:56:29 - mmengine - INFO - Epoch(val) [200][6/6]    eta: 0:00:00  time: 1.083454  data_time: 1.062994  memory: 247  
+2023/06/04 19:56:29 - mmengine - INFO - Evaluating CocoMetric...
+2023/06/04 19:56:29 - mmengine - INFO - Evaluating PCKAccuracy (normalized by ``"bbox_size"``)...
+2023/06/04 19:56:29 - mmengine - INFO - Evaluating AUC...
+2023/06/04 19:56:29 - mmengine - INFO - Evaluating NME...
+2023/06/04 19:56:29 - mmengine - INFO - Epoch(val) [200][6/6]  coco/AP: 0.713991  coco/AP .5: 1.000000  coco/AP .75: 0.814438  coco/AP (M): -1.000000  coco/AP (L): 0.713991  coco/AR: 0.745238  coco/AR .5: 1.000000  coco/AR .75: 0.857143  coco/AR (M): -1.000000  coco/AR (L): 0.745238  PCK: 0.967120  AUC: 0.107766  NME: 0.044515  data_time: 1.062994  time: 1.083454
+2023/06/04 19:56:29 - mmengine - INFO - The previous best checkpoint /home/zeyuan.yin/OpenMMLabCamp/homework-1/code/mmpose/work_dirs/rtmpose-s-ear/best_PCK_epoch_130.pth is removed
+2023/06/04 19:56:33 - mmengine - INFO - The best checkpoint with 0.9671 PCK at 200 epoch is saved to best_PCK_epoch_200.pth.
+2023/06/04 19:56:40 - mmengine - INFO - Epoch(train) [201][1/6]  lr: 3.050000e-03  eta: 0:55:07  time: 5.353445  data_time: 5.290344  memory: 1654  loss: 0.056233  loss_kpt: 0.056233  acc_pose: 0.994048
+2023/06/04 19:56:46 - mmengine - INFO - Epoch(train) [201][2/6]  lr: 3.044251e-03  eta: 0:55:02  time: 5.446054  data_time: 5.382415  memory: 1654  loss: 0.057322  loss_kpt: 0.057322  acc_pose: 0.988095
+2023/06/04 19:56:52 - mmengine - INFO - Epoch(train) [201][3/6]  lr: 3.038490e-03  eta: 0:54:57  time: 5.447537  data_time: 5.384284  memory: 1654  loss: 0.057335  loss_kpt: 0.057335  acc_pose: 0.989583
+2023/06/04 19:56:59 - mmengine - INFO - Epoch(train) [201][4/6]  lr: 3.032717e-03  eta: 0:54:52  time: 5.454181  data_time: 5.391097  memory: 1654  loss: 0.057269  loss_kpt: 0.057269  acc_pose: 0.997024
+2023/06/04 19:57:05 - mmengine - INFO - Epoch(train) [201][5/6]  lr: 3.026933e-03  eta: 0:54:46  time: 5.456659  data_time: 5.393641  memory: 1654  loss: 0.057395  loss_kpt: 0.057395  acc_pose: 0.979167
+2023/06/04 19:57:06 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 19:57:06 - mmengine - INFO - Epoch(train) [201][6/6]  lr: 3.021138e-03  eta: 0:54:39  time: 5.367380  data_time: 5.304923  memory: 594  loss: 0.056523  loss_kpt: 0.056523  acc_pose: 0.975340
+2023/06/04 19:57:13 - mmengine - INFO - Epoch(train) [202][1/6]  lr: 3.015332e-03  eta: 0:54:34  time: 5.376823  data_time: 5.314479  memory: 1654  loss: 0.056331  loss_kpt: 0.056331  acc_pose: 0.995536
+2023/06/04 19:57:19 - mmengine - INFO - Epoch(train) [202][2/6]  lr: 3.009515e-03  eta: 0:54:29  time: 5.473142  data_time: 5.410732  memory: 1654  loss: 0.057337  loss_kpt: 0.057337  acc_pose: 0.992560
+2023/06/04 19:57:25 - mmengine - INFO - Epoch(train) [202][3/6]  lr: 3.003686e-03  eta: 0:54:23  time: 5.467196  data_time: 5.405007  memory: 1654  loss: 0.057453  loss_kpt: 0.057453  acc_pose: 0.982047
+2023/06/04 19:57:31 - mmengine - INFO - Epoch(train) [202][4/6]  lr: 2.997846e-03  eta: 0:54:18  time: 5.458025  data_time: 5.395702  memory: 1654  loss: 0.057353  loss_kpt: 0.057353  acc_pose: 0.986607
+2023/06/04 19:57:37 - mmengine - INFO - Epoch(train) [202][5/6]  lr: 2.991996e-03  eta: 0:54:13  time: 5.451877  data_time: 5.389735  memory: 1654  loss: 0.057516  loss_kpt: 0.057516  acc_pose: 0.989487
+2023/06/04 19:57:38 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 19:57:38 - mmengine - INFO - Epoch(train) [202][6/6]  lr: 2.986135e-03  eta: 0:54:05  time: 5.353484  data_time: 5.291841  memory: 594  loss: 0.056609  loss_kpt: 0.056609  acc_pose: 0.982143
+2023/06/04 19:57:45 - mmengine - INFO - Epoch(train) [203][1/6]  lr: 2.980262e-03  eta: 0:54:00  time: 5.349558  data_time: 5.288168  memory: 1654  loss: 0.056436  loss_kpt: 0.056436  acc_pose: 0.992512
+2023/06/04 19:57:51 - mmengine - INFO - Epoch(train) [203][2/6]  lr: 2.974380e-03  eta: 0:53:55  time: 5.441455  data_time: 5.379589  memory: 1654  loss: 0.057341  loss_kpt: 0.057341  acc_pose: 0.991071
+2023/06/04 19:57:57 - mmengine - INFO - Epoch(train) [203][3/6]  lr: 2.968486e-03  eta: 0:53:50  time: 5.448674  data_time: 5.387345  memory: 1654  loss: 0.057404  loss_kpt: 0.057404  acc_pose: 0.990975
+2023/06/04 19:58:04 - mmengine - INFO - Epoch(train) [203][4/6]  lr: 2.962582e-03  eta: 0:53:45  time: 5.457883  data_time: 5.396607  memory: 1654  loss: 0.057444  loss_kpt: 0.057444  acc_pose: 0.992560
+2023/06/04 19:58:10 - mmengine - INFO - Epoch(train) [203][5/6]  lr: 2.956667e-03  eta: 0:53:40  time: 5.449043  data_time: 5.388005  memory: 1654  loss: 0.057441  loss_kpt: 0.057441  acc_pose: 0.994048
+2023/06/04 19:58:11 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 19:58:11 - mmengine - INFO - Epoch(train) [203][6/6]  lr: 2.950742e-03  eta: 0:53:32  time: 5.349274  data_time: 5.288411  memory: 594  loss: 0.056530  loss_kpt: 0.056530  acc_pose: 1.000000
+2023/06/04 19:58:18 - mmengine - INFO - Epoch(train) [204][1/6]  lr: 2.944807e-03  eta: 0:53:27  time: 5.356683  data_time: 5.295584  memory: 1654  loss: 0.056567  loss_kpt: 0.056567  acc_pose: 0.997024
+2023/06/04 19:58:24 - mmengine - INFO - Epoch(train) [204][2/6]  lr: 2.938861e-03  eta: 0:53:22  time: 5.449557  data_time: 5.388406  memory: 1654  loss: 0.057537  loss_kpt: 0.057537  acc_pose: 0.997024
+2023/06/04 19:58:29 - mmengine - INFO - Epoch(train) [204][3/6]  lr: 2.932905e-03  eta: 0:53:16  time: 5.429709  data_time: 5.368769  memory: 1654  loss: 0.057452  loss_kpt: 0.057452  acc_pose: 0.995536
+2023/06/04 19:58:35 - mmengine - INFO - Epoch(train) [204][4/6]  lr: 2.926939e-03  eta: 0:53:11  time: 5.435268  data_time: 5.374355  memory: 1654  loss: 0.057226  loss_kpt: 0.057226  acc_pose: 0.995536
+2023/06/04 19:58:41 - mmengine - INFO - Epoch(train) [204][5/6]  lr: 2.920963e-03  eta: 0:53:06  time: 5.447059  data_time: 5.386129  memory: 1654  loss: 0.057169  loss_kpt: 0.057169  acc_pose: 0.995536
+2023/06/04 19:58:43 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 19:58:43 - mmengine - INFO - Epoch(train) [204][6/6]  lr: 2.914977e-03  eta: 0:52:58  time: 5.362943  data_time: 5.302136  memory: 594  loss: 0.056026  loss_kpt: 0.056026  acc_pose: 0.994048
+2023/06/04 19:58:49 - mmengine - INFO - Epoch(train) [205][1/6]  lr: 2.908981e-03  eta: 0:52:53  time: 5.354926  data_time: 5.294047  memory: 1654  loss: 0.055938  loss_kpt: 0.055938  acc_pose: 1.000000
+2023/06/04 19:58:55 - mmengine - INFO - Epoch(train) [205][2/6]  lr: 2.902975e-03  eta: 0:52:47  time: 5.439843  data_time: 5.378830  memory: 1654  loss: 0.056905  loss_kpt: 0.056905  acc_pose: 0.989583
+2023/06/04 19:59:01 - mmengine - INFO - Epoch(train) [205][3/6]  lr: 2.896959e-03  eta: 0:52:42  time: 5.451330  data_time: 5.390277  memory: 1654  loss: 0.056974  loss_kpt: 0.056974  acc_pose: 0.994048
+2023/06/04 19:59:08 - mmengine - INFO - Epoch(train) [205][4/6]  lr: 2.890934e-03  eta: 0:52:37  time: 5.466209  data_time: 5.405176  memory: 1654  loss: 0.056726  loss_kpt: 0.056726  acc_pose: 0.993952
+2023/06/04 19:59:14 - mmengine - INFO - Epoch(train) [205][5/6]  lr: 2.884898e-03  eta: 0:52:32  time: 5.469289  data_time: 5.408453  memory: 1654  loss: 0.056739  loss_kpt: 0.056739  acc_pose: 0.986607
+2023/06/04 19:59:15 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 19:59:15 - mmengine - INFO - Epoch(train) [205][6/6]  lr: 2.878854e-03  eta: 0:52:25  time: 5.367838  data_time: 5.307216  memory: 594  loss: 0.055850  loss_kpt: 0.055850  acc_pose: 0.988095
+2023/06/04 19:59:22 - mmengine - INFO - Epoch(train) [206][1/6]  lr: 2.872800e-03  eta: 0:52:20  time: 5.370662  data_time: 5.310061  memory: 1654  loss: 0.055757  loss_kpt: 0.055757  acc_pose: 0.992560
+2023/06/04 19:59:28 - mmengine - INFO - Epoch(train) [206][2/6]  lr: 2.866736e-03  eta: 0:52:15  time: 5.462781  data_time: 5.401624  memory: 1654  loss: 0.056715  loss_kpt: 0.056715  acc_pose: 0.988095
+2023/06/04 19:59:35 - mmengine - INFO - Epoch(train) [206][3/6]  lr: 2.860663e-03  eta: 0:52:10  time: 5.475643  data_time: 5.414730  memory: 1654  loss: 0.056643  loss_kpt: 0.056643  acc_pose: 0.998512
+2023/06/04 19:59:41 - mmengine - INFO - Epoch(train) [206][4/6]  lr: 2.854581e-03  eta: 0:52:04  time: 5.476180  data_time: 5.414895  memory: 1654  loss: 0.056564  loss_kpt: 0.056564  acc_pose: 0.991071
+2023/06/04 19:59:47 - mmengine - INFO - Epoch(train) [206][5/6]  lr: 2.848490e-03  eta: 0:51:59  time: 5.476952  data_time: 5.415670  memory: 1654  loss: 0.056452  loss_kpt: 0.056452  acc_pose: 0.998512
+2023/06/04 19:59:49 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 19:59:49 - mmengine - INFO - Epoch(train) [206][6/6]  lr: 2.842389e-03  eta: 0:51:52  time: 5.381648  data_time: 5.320890  memory: 594  loss: 0.055560  loss_kpt: 0.055560  acc_pose: 0.994048
+2023/06/04 19:59:55 - mmengine - INFO - Epoch(train) [207][1/6]  lr: 2.836280e-03  eta: 0:51:47  time: 5.369993  data_time: 5.309019  memory: 1654  loss: 0.055601  loss_kpt: 0.055601  acc_pose: 0.991071
+2023/06/04 20:00:01 - mmengine - INFO - Epoch(train) [207][2/6]  lr: 2.830161e-03  eta: 0:51:42  time: 5.467611  data_time: 5.406387  memory: 1654  loss: 0.056538  loss_kpt: 0.056538  acc_pose: 0.994048
+2023/06/04 20:00:08 - mmengine - INFO - Epoch(train) [207][3/6]  lr: 2.824034e-03  eta: 0:51:37  time: 5.476732  data_time: 5.415861  memory: 1654  loss: 0.056291  loss_kpt: 0.056291  acc_pose: 0.997024
+2023/06/04 20:00:15 - mmengine - INFO - Epoch(train) [207][4/6]  lr: 2.817897e-03  eta: 0:51:31  time: 5.482249  data_time: 5.421558  memory: 1654  loss: 0.056273  loss_kpt: 0.056273  acc_pose: 0.991071
+2023/06/04 20:00:21 - mmengine - INFO - Epoch(train) [207][5/6]  lr: 2.811753e-03  eta: 0:51:26  time: 5.486339  data_time: 5.425903  memory: 1654  loss: 0.056161  loss_kpt: 0.056161  acc_pose: 0.997024
+2023/06/04 20:00:23 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:00:23 - mmengine - INFO - Epoch(train) [207][6/6]  lr: 2.805599e-03  eta: 0:51:19  time: 5.395320  data_time: 5.334996  memory: 594  loss: 0.055236  loss_kpt: 0.055236  acc_pose: 0.988095
+2023/06/04 20:00:29 - mmengine - INFO - Epoch(train) [208][1/6]  lr: 2.799437e-03  eta: 0:51:14  time: 5.408250  data_time: 5.347655  memory: 1654  loss: 0.055116  loss_kpt: 0.055116  acc_pose: 0.992512
+2023/06/04 20:00:35 - mmengine - INFO - Epoch(train) [208][2/6]  lr: 2.793266e-03  eta: 0:51:09  time: 5.500539  data_time: 5.439649  memory: 1654  loss: 0.055974  loss_kpt: 0.055974  acc_pose: 0.992560
+2023/06/04 20:00:41 - mmengine - INFO - Epoch(train) [208][3/6]  lr: 2.787087e-03  eta: 0:51:03  time: 5.498451  data_time: 5.437637  memory: 1654  loss: 0.056212  loss_kpt: 0.056212  acc_pose: 0.995536
+2023/06/04 20:00:48 - mmengine - INFO - Epoch(train) [208][4/6]  lr: 2.780899e-03  eta: 0:50:58  time: 5.498553  data_time: 5.437980  memory: 1654  loss: 0.056080  loss_kpt: 0.056080  acc_pose: 0.992560
+2023/06/04 20:00:54 - mmengine - INFO - Epoch(train) [208][5/6]  lr: 2.774703e-03  eta: 0:50:53  time: 5.505155  data_time: 5.444410  memory: 1654  loss: 0.055970  loss_kpt: 0.055970  acc_pose: 0.998512
+2023/06/04 20:00:56 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:00:56 - mmengine - INFO - Epoch(train) [208][6/6]  lr: 2.768499e-03  eta: 0:50:46  time: 5.403816  data_time: 5.343480  memory: 594  loss: 0.054932  loss_kpt: 0.054932  acc_pose: 1.000000
+2023/06/04 20:01:02 - mmengine - INFO - Epoch(train) [209][1/6]  lr: 2.762287e-03  eta: 0:50:41  time: 5.407523  data_time: 5.347640  memory: 1654  loss: 0.054732  loss_kpt: 0.054732  acc_pose: 0.991071
+2023/06/04 20:01:08 - mmengine - INFO - Epoch(train) [209][2/6]  lr: 2.756067e-03  eta: 0:50:35  time: 5.494928  data_time: 5.435210  memory: 1654  loss: 0.055757  loss_kpt: 0.055757  acc_pose: 0.988095
+2023/06/04 20:01:14 - mmengine - INFO - Epoch(train) [209][3/6]  lr: 2.749838e-03  eta: 0:50:30  time: 5.484279  data_time: 5.424729  memory: 1654  loss: 0.055597  loss_kpt: 0.055597  acc_pose: 0.985119
+2023/06/04 20:01:20 - mmengine - INFO - Epoch(train) [209][4/6]  lr: 2.743602e-03  eta: 0:50:25  time: 5.483922  data_time: 5.424530  memory: 1654  loss: 0.055449  loss_kpt: 0.055449  acc_pose: 0.985119
+2023/06/04 20:01:26 - mmengine - INFO - Epoch(train) [209][5/6]  lr: 2.737358e-03  eta: 0:50:20  time: 5.475580  data_time: 5.415890  memory: 1654  loss: 0.055142  loss_kpt: 0.055142  acc_pose: 0.992560
+2023/06/04 20:01:28 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:01:28 - mmengine - INFO - Epoch(train) [209][6/6]  lr: 2.731106e-03  eta: 0:50:12  time: 5.378257  data_time: 5.318893  memory: 594  loss: 0.054319  loss_kpt: 0.054319  acc_pose: 0.988095
+2023/06/04 20:01:33 - mmengine - INFO - Epoch(train) [210][1/6]  lr: 2.724847e-03  eta: 0:50:07  time: 5.374716  data_time: 5.315354  memory: 1654  loss: 0.054236  loss_kpt: 0.054236  acc_pose: 0.991071
+2023/06/04 20:01:40 - mmengine - INFO - Epoch(train) [210][2/6]  lr: 2.718579e-03  eta: 0:50:02  time: 5.481151  data_time: 5.421468  memory: 1654  loss: 0.055034  loss_kpt: 0.055034  acc_pose: 0.992560
+2023/06/04 20:01:47 - mmengine - INFO - Epoch(train) [210][3/6]  lr: 2.712305e-03  eta: 0:49:57  time: 5.479981  data_time: 5.420415  memory: 1654  loss: 0.054756  loss_kpt: 0.054756  acc_pose: 1.000000
+2023/06/04 20:01:53 - mmengine - INFO - Epoch(train) [210][4/6]  lr: 2.706023e-03  eta: 0:49:52  time: 5.472663  data_time: 5.412899  memory: 1654  loss: 0.054631  loss_kpt: 0.054631  acc_pose: 0.994048
+2023/06/04 20:01:59 - mmengine - INFO - Epoch(train) [210][5/6]  lr: 2.699733e-03  eta: 0:49:46  time: 5.484149  data_time: 5.424214  memory: 1654  loss: 0.054467  loss_kpt: 0.054467  acc_pose: 0.994048
+2023/06/04 20:02:00 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:02:00 - mmengine - INFO - Epoch(train) [210][6/6]  lr: 2.693436e-03  eta: 0:49:39  time: 5.387286  data_time: 5.327901  memory: 594  loss: 0.053442  loss_kpt: 0.053442  acc_pose: 0.970238
+2023/06/04 20:02:00 - mmengine - INFO - Saving checkpoint at 210 epochs
+2023/06/04 20:02:07 - mmengine - INFO - Epoch(val) [210][1/6]    eta: 0:00:06  time: 1.084648  data_time: 1.064179  memory: 293  
+2023/06/04 20:02:08 - mmengine - INFO - Epoch(val) [210][2/6]    eta: 0:00:05  time: 1.103234  data_time: 1.082704  memory: 293  
+2023/06/04 20:02:09 - mmengine - INFO - Epoch(val) [210][3/6]    eta: 0:00:03  time: 1.101517  data_time: 1.080924  memory: 293  
+2023/06/04 20:02:10 - mmengine - INFO - Epoch(val) [210][4/6]    eta: 0:00:02  time: 1.100664  data_time: 1.080045  memory: 293  
+2023/06/04 20:02:12 - mmengine - INFO - Epoch(val) [210][5/6]    eta: 0:00:01  time: 1.101551  data_time: 1.080931  memory: 293  
+2023/06/04 20:02:12 - mmengine - INFO - Epoch(val) [210][6/6]    eta: 0:00:00  time: 1.083669  data_time: 1.063100  memory: 247  
+2023/06/04 20:02:12 - mmengine - INFO - Evaluating CocoMetric...
+2023/06/04 20:02:12 - mmengine - INFO - Evaluating PCKAccuracy (normalized by ``"bbox_size"``)...
+2023/06/04 20:02:12 - mmengine - INFO - Evaluating AUC...
+2023/06/04 20:02:12 - mmengine - INFO - Evaluating NME...
+2023/06/04 20:02:12 - mmengine - INFO - Epoch(val) [210][6/6]  coco/AP: 0.643462  coco/AP .5: 1.000000  coco/AP .75: 0.743222  coco/AP (M): -1.000000  coco/AP (L): 0.643462  coco/AR: 0.673810  coco/AR .5: 1.000000  coco/AR .75: 0.785714  coco/AR (M): -1.000000  coco/AR (L): 0.673810  PCK: 0.936508  AUC: 0.085601  NME: 0.050339  data_time: 1.063100  time: 1.083669
+2023/06/04 20:02:18 - mmengine - INFO - Epoch(train) [211][1/6]  lr: 2.687132e-03  eta: 0:49:34  time: 5.391951  data_time: 5.332510  memory: 1654  loss: 0.053170  loss_kpt: 0.053170  acc_pose: 0.998512
+2023/06/04 20:02:24 - mmengine - INFO - Epoch(train) [211][2/6]  lr: 2.680821e-03  eta: 0:49:28  time: 5.477049  data_time: 5.417294  memory: 1654  loss: 0.053952  loss_kpt: 0.053952  acc_pose: 1.000000
+2023/06/04 20:02:30 - mmengine - INFO - Epoch(train) [211][3/6]  lr: 2.674503e-03  eta: 0:49:23  time: 5.473831  data_time: 5.413979  memory: 1654  loss: 0.053891  loss_kpt: 0.053891  acc_pose: 0.992560
+2023/06/04 20:02:36 - mmengine - INFO - Epoch(train) [211][4/6]  lr: 2.668178e-03  eta: 0:49:18  time: 5.461998  data_time: 5.402346  memory: 1654  loss: 0.053962  loss_kpt: 0.053962  acc_pose: 0.985119
+2023/06/04 20:02:42 - mmengine - INFO - Epoch(train) [211][5/6]  lr: 2.661845e-03  eta: 0:49:12  time: 5.456001  data_time: 5.396273  memory: 1654  loss: 0.053965  loss_kpt: 0.053965  acc_pose: 0.988095
+2023/06/04 20:02:43 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:02:43 - mmengine - INFO - Epoch(train) [211][6/6]  lr: 2.655506e-03  eta: 0:49:05  time: 5.361260  data_time: 5.301916  memory: 594  loss: 0.052987  loss_kpt: 0.052987  acc_pose: 0.982143
+2023/06/04 20:02:49 - mmengine - INFO - Epoch(train) [212][1/6]  lr: 2.649160e-03  eta: 0:49:00  time: 5.356258  data_time: 5.297107  memory: 1654  loss: 0.052620  loss_kpt: 0.052620  acc_pose: 0.998512
+2023/06/04 20:02:55 - mmengine - INFO - Epoch(train) [212][2/6]  lr: 2.642808e-03  eta: 0:48:55  time: 5.448157  data_time: 5.388979  memory: 1654  loss: 0.053644  loss_kpt: 0.053644  acc_pose: 0.982047
+2023/06/04 20:03:02 - mmengine - INFO - Epoch(train) [212][3/6]  lr: 2.636449e-03  eta: 0:48:49  time: 5.447410  data_time: 5.388513  memory: 1654  loss: 0.053622  loss_kpt: 0.053622  acc_pose: 0.988047
+2023/06/04 20:03:08 - mmengine - INFO - Epoch(train) [212][4/6]  lr: 2.630083e-03  eta: 0:48:44  time: 5.451301  data_time: 5.391976  memory: 1654  loss: 0.053505  loss_kpt: 0.053505  acc_pose: 0.988095
+2023/06/04 20:03:14 - mmengine - INFO - Epoch(train) [212][5/6]  lr: 2.623711e-03  eta: 0:48:39  time: 5.478212  data_time: 5.418965  memory: 1654  loss: 0.053684  loss_kpt: 0.053684  acc_pose: 0.992560
+2023/06/04 20:03:16 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:03:16 - mmengine - INFO - Epoch(train) [212][6/6]  lr: 2.617332e-03  eta: 0:48:32  time: 5.385751  data_time: 5.326697  memory: 594  loss: 0.052950  loss_kpt: 0.052950  acc_pose: 0.994048
+2023/06/04 20:03:23 - mmengine - INFO - Epoch(train) [213][1/6]  lr: 2.610948e-03  eta: 0:48:27  time: 5.396335  data_time: 5.337391  memory: 1654  loss: 0.052959  loss_kpt: 0.052959  acc_pose: 0.992560
+2023/06/04 20:03:29 - mmengine - INFO - Epoch(train) [213][2/6]  lr: 2.604557e-03  eta: 0:48:22  time: 5.496201  data_time: 5.436708  memory: 1654  loss: 0.053935  loss_kpt: 0.053935  acc_pose: 0.997024
+2023/06/04 20:03:35 - mmengine - INFO - Epoch(train) [213][3/6]  lr: 2.598159e-03  eta: 0:48:17  time: 5.505745  data_time: 5.446238  memory: 1654  loss: 0.054009  loss_kpt: 0.054009  acc_pose: 0.991071
+2023/06/04 20:03:42 - mmengine - INFO - Epoch(train) [213][4/6]  lr: 2.591756e-03  eta: 0:48:11  time: 5.509897  data_time: 5.450322  memory: 1654  loss: 0.053972  loss_kpt: 0.053972  acc_pose: 0.989487
+2023/06/04 20:03:48 - mmengine - INFO - Epoch(train) [213][5/6]  lr: 2.585347e-03  eta: 0:48:06  time: 5.502784  data_time: 5.443584  memory: 1654  loss: 0.053720  loss_kpt: 0.053720  acc_pose: 0.998512
+2023/06/04 20:03:49 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:03:49 - mmengine - INFO - Epoch(train) [213][6/6]  lr: 2.578932e-03  eta: 0:47:59  time: 5.403479  data_time: 5.344366  memory: 594  loss: 0.052940  loss_kpt: 0.052940  acc_pose: 1.000000
+2023/06/04 20:03:56 - mmengine - INFO - Epoch(train) [214][1/6]  lr: 2.572511e-03  eta: 0:47:54  time: 5.414452  data_time: 5.355696  memory: 1654  loss: 0.052845  loss_kpt: 0.052845  acc_pose: 0.997024
+2023/06/04 20:04:03 - mmengine - INFO - Epoch(train) [214][2/6]  lr: 2.566084e-03  eta: 0:47:49  time: 5.516881  data_time: 5.458251  memory: 1654  loss: 0.053605  loss_kpt: 0.053605  acc_pose: 0.995536
+2023/06/04 20:04:09 - mmengine - INFO - Epoch(train) [214][3/6]  lr: 2.559652e-03  eta: 0:47:44  time: 5.512795  data_time: 5.454260  memory: 1654  loss: 0.053592  loss_kpt: 0.053592  acc_pose: 0.992560
+2023/06/04 20:04:15 - mmengine - INFO - Epoch(train) [214][4/6]  lr: 2.553214e-03  eta: 0:47:39  time: 5.515322  data_time: 5.456756  memory: 1654  loss: 0.053590  loss_kpt: 0.053590  acc_pose: 0.991071
+2023/06/04 20:04:21 - mmengine - INFO - Epoch(train) [214][5/6]  lr: 2.546770e-03  eta: 0:47:33  time: 5.504664  data_time: 5.446115  memory: 1654  loss: 0.053603  loss_kpt: 0.053603  acc_pose: 0.997024
+2023/06/04 20:04:23 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:04:23 - mmengine - INFO - Epoch(train) [214][6/6]  lr: 2.540321e-03  eta: 0:47:26  time: 5.410984  data_time: 5.352969  memory: 594  loss: 0.052688  loss_kpt: 0.052688  acc_pose: 0.994048
+2023/06/04 20:04:29 - mmengine - INFO - Epoch(train) [215][1/6]  lr: 2.533867e-03  eta: 0:47:21  time: 5.408171  data_time: 5.349880  memory: 1654  loss: 0.052575  loss_kpt: 0.052575  acc_pose: 0.979119
+2023/06/04 20:04:36 - mmengine - INFO - Epoch(train) [215][2/6]  lr: 2.527407e-03  eta: 0:47:16  time: 5.510008  data_time: 5.451426  memory: 1654  loss: 0.053526  loss_kpt: 0.053526  acc_pose: 0.997024
+2023/06/04 20:04:42 - mmengine - INFO - Epoch(train) [215][3/6]  lr: 2.520942e-03  eta: 0:47:10  time: 5.507305  data_time: 5.448748  memory: 1654  loss: 0.053249  loss_kpt: 0.053249  acc_pose: 0.998512
+2023/06/04 20:04:48 - mmengine - INFO - Epoch(train) [215][4/6]  lr: 2.514472e-03  eta: 0:47:05  time: 5.493479  data_time: 5.434943  memory: 1654  loss: 0.053094  loss_kpt: 0.053094  acc_pose: 0.997024
+2023/06/04 20:04:53 - mmengine - INFO - Epoch(train) [215][5/6]  lr: 2.507997e-03  eta: 0:47:00  time: 5.474806  data_time: 5.415965  memory: 1654  loss: 0.053011  loss_kpt: 0.053011  acc_pose: 1.000000
+2023/06/04 20:04:55 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:04:55 - mmengine - INFO - Epoch(train) [215][6/6]  lr: 2.501517e-03  eta: 0:46:52  time: 5.368791  data_time: 5.310144  memory: 594  loss: 0.052168  loss_kpt: 0.052168  acc_pose: 1.000000
+2023/06/04 20:05:01 - mmengine - INFO - Epoch(train) [216][1/6]  lr: 2.495032e-03  eta: 0:46:47  time: 5.369014  data_time: 5.310436  memory: 1654  loss: 0.052257  loss_kpt: 0.052257  acc_pose: 1.000000
+2023/06/04 20:05:08 - mmengine - INFO - Epoch(train) [216][2/6]  lr: 2.488542e-03  eta: 0:46:42  time: 5.471187  data_time: 5.411903  memory: 1654  loss: 0.052970  loss_kpt: 0.052970  acc_pose: 0.997024
+2023/06/04 20:05:14 - mmengine - INFO - Epoch(train) [216][3/6]  lr: 2.482048e-03  eta: 0:46:37  time: 5.471207  data_time: 5.412039  memory: 1654  loss: 0.053037  loss_kpt: 0.053037  acc_pose: 0.991071
+2023/06/04 20:05:21 - mmengine - INFO - Epoch(train) [216][4/6]  lr: 2.475549e-03  eta: 0:46:32  time: 5.477707  data_time: 5.418350  memory: 1654  loss: 0.052887  loss_kpt: 0.052887  acc_pose: 0.997024
+2023/06/04 20:05:27 - mmengine - INFO - Epoch(train) [216][5/6]  lr: 2.469045e-03  eta: 0:46:27  time: 5.484924  data_time: 5.425543  memory: 1654  loss: 0.052559  loss_kpt: 0.052559  acc_pose: 0.995536
+2023/06/04 20:05:29 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:05:29 - mmengine - INFO - Epoch(train) [216][6/6]  lr: 2.462537e-03  eta: 0:46:20  time: 5.392211  data_time: 5.332807  memory: 594  loss: 0.051694  loss_kpt: 0.051694  acc_pose: 0.988095
+2023/06/04 20:05:35 - mmengine - INFO - Epoch(train) [217][1/6]  lr: 2.456024e-03  eta: 0:46:14  time: 5.385007  data_time: 5.325528  memory: 1654  loss: 0.051796  loss_kpt: 0.051796  acc_pose: 0.995536
+2023/06/04 20:05:41 - mmengine - INFO - Epoch(train) [217][2/6]  lr: 2.449508e-03  eta: 0:46:09  time: 5.477106  data_time: 5.417401  memory: 1654  loss: 0.052773  loss_kpt: 0.052773  acc_pose: 0.994048
+2023/06/04 20:05:47 - mmengine - INFO - Epoch(train) [217][3/6]  lr: 2.442986e-03  eta: 0:46:04  time: 5.473863  data_time: 5.414080  memory: 1654  loss: 0.052744  loss_kpt: 0.052744  acc_pose: 0.997024
+2023/06/04 20:05:54 - mmengine - INFO - Epoch(train) [217][4/6]  lr: 2.436461e-03  eta: 0:45:59  time: 5.482872  data_time: 5.423096  memory: 1654  loss: 0.052608  loss_kpt: 0.052608  acc_pose: 0.983631
+2023/06/04 20:06:00 - mmengine - INFO - Epoch(train) [217][5/6]  lr: 2.429932e-03  eta: 0:45:53  time: 5.475408  data_time: 5.415545  memory: 1654  loss: 0.052491  loss_kpt: 0.052491  acc_pose: 0.995536
+2023/06/04 20:06:01 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:06:01 - mmengine - INFO - Epoch(train) [217][6/6]  lr: 2.423398e-03  eta: 0:45:46  time: 5.383267  data_time: 5.323634  memory: 594  loss: 0.051425  loss_kpt: 0.051425  acc_pose: 1.000000
+2023/06/04 20:06:07 - mmengine - INFO - Epoch(train) [218][1/6]  lr: 2.416861e-03  eta: 0:45:41  time: 5.388101  data_time: 5.328770  memory: 1654  loss: 0.051522  loss_kpt: 0.051522  acc_pose: 0.987996
+2023/06/04 20:06:13 - mmengine - INFO - Epoch(train) [218][2/6]  lr: 2.410319e-03  eta: 0:45:36  time: 5.480833  data_time: 5.421353  memory: 1654  loss: 0.052446  loss_kpt: 0.052446  acc_pose: 0.994048
+2023/06/04 20:06:19 - mmengine - INFO - Epoch(train) [218][3/6]  lr: 2.403774e-03  eta: 0:45:30  time: 5.482011  data_time: 5.422783  memory: 1654  loss: 0.052410  loss_kpt: 0.052410  acc_pose: 0.991071
+2023/06/04 20:06:25 - mmengine - INFO - Epoch(train) [218][4/6]  lr: 2.397225e-03  eta: 0:45:25  time: 5.462577  data_time: 5.403670  memory: 1654  loss: 0.052323  loss_kpt: 0.052323  acc_pose: 0.994048
+2023/06/04 20:06:31 - mmengine - INFO - Epoch(train) [218][5/6]  lr: 2.390673e-03  eta: 0:45:20  time: 5.462012  data_time: 5.402865  memory: 1654  loss: 0.052404  loss_kpt: 0.052404  acc_pose: 0.992512
+2023/06/04 20:06:33 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:06:33 - mmengine - INFO - Epoch(train) [218][6/6]  lr: 2.384117e-03  eta: 0:45:13  time: 5.372893  data_time: 5.314058  memory: 594  loss: 0.051545  loss_kpt: 0.051545  acc_pose: 0.988095
+2023/06/04 20:06:40 - mmengine - INFO - Epoch(train) [219][1/6]  lr: 2.377558e-03  eta: 0:45:08  time: 5.380595  data_time: 5.321890  memory: 1654  loss: 0.051523  loss_kpt: 0.051523  acc_pose: 0.995536
+2023/06/04 20:06:46 - mmengine - INFO - Epoch(train) [219][2/6]  lr: 2.370995e-03  eta: 0:45:03  time: 5.484942  data_time: 5.425917  memory: 1654  loss: 0.052419  loss_kpt: 0.052419  acc_pose: 0.992560
+2023/06/04 20:06:53 - mmengine - INFO - Epoch(train) [219][3/6]  lr: 2.364429e-03  eta: 0:44:57  time: 5.491133  data_time: 5.431715  memory: 1654  loss: 0.052513  loss_kpt: 0.052513  acc_pose: 1.000000
+2023/06/04 20:06:59 - mmengine - INFO - Epoch(train) [219][4/6]  lr: 2.357860e-03  eta: 0:44:52  time: 5.502807  data_time: 5.443387  memory: 1654  loss: 0.052430  loss_kpt: 0.052430  acc_pose: 0.997024
+2023/06/04 20:07:05 - mmengine - INFO - Epoch(train) [219][5/6]  lr: 2.351287e-03  eta: 0:44:47  time: 5.490825  data_time: 5.431278  memory: 1654  loss: 0.052191  loss_kpt: 0.052191  acc_pose: 0.998512
+2023/06/04 20:07:06 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:07:06 - mmengine - INFO - Epoch(train) [219][6/6]  lr: 2.344712e-03  eta: 0:44:40  time: 5.410926  data_time: 5.351464  memory: 594  loss: 0.051220  loss_kpt: 0.051220  acc_pose: 0.994048
+2023/06/04 20:07:12 - mmengine - INFO - Epoch(train) [220][1/6]  lr: 2.338133e-03  eta: 0:44:34  time: 5.407110  data_time: 5.347535  memory: 1654  loss: 0.051106  loss_kpt: 0.051106  acc_pose: 0.995536
+2023/06/04 20:07:19 - mmengine - INFO - Epoch(train) [220][2/6]  lr: 2.331552e-03  eta: 0:44:29  time: 5.506256  data_time: 5.446754  memory: 1654  loss: 0.051846  loss_kpt: 0.051846  acc_pose: 0.995536
+2023/06/04 20:07:25 - mmengine - INFO - Epoch(train) [220][3/6]  lr: 2.324968e-03  eta: 0:44:24  time: 5.511256  data_time: 5.451636  memory: 1654  loss: 0.052032  loss_kpt: 0.052032  acc_pose: 0.991071
+2023/06/04 20:07:31 - mmengine - INFO - Epoch(train) [220][4/6]  lr: 2.318381e-03  eta: 0:44:19  time: 5.511948  data_time: 5.452427  memory: 1654  loss: 0.051829  loss_kpt: 0.051829  acc_pose: 0.992512
+2023/06/04 20:07:37 - mmengine - INFO - Epoch(train) [220][5/6]  lr: 2.311791e-03  eta: 0:44:13  time: 5.516403  data_time: 5.456530  memory: 1654  loss: 0.051680  loss_kpt: 0.051680  acc_pose: 0.998512
+2023/06/04 20:07:39 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:07:39 - mmengine - INFO - Epoch(train) [220][6/6]  lr: 2.305199e-03  eta: 0:44:06  time: 5.421132  data_time: 5.361861  memory: 594  loss: 0.050754  loss_kpt: 0.050754  acc_pose: 0.994048
+2023/06/04 20:07:39 - mmengine - INFO - Saving checkpoint at 220 epochs
+2023/06/04 20:07:45 - mmengine - INFO - Epoch(val) [220][1/6]    eta: 0:00:06  time: 1.084729  data_time: 1.064246  memory: 293  
+2023/06/04 20:07:46 - mmengine - INFO - Epoch(val) [220][2/6]    eta: 0:00:05  time: 1.103615  data_time: 1.082956  memory: 293  
+2023/06/04 20:07:47 - mmengine - INFO - Epoch(val) [220][3/6]    eta: 0:00:03  time: 1.101432  data_time: 1.080785  memory: 293  
+2023/06/04 20:07:49 - mmengine - INFO - Epoch(val) [220][4/6]    eta: 0:00:02  time: 1.100858  data_time: 1.080199  memory: 293  
+2023/06/04 20:07:50 - mmengine - INFO - Epoch(val) [220][5/6]    eta: 0:00:01  time: 1.101488  data_time: 1.080799  memory: 293  
+2023/06/04 20:07:50 - mmengine - INFO - Epoch(val) [220][6/6]    eta: 0:00:00  time: 1.083621  data_time: 1.062942  memory: 247  
+2023/06/04 20:07:50 - mmengine - INFO - Evaluating CocoMetric...
+2023/06/04 20:07:50 - mmengine - INFO - Evaluating PCKAccuracy (normalized by ``"bbox_size"``)...
+2023/06/04 20:07:50 - mmengine - INFO - Evaluating AUC...
+2023/06/04 20:07:50 - mmengine - INFO - Evaluating NME...
+2023/06/04 20:07:50 - mmengine - INFO - Epoch(val) [220][6/6]  coco/AP: 0.693165  coco/AP .5: 1.000000  coco/AP .75: 0.915003  coco/AP (M): -1.000000  coco/AP (L): 0.693165  coco/AR: 0.740476  coco/AR .5: 1.000000  coco/AR .75: 0.928571  coco/AR (M): -1.000000  coco/AR (L): 0.740476  PCK: 0.968254  AUC: 0.120238  NME: 0.043490  data_time: 1.062942  time: 1.083621
+2023/06/04 20:07:50 - mmengine - INFO - The previous best checkpoint /home/zeyuan.yin/OpenMMLabCamp/homework-1/code/mmpose/work_dirs/rtmpose-s-ear/best_PCK_epoch_200.pth is removed
+2023/06/04 20:07:55 - mmengine - INFO - The best checkpoint with 0.9683 PCK at 220 epoch is saved to best_PCK_epoch_220.pth.
+2023/06/04 20:08:01 - mmengine - INFO - Epoch(train) [221][1/6]  lr: 2.298604e-03  eta: 0:44:01  time: 5.407823  data_time: 5.348384  memory: 1654  loss: 0.050625  loss_kpt: 0.050625  acc_pose: 0.991071
+2023/06/04 20:08:07 - mmengine - INFO - Epoch(train) [221][2/6]  lr: 2.292007e-03  eta: 0:43:56  time: 5.505272  data_time: 5.445539  memory: 1654  loss: 0.051435  loss_kpt: 0.051435  acc_pose: 0.989583
+2023/06/04 20:08:14 - mmengine - INFO - Epoch(train) [221][3/6]  lr: 2.285408e-03  eta: 0:43:51  time: 5.501064  data_time: 5.440981  memory: 1654  loss: 0.051301  loss_kpt: 0.051301  acc_pose: 0.995488
+2023/06/04 20:08:19 - mmengine - INFO - Epoch(train) [221][4/6]  lr: 2.278806e-03  eta: 0:43:45  time: 5.487362  data_time: 5.427750  memory: 1654  loss: 0.051205  loss_kpt: 0.051205  acc_pose: 0.992560
+2023/06/04 20:08:26 - mmengine - INFO - Epoch(train) [221][5/6]  lr: 2.272202e-03  eta: 0:43:40  time: 5.488335  data_time: 5.428684  memory: 1654  loss: 0.051008  loss_kpt: 0.051008  acc_pose: 0.992560
+2023/06/04 20:08:27 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:08:27 - mmengine - INFO - Epoch(train) [221][6/6]  lr: 2.265596e-03  eta: 0:43:33  time: 5.395176  data_time: 5.335663  memory: 594  loss: 0.050046  loss_kpt: 0.050046  acc_pose: 1.000000
+2023/06/04 20:08:33 - mmengine - INFO - Epoch(train) [222][1/6]  lr: 2.258988e-03  eta: 0:43:28  time: 5.396710  data_time: 5.336970  memory: 1654  loss: 0.050215  loss_kpt: 0.050215  acc_pose: 0.991071
+2023/06/04 20:08:40 - mmengine - INFO - Epoch(train) [222][2/6]  lr: 2.252378e-03  eta: 0:43:23  time: 5.494725  data_time: 5.434716  memory: 1654  loss: 0.051030  loss_kpt: 0.051030  acc_pose: 0.995536
+2023/06/04 20:08:46 - mmengine - INFO - Epoch(train) [222][3/6]  lr: 2.245766e-03  eta: 0:43:17  time: 5.478984  data_time: 5.418583  memory: 1654  loss: 0.050906  loss_kpt: 0.050906  acc_pose: 0.998512
+2023/06/04 20:08:52 - mmengine - INFO - Epoch(train) [222][4/6]  lr: 2.239153e-03  eta: 0:43:12  time: 5.465473  data_time: 5.405058  memory: 1654  loss: 0.050989  loss_kpt: 0.050989  acc_pose: 0.989535
+2023/06/04 20:08:58 - mmengine - INFO - Epoch(train) [222][5/6]  lr: 2.232537e-03  eta: 0:43:07  time: 5.471840  data_time: 5.411323  memory: 1654  loss: 0.050934  loss_kpt: 0.050934  acc_pose: 0.992560
+2023/06/04 20:09:00 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:09:00 - mmengine - INFO - Epoch(train) [222][6/6]  lr: 2.225920e-03  eta: 0:43:00  time: 5.370462  data_time: 5.310557  memory: 594  loss: 0.049833  loss_kpt: 0.049833  acc_pose: 0.994048
+2023/06/04 20:09:06 - mmengine - INFO - Epoch(train) [223][1/6]  lr: 2.219302e-03  eta: 0:42:55  time: 5.379643  data_time: 5.319521  memory: 1654  loss: 0.049790  loss_kpt: 0.049790  acc_pose: 0.997024
+2023/06/04 20:09:13 - mmengine - INFO - Epoch(train) [223][2/6]  lr: 2.212682e-03  eta: 0:42:50  time: 5.475126  data_time: 5.414756  memory: 1654  loss: 0.050753  loss_kpt: 0.050753  acc_pose: 0.988095
+2023/06/04 20:09:19 - mmengine - INFO - Epoch(train) [223][3/6]  lr: 2.206061e-03  eta: 0:42:44  time: 5.476762  data_time: 5.416715  memory: 1654  loss: 0.050695  loss_kpt: 0.050695  acc_pose: 0.998512
+2023/06/04 20:09:25 - mmengine - INFO - Epoch(train) [223][4/6]  lr: 2.199438e-03  eta: 0:42:39  time: 5.472727  data_time: 5.412940  memory: 1654  loss: 0.050580  loss_kpt: 0.050580  acc_pose: 0.989583
+2023/06/04 20:09:32 - mmengine - INFO - Epoch(train) [223][5/6]  lr: 2.192815e-03  eta: 0:42:34  time: 5.482880  data_time: 5.423554  memory: 1654  loss: 0.050792  loss_kpt: 0.050792  acc_pose: 0.998512
+2023/06/04 20:09:33 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:09:33 - mmengine - INFO - Epoch(train) [223][6/6]  lr: 2.186190e-03  eta: 0:42:27  time: 5.396443  data_time: 5.337489  memory: 594  loss: 0.050022  loss_kpt: 0.050022  acc_pose: 0.988095
+2023/06/04 20:09:40 - mmengine - INFO - Epoch(train) [224][1/6]  lr: 2.179564e-03  eta: 0:42:22  time: 5.410856  data_time: 5.351934  memory: 1654  loss: 0.050242  loss_kpt: 0.050242  acc_pose: 0.994000
+2023/06/04 20:09:46 - mmengine - INFO - Epoch(train) [224][2/6]  lr: 2.172937e-03  eta: 0:42:17  time: 5.514390  data_time: 5.455338  memory: 1654  loss: 0.050941  loss_kpt: 0.050941  acc_pose: 0.991023
+2023/06/04 20:09:52 - mmengine - INFO - Epoch(train) [224][3/6]  lr: 2.166309e-03  eta: 0:42:11  time: 5.511146  data_time: 5.452348  memory: 1654  loss: 0.050859  loss_kpt: 0.050859  acc_pose: 0.992512
+2023/06/04 20:09:59 - mmengine - INFO - Epoch(train) [224][4/6]  lr: 2.159680e-03  eta: 0:42:06  time: 5.502484  data_time: 5.444426  memory: 1654  loss: 0.050916  loss_kpt: 0.050916  acc_pose: 0.995536
+2023/06/04 20:10:05 - mmengine - INFO - Epoch(train) [224][5/6]  lr: 2.153051e-03  eta: 0:42:01  time: 5.501719  data_time: 5.443575  memory: 1654  loss: 0.051039  loss_kpt: 0.051039  acc_pose: 0.988095
+2023/06/04 20:10:06 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:10:06 - mmengine - INFO - Epoch(train) [224][6/6]  lr: 2.146421e-03  eta: 0:41:54  time: 5.400602  data_time: 5.342858  memory: 594  loss: 0.050147  loss_kpt: 0.050147  acc_pose: 0.994048
+2023/06/04 20:10:13 - mmengine - INFO - Epoch(train) [225][1/6]  lr: 2.139791e-03  eta: 0:41:49  time: 5.403830  data_time: 5.345902  memory: 1654  loss: 0.050375  loss_kpt: 0.050375  acc_pose: 0.992560
+2023/06/04 20:10:19 - mmengine - INFO - Epoch(train) [225][2/6]  lr: 2.133160e-03  eta: 0:41:43  time: 5.492052  data_time: 5.433920  memory: 1654  loss: 0.051151  loss_kpt: 0.051151  acc_pose: 0.992560
+2023/06/04 20:10:25 - mmengine - INFO - Epoch(train) [225][3/6]  lr: 2.126528e-03  eta: 0:41:38  time: 5.487958  data_time: 5.429971  memory: 1654  loss: 0.051053  loss_kpt: 0.051053  acc_pose: 0.995536
+2023/06/04 20:10:32 - mmengine - INFO - Epoch(train) [225][4/6]  lr: 2.119896e-03  eta: 0:41:33  time: 5.492369  data_time: 5.434218  memory: 1654  loss: 0.051072  loss_kpt: 0.051072  acc_pose: 0.986607
+2023/06/04 20:10:38 - mmengine - INFO - Epoch(train) [225][5/6]  lr: 2.113264e-03  eta: 0:41:28  time: 5.505054  data_time: 5.446849  memory: 1654  loss: 0.051111  loss_kpt: 0.051111  acc_pose: 0.997024
+2023/06/04 20:10:40 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:10:40 - mmengine - INFO - Epoch(train) [225][6/6]  lr: 2.106632e-03  eta: 0:41:21  time: 5.403599  data_time: 5.345718  memory: 594  loss: 0.050150  loss_kpt: 0.050150  acc_pose: 0.994048
+2023/06/04 20:10:46 - mmengine - INFO - Epoch(train) [226][1/6]  lr: 2.100000e-03  eta: 0:41:16  time: 5.415201  data_time: 5.357332  memory: 1654  loss: 0.050219  loss_kpt: 0.050219  acc_pose: 0.991071
+2023/06/04 20:10:52 - mmengine - INFO - Epoch(train) [226][2/6]  lr: 2.093368e-03  eta: 0:41:10  time: 5.506569  data_time: 5.448367  memory: 1654  loss: 0.051135  loss_kpt: 0.051135  acc_pose: 0.998512
+2023/06/04 20:10:58 - mmengine - INFO - Epoch(train) [226][3/6]  lr: 2.086736e-03  eta: 0:41:05  time: 5.507607  data_time: 5.449129  memory: 1654  loss: 0.051106  loss_kpt: 0.051106  acc_pose: 0.986607
+2023/06/04 20:11:04 - mmengine - INFO - Epoch(train) [226][4/6]  lr: 2.080104e-03  eta: 0:41:00  time: 5.506139  data_time: 5.447781  memory: 1654  loss: 0.050836  loss_kpt: 0.050836  acc_pose: 0.995536
+2023/06/04 20:11:11 - mmengine - INFO - Epoch(train) [226][5/6]  lr: 2.073472e-03  eta: 0:40:54  time: 5.514960  data_time: 5.456373  memory: 1654  loss: 0.050614  loss_kpt: 0.050614  acc_pose: 1.000000
+2023/06/04 20:11:12 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:11:12 - mmengine - INFO - Epoch(train) [226][6/6]  lr: 2.066840e-03  eta: 0:40:48  time: 5.424398  data_time: 5.365846  memory: 594  loss: 0.049816  loss_kpt: 0.049816  acc_pose: 1.000000
+2023/06/04 20:11:18 - mmengine - INFO - Epoch(train) [227][1/6]  lr: 2.060209e-03  eta: 0:40:42  time: 5.420657  data_time: 5.362633  memory: 1654  loss: 0.049778  loss_kpt: 0.049778  acc_pose: 0.997024
+2023/06/04 20:11:25 - mmengine - INFO - Epoch(train) [227][2/6]  lr: 2.053579e-03  eta: 0:40:37  time: 5.522930  data_time: 5.464733  memory: 1654  loss: 0.050416  loss_kpt: 0.050416  acc_pose: 1.000000
+2023/06/04 20:11:31 - mmengine - INFO - Epoch(train) [227][3/6]  lr: 2.046949e-03  eta: 0:40:32  time: 5.517578  data_time: 5.459195  memory: 1654  loss: 0.050238  loss_kpt: 0.050238  acc_pose: 0.998512
+2023/06/04 20:11:38 - mmengine - INFO - Epoch(train) [227][4/6]  lr: 2.040320e-03  eta: 0:40:27  time: 5.517958  data_time: 5.459788  memory: 1654  loss: 0.050041  loss_kpt: 0.050041  acc_pose: 1.000000
+2023/06/04 20:11:44 - mmengine - INFO - Epoch(train) [227][5/6]  lr: 2.033691e-03  eta: 0:40:21  time: 5.510635  data_time: 5.452674  memory: 1654  loss: 0.049916  loss_kpt: 0.049916  acc_pose: 0.995536
+2023/06/04 20:11:46 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:11:46 - mmengine - INFO - Epoch(train) [227][6/6]  lr: 2.027063e-03  eta: 0:40:15  time: 5.414066  data_time: 5.356199  memory: 594  loss: 0.049222  loss_kpt: 0.049222  acc_pose: 0.994048
+2023/06/04 20:11:52 - mmengine - INFO - Epoch(train) [228][1/6]  lr: 2.020436e-03  eta: 0:40:09  time: 5.428166  data_time: 5.370332  memory: 1654  loss: 0.049334  loss_kpt: 0.049334  acc_pose: 0.991071
+2023/06/04 20:11:58 - mmengine - INFO - Epoch(train) [228][2/6]  lr: 2.013810e-03  eta: 0:40:04  time: 5.518683  data_time: 5.460533  memory: 1654  loss: 0.050203  loss_kpt: 0.050203  acc_pose: 0.997024
+2023/06/04 20:12:04 - mmengine - INFO - Epoch(train) [228][3/6]  lr: 2.007185e-03  eta: 0:39:59  time: 5.525328  data_time: 5.467152  memory: 1654  loss: 0.050176  loss_kpt: 0.050176  acc_pose: 0.992512
+2023/06/04 20:12:10 - mmengine - INFO - Epoch(train) [228][4/6]  lr: 2.000562e-03  eta: 0:39:53  time: 5.509035  data_time: 5.450558  memory: 1654  loss: 0.050137  loss_kpt: 0.050137  acc_pose: 0.998512
+2023/06/04 20:12:16 - mmengine - INFO - Epoch(train) [228][5/6]  lr: 1.993939e-03  eta: 0:39:48  time: 5.509110  data_time: 5.450865  memory: 1654  loss: 0.049977  loss_kpt: 0.049977  acc_pose: 0.998512
+2023/06/04 20:12:18 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:12:18 - mmengine - INFO - Epoch(train) [228][6/6]  lr: 1.987318e-03  eta: 0:39:41  time: 5.418429  data_time: 5.360235  memory: 594  loss: 0.049227  loss_kpt: 0.049227  acc_pose: 0.994048
+2023/06/04 20:12:24 - mmengine - INFO - Epoch(train) [229][1/6]  lr: 1.980698e-03  eta: 0:39:36  time: 5.408509  data_time: 5.350395  memory: 1654  loss: 0.049230  loss_kpt: 0.049230  acc_pose: 0.995536
+2023/06/04 20:12:30 - mmengine - INFO - Epoch(train) [229][2/6]  lr: 1.974080e-03  eta: 0:39:31  time: 5.506750  data_time: 5.448454  memory: 1654  loss: 0.049959  loss_kpt: 0.049959  acc_pose: 1.000000
+2023/06/04 20:12:37 - mmengine - INFO - Epoch(train) [229][3/6]  lr: 1.967463e-03  eta: 0:39:25  time: 5.521061  data_time: 5.462572  memory: 1654  loss: 0.049710  loss_kpt: 0.049710  acc_pose: 0.997024
+2023/06/04 20:12:43 - mmengine - INFO - Epoch(train) [229][4/6]  lr: 1.960847e-03  eta: 0:39:20  time: 5.522897  data_time: 5.464274  memory: 1654  loss: 0.049573  loss_kpt: 0.049573  acc_pose: 0.995488
+2023/06/04 20:12:50 - mmengine - INFO - Epoch(train) [229][5/6]  lr: 1.954234e-03  eta: 0:39:15  time: 5.518531  data_time: 5.460035  memory: 1654  loss: 0.049535  loss_kpt: 0.049535  acc_pose: 0.995536
+2023/06/04 20:12:51 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:12:51 - mmengine - INFO - Epoch(train) [229][6/6]  lr: 1.947622e-03  eta: 0:39:08  time: 5.436162  data_time: 5.377735  memory: 594  loss: 0.048595  loss_kpt: 0.048595  acc_pose: 0.994048
+2023/06/04 20:12:58 - mmengine - INFO - Epoch(train) [230][1/6]  lr: 1.941012e-03  eta: 0:39:03  time: 5.437941  data_time: 5.379686  memory: 1654  loss: 0.048591  loss_kpt: 0.048591  acc_pose: 0.998512
+2023/06/04 20:13:04 - mmengine - INFO - Epoch(train) [230][2/6]  lr: 1.934404e-03  eta: 0:38:58  time: 5.532647  data_time: 5.474269  memory: 1654  loss: 0.049335  loss_kpt: 0.049335  acc_pose: 0.998512
+2023/06/04 20:13:10 - mmengine - INFO - Epoch(train) [230][3/6]  lr: 1.927798e-03  eta: 0:38:53  time: 5.534631  data_time: 5.476145  memory: 1654  loss: 0.049004  loss_kpt: 0.049004  acc_pose: 0.998512
+2023/06/04 20:13:17 - mmengine - INFO - Epoch(train) [230][4/6]  lr: 1.921194e-03  eta: 0:38:47  time: 5.540371  data_time: 5.482202  memory: 1654  loss: 0.048965  loss_kpt: 0.048965  acc_pose: 0.992464
+2023/06/04 20:13:23 - mmengine - INFO - Epoch(train) [230][5/6]  lr: 1.914592e-03  eta: 0:38:42  time: 5.540374  data_time: 5.482356  memory: 1654  loss: 0.048896  loss_kpt: 0.048896  acc_pose: 0.995536
+2023/06/04 20:13:24 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:13:24 - mmengine - INFO - Epoch(train) [230][6/6]  lr: 1.907993e-03  eta: 0:38:35  time: 5.449767  data_time: 5.391690  memory: 594  loss: 0.047972  loss_kpt: 0.047972  acc_pose: 0.994048
+2023/06/04 20:13:24 - mmengine - INFO - Saving checkpoint at 230 epochs
+2023/06/04 20:13:31 - mmengine - INFO - Epoch(val) [230][1/6]    eta: 0:00:06  time: 1.085081  data_time: 1.064343  memory: 293  
+2023/06/04 20:13:32 - mmengine - INFO - Epoch(val) [230][2/6]    eta: 0:00:05  time: 1.104020  data_time: 1.083134  memory: 293  
+2023/06/04 20:13:33 - mmengine - INFO - Epoch(val) [230][3/6]    eta: 0:00:03  time: 1.101772  data_time: 1.080958  memory: 293  
+2023/06/04 20:13:34 - mmengine - INFO - Epoch(val) [230][4/6]    eta: 0:00:02  time: 1.101128  data_time: 1.080399  memory: 293  
+2023/06/04 20:13:36 - mmengine - INFO - Epoch(val) [230][5/6]    eta: 0:00:01  time: 1.102472  data_time: 1.081744  memory: 293  
+2023/06/04 20:13:36 - mmengine - INFO - Epoch(val) [230][6/6]    eta: 0:00:00  time: 1.084617  data_time: 1.063923  memory: 247  
+2023/06/04 20:13:36 - mmengine - INFO - Evaluating CocoMetric...
+2023/06/04 20:13:36 - mmengine - INFO - Evaluating PCKAccuracy (normalized by ``"bbox_size"``)...
+2023/06/04 20:13:36 - mmengine - INFO - Evaluating AUC...
+2023/06/04 20:13:36 - mmengine - INFO - Evaluating NME...
+2023/06/04 20:13:36 - mmengine - INFO - Epoch(val) [230][6/6]  coco/AP: 0.723642  coco/AP .5: 1.000000  coco/AP .75: 0.948091  coco/AP (M): -1.000000  coco/AP (L): 0.723642  coco/AR: 0.766667  coco/AR .5: 1.000000  coco/AR .75: 0.952381  coco/AR (M): -1.000000  coco/AR (L): 0.766667  PCK: 0.965986  AUC: 0.126814  NME: 0.041315  data_time: 1.063923  time: 1.084617
+2023/06/04 20:13:42 - mmengine - INFO - Epoch(train) [231][1/6]  lr: 1.901396e-03  eta: 0:38:30  time: 5.448348  data_time: 5.390392  memory: 1654  loss: 0.047724  loss_kpt: 0.047724  acc_pose: 0.995536
+2023/06/04 20:13:49 - mmengine - INFO - Epoch(train) [231][2/6]  lr: 1.894801e-03  eta: 0:38:25  time: 5.552036  data_time: 5.493986  memory: 1654  loss: 0.048710  loss_kpt: 0.048710  acc_pose: 0.997024
+2023/06/04 20:13:55 - mmengine - INFO - Epoch(train) [231][3/6]  lr: 1.888209e-03  eta: 0:38:20  time: 5.547288  data_time: 5.489409  memory: 1654  loss: 0.048744  loss_kpt: 0.048744  acc_pose: 0.996976
+2023/06/04 20:14:01 - mmengine - INFO - Epoch(train) [231][4/6]  lr: 1.881619e-03  eta: 0:38:14  time: 5.543324  data_time: 5.484751  memory: 1654  loss: 0.048707  loss_kpt: 0.048707  acc_pose: 0.992560
+2023/06/04 20:14:07 - mmengine - INFO - Epoch(train) [231][5/6]  lr: 1.875032e-03  eta: 0:38:09  time: 5.539778  data_time: 5.480947  memory: 1654  loss: 0.048549  loss_kpt: 0.048549  acc_pose: 1.000000
+2023/06/04 20:14:09 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:14:09 - mmengine - INFO - Epoch(train) [231][6/6]  lr: 1.868448e-03  eta: 0:38:02  time: 5.439224  data_time: 5.380470  memory: 594  loss: 0.047645  loss_kpt: 0.047645  acc_pose: 1.000000
+2023/06/04 20:14:15 - mmengine - INFO - Epoch(train) [232][1/6]  lr: 1.861867e-03  eta: 0:37:57  time: 5.435951  data_time: 5.376645  memory: 1654  loss: 0.047468  loss_kpt: 0.047468  acc_pose: 0.997024
+2023/06/04 20:14:22 - mmengine - INFO - Epoch(train) [232][2/6]  lr: 1.855288e-03  eta: 0:37:52  time: 5.539787  data_time: 5.479978  memory: 1654  loss: 0.048089  loss_kpt: 0.048089  acc_pose: 0.995536
+2023/06/04 20:14:28 - mmengine - INFO - Epoch(train) [232][3/6]  lr: 1.848713e-03  eta: 0:37:46  time: 5.536886  data_time: 5.477086  memory: 1654  loss: 0.047780  loss_kpt: 0.047780  acc_pose: 0.997024
+2023/06/04 20:14:35 - mmengine - INFO - Epoch(train) [232][4/6]  lr: 1.842140e-03  eta: 0:37:41  time: 5.536664  data_time: 5.476761  memory: 1654  loss: 0.047696  loss_kpt: 0.047696  acc_pose: 0.997024
+2023/06/04 20:14:41 - mmengine - INFO - Epoch(train) [232][5/6]  lr: 1.835571e-03  eta: 0:37:36  time: 5.533024  data_time: 5.472859  memory: 1654  loss: 0.047528  loss_kpt: 0.047528  acc_pose: 0.997024
+2023/06/04 20:14:42 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:14:42 - mmengine - INFO - Epoch(train) [232][6/6]  lr: 1.829005e-03  eta: 0:37:29  time: 5.442557  data_time: 5.382354  memory: 594  loss: 0.046676  loss_kpt: 0.046676  acc_pose: 1.000000
+2023/06/04 20:14:49 - mmengine - INFO - Epoch(train) [233][1/6]  lr: 1.822442e-03  eta: 0:37:24  time: 5.445176  data_time: 5.384882  memory: 1654  loss: 0.046316  loss_kpt: 0.046316  acc_pose: 0.998512
+2023/06/04 20:14:56 - mmengine - INFO - Epoch(train) [233][2/6]  lr: 1.815883e-03  eta: 0:37:19  time: 5.556276  data_time: 5.495735  memory: 1654  loss: 0.046932  loss_kpt: 0.046932  acc_pose: 0.998512
+2023/06/04 20:15:02 - mmengine - INFO - Epoch(train) [233][3/6]  lr: 1.809327e-03  eta: 0:37:14  time: 5.555722  data_time: 5.494916  memory: 1654  loss: 0.046593  loss_kpt: 0.046593  acc_pose: 0.992560
+2023/06/04 20:15:09 - mmengine - INFO - Epoch(train) [233][4/6]  lr: 1.802775e-03  eta: 0:37:08  time: 5.558030  data_time: 5.497239  memory: 1654  loss: 0.046412  loss_kpt: 0.046412  acc_pose: 0.998512
+2023/06/04 20:15:15 - mmengine - INFO - Epoch(train) [233][5/6]  lr: 1.796226e-03  eta: 0:37:03  time: 5.563031  data_time: 5.501873  memory: 1654  loss: 0.046204  loss_kpt: 0.046204  acc_pose: 0.998512
+2023/06/04 20:15:16 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:15:16 - mmengine - INFO - Epoch(train) [233][6/6]  lr: 1.789681e-03  eta: 0:36:56  time: 5.465598  data_time: 5.404732  memory: 594  loss: 0.045278  loss_kpt: 0.045278  acc_pose: 0.964286
+2023/06/04 20:15:23 - mmengine - INFO - Epoch(train) [234][1/6]  lr: 1.783139e-03  eta: 0:36:51  time: 5.456497  data_time: 5.395211  memory: 1654  loss: 0.045010  loss_kpt: 0.045010  acc_pose: 0.992560
+2023/06/04 20:15:29 - mmengine - INFO - Epoch(train) [234][2/6]  lr: 1.776602e-03  eta: 0:36:46  time: 5.559213  data_time: 5.497552  memory: 1654  loss: 0.045663  loss_kpt: 0.045663  acc_pose: 0.998512
+2023/06/04 20:15:35 - mmengine - INFO - Epoch(train) [234][3/6]  lr: 1.770068e-03  eta: 0:36:40  time: 5.551247  data_time: 5.489449  memory: 1654  loss: 0.045436  loss_kpt: 0.045436  acc_pose: 0.997024
+2023/06/04 20:15:42 - mmengine - INFO - Epoch(train) [234][4/6]  lr: 1.763539e-03  eta: 0:36:35  time: 5.558231  data_time: 5.496802  memory: 1654  loss: 0.045222  loss_kpt: 0.045222  acc_pose: 0.998512
+2023/06/04 20:15:48 - mmengine - INFO - Epoch(train) [234][5/6]  lr: 1.757014e-03  eta: 0:36:30  time: 5.567782  data_time: 5.506667  memory: 1654  loss: 0.044995  loss_kpt: 0.044995  acc_pose: 0.991023
+2023/06/04 20:15:50 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:15:50 - mmengine - INFO - Epoch(train) [234][6/6]  lr: 1.750492e-03  eta: 0:36:23  time: 5.474570  data_time: 5.413389  memory: 594  loss: 0.044200  loss_kpt: 0.044200  acc_pose: 1.000000
+2023/06/04 20:15:56 - mmengine - INFO - Epoch(train) [235][1/6]  lr: 1.743976e-03  eta: 0:36:18  time: 5.478578  data_time: 5.417426  memory: 1654  loss: 0.044171  loss_kpt: 0.044171  acc_pose: 0.995488
+2023/06/04 20:16:02 - mmengine - INFO - Epoch(train) [235][2/6]  lr: 1.737463e-03  eta: 0:36:13  time: 5.569648  data_time: 5.508048  memory: 1654  loss: 0.044816  loss_kpt: 0.044816  acc_pose: 1.000000
+2023/06/04 20:16:08 - mmengine - INFO - Epoch(train) [235][3/6]  lr: 1.730955e-03  eta: 0:36:07  time: 5.564267  data_time: 5.502157  memory: 1654  loss: 0.044573  loss_kpt: 0.044573  acc_pose: 0.994048
+2023/06/04 20:16:15 - mmengine - INFO - Epoch(train) [235][4/6]  lr: 1.724451e-03  eta: 0:36:02  time: 5.561653  data_time: 5.499359  memory: 1654  loss: 0.044524  loss_kpt: 0.044524  acc_pose: 0.994048
+2023/06/04 20:16:20 - mmengine - INFO - Epoch(train) [235][5/6]  lr: 1.717952e-03  eta: 0:35:57  time: 5.551046  data_time: 5.488869  memory: 1654  loss: 0.044412  loss_kpt: 0.044412  acc_pose: 0.998512
+2023/06/04 20:16:22 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:16:22 - mmengine - INFO - Epoch(train) [235][6/6]  lr: 1.711458e-03  eta: 0:35:50  time: 5.451673  data_time: 5.389603  memory: 594  loss: 0.043664  loss_kpt: 0.043664  acc_pose: 1.000000
+2023/06/04 20:16:28 - mmengine - INFO - Epoch(train) [236][1/6]  lr: 1.704968e-03  eta: 0:35:45  time: 5.453987  data_time: 5.391845  memory: 1654  loss: 0.043741  loss_kpt: 0.043741  acc_pose: 0.988095
+2023/06/04 20:16:35 - mmengine - INFO - Epoch(train) [236][2/6]  lr: 1.698483e-03  eta: 0:35:39  time: 5.552582  data_time: 5.490310  memory: 1654  loss: 0.044420  loss_kpt: 0.044420  acc_pose: 0.992560
+2023/06/04 20:16:41 - mmengine - INFO - Epoch(train) [236][3/6]  lr: 1.692003e-03  eta: 0:35:34  time: 5.552244  data_time: 5.489917  memory: 1654  loss: 0.044270  loss_kpt: 0.044270  acc_pose: 0.998512
+2023/06/04 20:16:47 - mmengine - INFO - Epoch(train) [236][4/6]  lr: 1.685528e-03  eta: 0:35:29  time: 5.548072  data_time: 5.485769  memory: 1654  loss: 0.044074  loss_kpt: 0.044074  acc_pose: 0.995536
+2023/06/04 20:16:53 - mmengine - INFO - Epoch(train) [236][5/6]  lr: 1.679058e-03  eta: 0:35:24  time: 5.553212  data_time: 5.490788  memory: 1654  loss: 0.043879  loss_kpt: 0.043879  acc_pose: 0.992560
+2023/06/04 20:16:55 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:16:55 - mmengine - INFO - Epoch(train) [236][6/6]  lr: 1.672593e-03  eta: 0:35:17  time: 5.473583  data_time: 5.411385  memory: 594  loss: 0.043093  loss_kpt: 0.043093  acc_pose: 1.000000
+2023/06/04 20:17:02 - mmengine - INFO - Epoch(train) [237][1/6]  lr: 1.666133e-03  eta: 0:35:12  time: 5.488595  data_time: 5.426155  memory: 1654  loss: 0.043236  loss_kpt: 0.043236  acc_pose: 0.986607
+2023/06/04 20:17:09 - mmengine - INFO - Epoch(train) [237][2/6]  lr: 1.659679e-03  eta: 0:35:07  time: 5.589703  data_time: 5.526853  memory: 1654  loss: 0.043890  loss_kpt: 0.043890  acc_pose: 0.997024
+2023/06/04 20:17:15 - mmengine - INFO - Epoch(train) [237][3/6]  lr: 1.653230e-03  eta: 0:35:01  time: 5.598763  data_time: 5.535895  memory: 1654  loss: 0.043937  loss_kpt: 0.043937  acc_pose: 0.989583
+2023/06/04 20:17:21 - mmengine - INFO - Epoch(train) [237][4/6]  lr: 1.646786e-03  eta: 0:34:56  time: 5.596417  data_time: 5.533104  memory: 1654  loss: 0.043876  loss_kpt: 0.043876  acc_pose: 0.995536
+2023/06/04 20:17:28 - mmengine - INFO - Epoch(train) [237][5/6]  lr: 1.640348e-03  eta: 0:34:51  time: 5.596801  data_time: 5.533547  memory: 1654  loss: 0.043963  loss_kpt: 0.043963  acc_pose: 0.998512
+2023/06/04 20:17:29 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:17:29 - mmengine - INFO - Epoch(train) [237][6/6]  lr: 1.633916e-03  eta: 0:34:44  time: 5.492156  data_time: 5.429209  memory: 594  loss: 0.043168  loss_kpt: 0.043168  acc_pose: 1.000000
+2023/06/04 20:17:36 - mmengine - INFO - Epoch(train) [238][1/6]  lr: 1.627489e-03  eta: 0:34:39  time: 5.494103  data_time: 5.431172  memory: 1654  loss: 0.043069  loss_kpt: 0.043069  acc_pose: 0.998512
+2023/06/04 20:17:43 - mmengine - INFO - Epoch(train) [238][2/6]  lr: 1.621068e-03  eta: 0:34:34  time: 5.599727  data_time: 5.536517  memory: 1654  loss: 0.043909  loss_kpt: 0.043909  acc_pose: 0.992560
+2023/06/04 20:17:49 - mmengine - INFO - Epoch(train) [238][3/6]  lr: 1.614653e-03  eta: 0:34:28  time: 5.599017  data_time: 5.535773  memory: 1654  loss: 0.043842  loss_kpt: 0.043842  acc_pose: 0.998512
+2023/06/04 20:17:55 - mmengine - INFO - Epoch(train) [238][4/6]  lr: 1.608244e-03  eta: 0:34:23  time: 5.599888  data_time: 5.536529  memory: 1654  loss: 0.043894  loss_kpt: 0.043894  acc_pose: 0.995536
+2023/06/04 20:18:01 - mmengine - INFO - Epoch(train) [238][5/6]  lr: 1.601841e-03  eta: 0:34:18  time: 5.593901  data_time: 5.530771  memory: 1654  loss: 0.043888  loss_kpt: 0.043888  acc_pose: 0.995536
+2023/06/04 20:18:03 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:18:03 - mmengine - INFO - Epoch(train) [238][6/6]  lr: 1.595443e-03  eta: 0:34:11  time: 5.490795  data_time: 5.427607  memory: 594  loss: 0.043016  loss_kpt: 0.043016  acc_pose: 1.000000
+2023/06/04 20:18:09 - mmengine - INFO - Epoch(train) [239][1/6]  lr: 1.589052e-03  eta: 0:34:06  time: 5.496781  data_time: 5.433820  memory: 1654  loss: 0.043142  loss_kpt: 0.043142  acc_pose: 0.997024
+2023/06/04 20:18:16 - mmengine - INFO - Epoch(train) [239][2/6]  lr: 1.582668e-03  eta: 0:34:01  time: 5.592806  data_time: 5.529693  memory: 1654  loss: 0.043745  loss_kpt: 0.043745  acc_pose: 0.998512
+2023/06/04 20:18:22 - mmengine - INFO - Epoch(train) [239][3/6]  lr: 1.576289e-03  eta: 0:33:55  time: 5.584268  data_time: 5.521065  memory: 1654  loss: 0.043825  loss_kpt: 0.043825  acc_pose: 0.985119
+2023/06/04 20:18:28 - mmengine - INFO - Epoch(train) [239][4/6]  lr: 1.569917e-03  eta: 0:33:50  time: 5.578196  data_time: 5.514765  memory: 1654  loss: 0.043651  loss_kpt: 0.043651  acc_pose: 0.994048
+2023/06/04 20:18:34 - mmengine - INFO - Epoch(train) [239][5/6]  lr: 1.563551e-03  eta: 0:33:45  time: 5.580125  data_time: 5.516934  memory: 1654  loss: 0.043409  loss_kpt: 0.043409  acc_pose: 1.000000
+2023/06/04 20:18:36 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:18:36 - mmengine - INFO - Epoch(train) [239][6/6]  lr: 1.557192e-03  eta: 0:33:38  time: 5.488015  data_time: 5.425759  memory: 594  loss: 0.042430  loss_kpt: 0.042430  acc_pose: 0.994048
+2023/06/04 20:18:43 - mmengine - INFO - Epoch(train) [240][1/6]  lr: 1.550840e-03  eta: 0:33:33  time: 5.504076  data_time: 5.441863  memory: 1654  loss: 0.042367  loss_kpt: 0.042367  acc_pose: 0.998512
+2023/06/04 20:18:49 - mmengine - INFO - Epoch(train) [240][2/6]  lr: 1.544494e-03  eta: 0:33:28  time: 5.601846  data_time: 5.539298  memory: 1654  loss: 0.042898  loss_kpt: 0.042898  acc_pose: 1.000000
+2023/06/04 20:18:55 - mmengine - INFO - Epoch(train) [240][3/6]  lr: 1.538155e-03  eta: 0:33:22  time: 5.588063  data_time: 5.525897  memory: 1654  loss: 0.042820  loss_kpt: 0.042820  acc_pose: 0.994048
+2023/06/04 20:19:01 - mmengine - INFO - Epoch(train) [240][4/6]  lr: 1.531822e-03  eta: 0:33:17  time: 5.587752  data_time: 5.525606  memory: 1654  loss: 0.042885  loss_kpt: 0.042885  acc_pose: 0.998512
+2023/06/04 20:19:08 - mmengine - INFO - Epoch(train) [240][5/6]  lr: 1.525497e-03  eta: 0:33:12  time: 5.590583  data_time: 5.528515  memory: 1654  loss: 0.043024  loss_kpt: 0.043024  acc_pose: 0.997024
+2023/06/04 20:19:09 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:19:09 - mmengine - INFO - Epoch(train) [240][6/6]  lr: 1.519179e-03  eta: 0:33:05  time: 5.494925  data_time: 5.433039  memory: 594  loss: 0.042363  loss_kpt: 0.042363  acc_pose: 1.000000
+2023/06/04 20:19:09 - mmengine - INFO - Saving checkpoint at 240 epochs
+2023/06/04 20:19:16 - mmengine - INFO - Epoch(val) [240][1/6]    eta: 0:00:06  time: 1.085594  data_time: 1.064955  memory: 293  
+2023/06/04 20:19:17 - mmengine - INFO - Epoch(val) [240][2/6]    eta: 0:00:05  time: 1.104202  data_time: 1.083565  memory: 293  
+2023/06/04 20:19:18 - mmengine - INFO - Epoch(val) [240][3/6]    eta: 0:00:03  time: 1.102393  data_time: 1.081778  memory: 293  
+2023/06/04 20:19:19 - mmengine - INFO - Epoch(val) [240][4/6]    eta: 0:00:02  time: 1.101012  data_time: 1.080437  memory: 293  
+2023/06/04 20:19:20 - mmengine - INFO - Epoch(val) [240][5/6]    eta: 0:00:01  time: 1.101756  data_time: 1.081186  memory: 293  
+2023/06/04 20:19:21 - mmengine - INFO - Epoch(val) [240][6/6]    eta: 0:00:00  time: 1.083923  data_time: 1.063398  memory: 247  
+2023/06/04 20:19:21 - mmengine - INFO - Evaluating CocoMetric...
+2023/06/04 20:19:21 - mmengine - INFO - Evaluating PCKAccuracy (normalized by ``"bbox_size"``)...
+2023/06/04 20:19:21 - mmengine - INFO - Evaluating AUC...
+2023/06/04 20:19:21 - mmengine - INFO - Evaluating NME...
+2023/06/04 20:19:21 - mmengine - INFO - Epoch(val) [240][6/6]  coco/AP: 0.735880  coco/AP .5: 1.000000  coco/AP .75: 0.969826  coco/AP (M): -1.000000  coco/AP (L): 0.735880  coco/AR: 0.778571  coco/AR .5: 1.000000  coco/AR .75: 0.976190  coco/AR (M): -1.000000  coco/AR (L): 0.778571  PCK: 0.970522  AUC: 0.130499  NME: 0.040594  data_time: 1.063398  time: 1.083923
+2023/06/04 20:19:21 - mmengine - INFO - The previous best checkpoint /home/zeyuan.yin/OpenMMLabCamp/homework-1/code/mmpose/work_dirs/rtmpose-s-ear/best_PCK_epoch_220.pth is removed
+2023/06/04 20:19:25 - mmengine - INFO - The best checkpoint with 0.9705 PCK at 240 epoch is saved to best_PCK_epoch_240.pth.
+2023/06/04 20:19:32 - mmengine - INFO - Epoch(train) [241][1/6]  lr: 1.512868e-03  eta: 0:33:00  time: 5.502671  data_time: 5.440913  memory: 1654  loss: 0.042276  loss_kpt: 0.042276  acc_pose: 1.000000
+2023/06/04 20:19:38 - mmengine - INFO - Epoch(train) [241][2/6]  lr: 1.506564e-03  eta: 0:32:54  time: 5.591757  data_time: 5.529939  memory: 1654  loss: 0.042913  loss_kpt: 0.042913  acc_pose: 0.995536
+2023/06/04 20:19:44 - mmengine - INFO - Epoch(train) [241][3/6]  lr: 1.500267e-03  eta: 0:32:49  time: 5.588495  data_time: 5.526972  memory: 1654  loss: 0.042891  loss_kpt: 0.042891  acc_pose: 0.998512
+2023/06/04 20:19:51 - mmengine - INFO - Epoch(train) [241][4/6]  lr: 1.493977e-03  eta: 0:32:44  time: 5.578215  data_time: 5.516805  memory: 1654  loss: 0.042927  loss_kpt: 0.042927  acc_pose: 0.992560
+2023/06/04 20:19:57 - mmengine - INFO - Epoch(train) [241][5/6]  lr: 1.487695e-03  eta: 0:32:39  time: 5.574326  data_time: 5.513136  memory: 1654  loss: 0.042982  loss_kpt: 0.042982  acc_pose: 1.000000
+2023/06/04 20:19:59 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:19:59 - mmengine - INFO - Epoch(train) [241][6/6]  lr: 1.481421e-03  eta: 0:32:32  time: 5.484236  data_time: 5.423160  memory: 594  loss: 0.042280  loss_kpt: 0.042280  acc_pose: 0.994048
+2023/06/04 20:20:05 - mmengine - INFO - Epoch(train) [242][1/6]  lr: 1.475153e-03  eta: 0:32:27  time: 5.479503  data_time: 5.418462  memory: 1654  loss: 0.042164  loss_kpt: 0.042164  acc_pose: 0.998512
+2023/06/04 20:20:11 - mmengine - INFO - Epoch(train) [242][2/6]  lr: 1.468894e-03  eta: 0:32:21  time: 5.577359  data_time: 5.515829  memory: 1654  loss: 0.042850  loss_kpt: 0.042850  acc_pose: 0.989583
+2023/06/04 20:20:18 - mmengine - INFO - Epoch(train) [242][3/6]  lr: 1.462642e-03  eta: 0:32:16  time: 5.587358  data_time: 5.526214  memory: 1654  loss: 0.042958  loss_kpt: 0.042958  acc_pose: 0.992560
+2023/06/04 20:20:24 - mmengine - INFO - Epoch(train) [242][4/6]  lr: 1.456398e-03  eta: 0:32:11  time: 5.581192  data_time: 5.520043  memory: 1654  loss: 0.043014  loss_kpt: 0.043014  acc_pose: 0.997024
+2023/06/04 20:20:31 - mmengine - INFO - Epoch(train) [242][5/6]  lr: 1.450162e-03  eta: 0:32:06  time: 5.584496  data_time: 5.523187  memory: 1654  loss: 0.042988  loss_kpt: 0.042988  acc_pose: 0.997024
+2023/06/04 20:20:32 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:20:32 - mmengine - INFO - Epoch(train) [242][6/6]  lr: 1.443933e-03  eta: 0:31:59  time: 5.489107  data_time: 5.427743  memory: 594  loss: 0.042289  loss_kpt: 0.042289  acc_pose: 1.000000
+2023/06/04 20:20:39 - mmengine - INFO - Epoch(train) [243][1/6]  lr: 1.437713e-03  eta: 0:31:54  time: 5.487356  data_time: 5.425650  memory: 1654  loss: 0.042195  loss_kpt: 0.042195  acc_pose: 0.997024
+2023/06/04 20:20:44 - mmengine - INFO - Epoch(train) [243][2/6]  lr: 1.431501e-03  eta: 0:31:48  time: 5.573498  data_time: 5.511794  memory: 1654  loss: 0.042881  loss_kpt: 0.042881  acc_pose: 0.994048
+2023/06/04 20:20:51 - mmengine - INFO - Epoch(train) [243][3/6]  lr: 1.425297e-03  eta: 0:31:43  time: 5.572051  data_time: 5.510223  memory: 1654  loss: 0.042906  loss_kpt: 0.042906  acc_pose: 0.998512
+2023/06/04 20:20:58 - mmengine - INFO - Epoch(train) [243][4/6]  lr: 1.419101e-03  eta: 0:31:38  time: 5.589819  data_time: 5.528125  memory: 1654  loss: 0.042948  loss_kpt: 0.042948  acc_pose: 0.992560
+2023/06/04 20:21:04 - mmengine - INFO - Epoch(train) [243][5/6]  lr: 1.412913e-03  eta: 0:31:32  time: 5.600010  data_time: 5.538432  memory: 1654  loss: 0.043006  loss_kpt: 0.043006  acc_pose: 1.000000
+2023/06/04 20:21:05 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:21:05 - mmengine - INFO - Epoch(train) [243][6/6]  lr: 1.406734e-03  eta: 0:31:26  time: 5.499823  data_time: 5.438435  memory: 594  loss: 0.042303  loss_kpt: 0.042303  acc_pose: 0.988095
+2023/06/04 20:21:12 - mmengine - INFO - Epoch(train) [244][1/6]  lr: 1.400563e-03  eta: 0:31:21  time: 5.513953  data_time: 5.452824  memory: 1654  loss: 0.042339  loss_kpt: 0.042339  acc_pose: 1.000000
+2023/06/04 20:21:18 - mmengine - INFO - Epoch(train) [244][2/6]  lr: 1.394401e-03  eta: 0:31:15  time: 5.609471  data_time: 5.548064  memory: 1654  loss: 0.042941  loss_kpt: 0.042941  acc_pose: 0.995536
+2023/06/04 20:21:25 - mmengine - INFO - Epoch(train) [244][3/6]  lr: 1.388247e-03  eta: 0:31:10  time: 5.612890  data_time: 5.551845  memory: 1654  loss: 0.042685  loss_kpt: 0.042685  acc_pose: 0.997024
+2023/06/04 20:21:32 - mmengine - INFO - Epoch(train) [244][4/6]  lr: 1.382103e-03  eta: 0:31:05  time: 5.620650  data_time: 5.559557  memory: 1654  loss: 0.042513  loss_kpt: 0.042513  acc_pose: 0.998512
+2023/06/04 20:21:38 - mmengine - INFO - Epoch(train) [244][5/6]  lr: 1.375966e-03  eta: 0:31:00  time: 5.616556  data_time: 5.555894  memory: 1654  loss: 0.042519  loss_kpt: 0.042519  acc_pose: 0.987996
+2023/06/04 20:21:39 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:21:39 - mmengine - INFO - Epoch(train) [244][6/6]  lr: 1.369839e-03  eta: 0:30:53  time: 5.527723  data_time: 5.467375  memory: 594  loss: 0.041773  loss_kpt: 0.041773  acc_pose: 1.000000
+2023/06/04 20:21:46 - mmengine - INFO - Epoch(train) [245][1/6]  lr: 1.363720e-03  eta: 0:30:48  time: 5.527731  data_time: 5.467729  memory: 1654  loss: 0.041834  loss_kpt: 0.041834  acc_pose: 0.994048
+2023/06/04 20:21:52 - mmengine - INFO - Epoch(train) [245][2/6]  lr: 1.357611e-03  eta: 0:30:43  time: 5.623947  data_time: 5.563631  memory: 1654  loss: 0.042478  loss_kpt: 0.042478  acc_pose: 0.994048
+2023/06/04 20:21:58 - mmengine - INFO - Epoch(train) [245][3/6]  lr: 1.351510e-03  eta: 0:30:37  time: 5.602421  data_time: 5.541626  memory: 1654  loss: 0.042084  loss_kpt: 0.042084  acc_pose: 1.000000
+2023/06/04 20:22:04 - mmengine - INFO - Epoch(train) [245][4/6]  lr: 1.345419e-03  eta: 0:30:32  time: 5.594275  data_time: 5.533379  memory: 1654  loss: 0.041912  loss_kpt: 0.041912  acc_pose: 0.998512
+2023/06/04 20:22:11 - mmengine - INFO - Epoch(train) [245][5/6]  lr: 1.339337e-03  eta: 0:30:26  time: 5.601315  data_time: 5.540384  memory: 1654  loss: 0.041817  loss_kpt: 0.041817  acc_pose: 0.998512
+2023/06/04 20:22:13 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:22:13 - mmengine - INFO - Epoch(train) [245][6/6]  lr: 1.333264e-03  eta: 0:30:20  time: 5.506247  data_time: 5.445950  memory: 594  loss: 0.041070  loss_kpt: 0.041070  acc_pose: 0.988095
+2023/06/04 20:22:19 - mmengine - INFO - Epoch(train) [246][1/6]  lr: 1.327200e-03  eta: 0:30:15  time: 5.502768  data_time: 5.442614  memory: 1654  loss: 0.041168  loss_kpt: 0.041168  acc_pose: 0.985119
+2023/06/04 20:22:25 - mmengine - INFO - Epoch(train) [246][2/6]  lr: 1.321146e-03  eta: 0:30:09  time: 5.604819  data_time: 5.544285  memory: 1654  loss: 0.041904  loss_kpt: 0.041904  acc_pose: 0.992560
+2023/06/04 20:22:32 - mmengine - INFO - Epoch(train) [246][3/6]  lr: 1.315102e-03  eta: 0:30:04  time: 5.603452  data_time: 5.542865  memory: 1654  loss: 0.041906  loss_kpt: 0.041906  acc_pose: 0.997024
+2023/06/04 20:22:38 - mmengine - INFO - Epoch(train) [246][4/6]  lr: 1.309066e-03  eta: 0:29:59  time: 5.594983  data_time: 5.534340  memory: 1654  loss: 0.041833  loss_kpt: 0.041833  acc_pose: 0.998512
+2023/06/04 20:22:45 - mmengine - INFO - Epoch(train) [246][5/6]  lr: 1.303041e-03  eta: 0:29:53  time: 5.594416  data_time: 5.533477  memory: 1654  loss: 0.041937  loss_kpt: 0.041937  acc_pose: 0.995536
+2023/06/04 20:22:46 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:22:46 - mmengine - INFO - Epoch(train) [246][6/6]  lr: 1.297025e-03  eta: 0:29:47  time: 5.500706  data_time: 5.440146  memory: 594  loss: 0.041136  loss_kpt: 0.041136  acc_pose: 0.994048
+2023/06/04 20:22:53 - mmengine - INFO - Epoch(train) [247][1/6]  lr: 1.291019e-03  eta: 0:29:42  time: 5.514441  data_time: 5.453570  memory: 1654  loss: 0.041172  loss_kpt: 0.041172  acc_pose: 0.998512
+2023/06/04 20:23:00 - mmengine - INFO - Epoch(train) [247][2/6]  lr: 1.285023e-03  eta: 0:29:37  time: 5.615049  data_time: 5.553864  memory: 1654  loss: 0.042068  loss_kpt: 0.042068  acc_pose: 0.992560
+2023/06/04 20:23:06 - mmengine - INFO - Epoch(train) [247][3/6]  lr: 1.279037e-03  eta: 0:29:31  time: 5.612300  data_time: 5.550744  memory: 1654  loss: 0.041980  loss_kpt: 0.041980  acc_pose: 0.998512
+2023/06/04 20:23:12 - mmengine - INFO - Epoch(train) [247][4/6]  lr: 1.273061e-03  eta: 0:29:26  time: 5.617852  data_time: 5.556197  memory: 1654  loss: 0.042087  loss_kpt: 0.042087  acc_pose: 0.992560
+2023/06/04 20:23:19 - mmengine - INFO - Epoch(train) [247][5/6]  lr: 1.267095e-03  eta: 0:29:21  time: 5.621689  data_time: 5.560331  memory: 1654  loss: 0.042098  loss_kpt: 0.042098  acc_pose: 0.994048
+2023/06/04 20:23:20 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:23:20 - mmengine - INFO - Epoch(train) [247][6/6]  lr: 1.261139e-03  eta: 0:29:14  time: 5.527065  data_time: 5.466015  memory: 594  loss: 0.041351  loss_kpt: 0.041351  acc_pose: 0.988095
+2023/06/04 20:23:27 - mmengine - INFO - Epoch(train) [248][1/6]  lr: 1.255193e-03  eta: 0:29:09  time: 5.534371  data_time: 5.472883  memory: 1654  loss: 0.041320  loss_kpt: 0.041320  acc_pose: 1.000000
+2023/06/04 20:23:33 - mmengine - INFO - Epoch(train) [248][2/6]  lr: 1.249258e-03  eta: 0:29:03  time: 5.623600  data_time: 5.561505  memory: 1654  loss: 0.042061  loss_kpt: 0.042061  acc_pose: 0.997024
+2023/06/04 20:23:39 - mmengine - INFO - Epoch(train) [248][3/6]  lr: 1.243333e-03  eta: 0:28:58  time: 5.618523  data_time: 5.556733  memory: 1654  loss: 0.042148  loss_kpt: 0.042148  acc_pose: 0.997024
+2023/06/04 20:23:46 - mmengine - INFO - Epoch(train) [248][4/6]  lr: 1.237418e-03  eta: 0:28:53  time: 5.615125  data_time: 5.553616  memory: 1654  loss: 0.042307  loss_kpt: 0.042307  acc_pose: 0.995536
+2023/06/04 20:23:52 - mmengine - INFO - Epoch(train) [248][5/6]  lr: 1.231514e-03  eta: 0:28:47  time: 5.624942  data_time: 5.563372  memory: 1654  loss: 0.042289  loss_kpt: 0.042289  acc_pose: 1.000000
+2023/06/04 20:23:54 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:23:54 - mmengine - INFO - Epoch(train) [248][6/6]  lr: 1.225620e-03  eta: 0:28:41  time: 5.529519  data_time: 5.468244  memory: 594  loss: 0.041643  loss_kpt: 0.041643  acc_pose: 0.982143
+2023/06/04 20:24:00 - mmengine - INFO - Epoch(train) [249][1/6]  lr: 1.219738e-03  eta: 0:28:36  time: 5.527490  data_time: 5.466357  memory: 1654  loss: 0.041526  loss_kpt: 0.041526  acc_pose: 0.998512
+2023/06/04 20:24:06 - mmengine - INFO - Epoch(train) [249][2/6]  lr: 1.213865e-03  eta: 0:28:30  time: 5.619592  data_time: 5.558508  memory: 1654  loss: 0.042174  loss_kpt: 0.042174  acc_pose: 0.998512
+2023/06/04 20:24:13 - mmengine - INFO - Epoch(train) [249][3/6]  lr: 1.208004e-03  eta: 0:28:25  time: 5.620726  data_time: 5.559249  memory: 1654  loss: 0.042228  loss_kpt: 0.042228  acc_pose: 0.998512
+2023/06/04 20:24:19 - mmengine - INFO - Epoch(train) [249][4/6]  lr: 1.202154e-03  eta: 0:28:20  time: 5.626620  data_time: 5.564986  memory: 1654  loss: 0.042218  loss_kpt: 0.042218  acc_pose: 0.998512
+2023/06/04 20:24:25 - mmengine - INFO - Epoch(train) [249][5/6]  lr: 1.196314e-03  eta: 0:28:14  time: 5.620314  data_time: 5.558459  memory: 1654  loss: 0.042075  loss_kpt: 0.042075  acc_pose: 0.994048
+2023/06/04 20:24:27 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:24:27 - mmengine - INFO - Epoch(train) [249][6/6]  lr: 1.190485e-03  eta: 0:28:08  time: 5.525537  data_time: 5.463658  memory: 594  loss: 0.041399  loss_kpt: 0.041399  acc_pose: 1.000000
+2023/06/04 20:24:34 - mmengine - INFO - Epoch(train) [250][1/6]  lr: 1.184668e-03  eta: 0:28:03  time: 5.539797  data_time: 5.477639  memory: 1654  loss: 0.041228  loss_kpt: 0.041228  acc_pose: 0.998512
+2023/06/04 20:24:40 - mmengine - INFO - Epoch(train) [250][2/6]  lr: 1.178862e-03  eta: 0:27:57  time: 5.623151  data_time: 5.560893  memory: 1654  loss: 0.041900  loss_kpt: 0.041900  acc_pose: 0.998512
+2023/06/04 20:24:46 - mmengine - INFO - Epoch(train) [250][3/6]  lr: 1.173067e-03  eta: 0:27:52  time: 5.629329  data_time: 5.567235  memory: 1654  loss: 0.042125  loss_kpt: 0.042125  acc_pose: 0.989583
+2023/06/04 20:24:53 - mmengine - INFO - Epoch(train) [250][4/6]  lr: 1.167283e-03  eta: 0:27:47  time: 5.624674  data_time: 5.562714  memory: 1654  loss: 0.042034  loss_kpt: 0.042034  acc_pose: 0.982143
+2023/06/04 20:24:59 - mmengine - INFO - Epoch(train) [250][5/6]  lr: 1.161510e-03  eta: 0:27:41  time: 5.618049  data_time: 5.556358  memory: 1654  loss: 0.041799  loss_kpt: 0.041799  acc_pose: 0.994048
+2023/06/04 20:25:01 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:25:01 - mmengine - INFO - Epoch(train) [250][6/6]  lr: 1.155749e-03  eta: 0:27:35  time: 5.530721  data_time: 5.469325  memory: 594  loss: 0.041058  loss_kpt: 0.041058  acc_pose: 1.000000
+2023/06/04 20:25:01 - mmengine - INFO - Saving checkpoint at 250 epochs
+2023/06/04 20:25:07 - mmengine - INFO - Epoch(val) [250][1/6]    eta: 0:00:06  time: 1.085229  data_time: 1.064625  memory: 293  
+2023/06/04 20:25:08 - mmengine - INFO - Epoch(val) [250][2/6]    eta: 0:00:05  time: 1.103740  data_time: 1.083099  memory: 293  
+2023/06/04 20:25:09 - mmengine - INFO - Epoch(val) [250][3/6]    eta: 0:00:03  time: 1.101729  data_time: 1.081140  memory: 293  
+2023/06/04 20:25:11 - mmengine - INFO - Epoch(val) [250][4/6]    eta: 0:00:02  time: 1.100789  data_time: 1.080292  memory: 293  
+2023/06/04 20:25:12 - mmengine - INFO - Epoch(val) [250][5/6]    eta: 0:00:01  time: 1.101267  data_time: 1.080774  memory: 293  
+2023/06/04 20:25:12 - mmengine - INFO - Epoch(val) [250][6/6]    eta: 0:00:00  time: 1.083073  data_time: 1.062717  memory: 247  
+2023/06/04 20:25:12 - mmengine - INFO - Evaluating CocoMetric...
+2023/06/04 20:25:12 - mmengine - INFO - Evaluating PCKAccuracy (normalized by ``"bbox_size"``)...
+2023/06/04 20:25:12 - mmengine - INFO - Evaluating AUC...
+2023/06/04 20:25:12 - mmengine - INFO - Evaluating NME...
+2023/06/04 20:25:12 - mmengine - INFO - Epoch(val) [250][6/6]  coco/AP: 0.717471  coco/AP .5: 1.000000  coco/AP .75: 0.940417  coco/AP (M): -1.000000  coco/AP (L): 0.717471  coco/AR: 0.766667  coco/AR .5: 1.000000  coco/AR .75: 0.952381  coco/AR (M): -1.000000  coco/AR (L): 0.766667  PCK: 0.970522  AUC: 0.123413  NME: 0.041747  data_time: 1.062717  time: 1.083073
+2023/06/04 20:25:12 - mmengine - INFO - The previous best checkpoint /home/zeyuan.yin/OpenMMLabCamp/homework-1/code/mmpose/work_dirs/rtmpose-s-ear/best_PCK_epoch_240.pth is removed
+2023/06/04 20:25:17 - mmengine - INFO - The best checkpoint with 0.9705 PCK at 250 epoch is saved to best_PCK_epoch_250.pth.
+2023/06/04 20:25:23 - mmengine - INFO - Epoch(train) [251][1/6]  lr: 1.150000e-03  eta: 0:27:30  time: 5.536435  data_time: 5.475568  memory: 1654  loss: 0.041112  loss_kpt: 0.041112  acc_pose: 0.992560
+2023/06/04 20:25:29 - mmengine - INFO - Epoch(train) [251][2/6]  lr: 1.144262e-03  eta: 0:27:24  time: 5.631602  data_time: 5.570658  memory: 1654  loss: 0.041761  loss_kpt: 0.041761  acc_pose: 0.998512
+2023/06/04 20:25:36 - mmengine - INFO - Epoch(train) [251][3/6]  lr: 1.138536e-03  eta: 0:27:19  time: 5.627165  data_time: 5.566393  memory: 1654  loss: 0.041721  loss_kpt: 0.041721  acc_pose: 1.000000
+2023/06/04 20:25:42 - mmengine - INFO - Epoch(train) [251][4/6]  lr: 1.132821e-03  eta: 0:27:14  time: 5.636664  data_time: 5.575896  memory: 1654  loss: 0.041772  loss_kpt: 0.041772  acc_pose: 0.995536
+2023/06/04 20:25:48 - mmengine - INFO - Epoch(train) [251][5/6]  lr: 1.127119e-03  eta: 0:27:08  time: 5.639347  data_time: 5.578875  memory: 1654  loss: 0.041526  loss_kpt: 0.041526  acc_pose: 0.998512
+2023/06/04 20:25:50 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:25:50 - mmengine - INFO - Epoch(train) [251][6/6]  lr: 1.121428e-03  eta: 0:27:02  time: 5.530592  data_time: 5.470327  memory: 594  loss: 0.040842  loss_kpt: 0.040842  acc_pose: 0.994048
+2023/06/04 20:25:56 - mmengine - INFO - Epoch(train) [252][1/6]  lr: 1.115749e-03  eta: 0:26:57  time: 5.527041  data_time: 5.466742  memory: 1654  loss: 0.040823  loss_kpt: 0.040823  acc_pose: 1.000000
+2023/06/04 20:26:03 - mmengine - INFO - Epoch(train) [252][2/6]  lr: 1.110082e-03  eta: 0:26:51  time: 5.627031  data_time: 5.566523  memory: 1654  loss: 0.041449  loss_kpt: 0.041449  acc_pose: 0.997024
+2023/06/04 20:26:09 - mmengine - INFO - Epoch(train) [252][3/6]  lr: 1.104427e-03  eta: 0:26:46  time: 5.617064  data_time: 5.556437  memory: 1654  loss: 0.041446  loss_kpt: 0.041446  acc_pose: 0.994048
+2023/06/04 20:26:15 - mmengine - INFO - Epoch(train) [252][4/6]  lr: 1.098784e-03  eta: 0:26:41  time: 5.615345  data_time: 5.554865  memory: 1654  loss: 0.041226  loss_kpt: 0.041226  acc_pose: 0.998512
+2023/06/04 20:26:21 - mmengine - INFO - Epoch(train) [252][5/6]  lr: 1.093153e-03  eta: 0:26:35  time: 5.614978  data_time: 5.554238  memory: 1654  loss: 0.041219  loss_kpt: 0.041219  acc_pose: 0.998512
+2023/06/04 20:26:23 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:26:23 - mmengine - INFO - Epoch(train) [252][6/6]  lr: 1.087535e-03  eta: 0:26:29  time: 5.509962  data_time: 5.449550  memory: 594  loss: 0.040583  loss_kpt: 0.040583  acc_pose: 0.994048
+2023/06/04 20:26:29 - mmengine - INFO - Epoch(train) [253][1/6]  lr: 1.081929e-03  eta: 0:26:23  time: 5.500955  data_time: 5.440203  memory: 1654  loss: 0.040620  loss_kpt: 0.040620  acc_pose: 0.994048
+2023/06/04 20:26:35 - mmengine - INFO - Epoch(train) [253][2/6]  lr: 1.076336e-03  eta: 0:26:18  time: 5.597418  data_time: 5.536397  memory: 1654  loss: 0.041199  loss_kpt: 0.041199  acc_pose: 0.997024
+2023/06/04 20:26:41 - mmengine - INFO - Epoch(train) [253][3/6]  lr: 1.070754e-03  eta: 0:26:13  time: 5.592802  data_time: 5.531483  memory: 1654  loss: 0.040975  loss_kpt: 0.040975  acc_pose: 1.000000
+2023/06/04 20:26:47 - mmengine - INFO - Epoch(train) [253][4/6]  lr: 1.065186e-03  eta: 0:26:07  time: 5.580525  data_time: 5.519392  memory: 1654  loss: 0.040911  loss_kpt: 0.040911  acc_pose: 0.998512
+2023/06/04 20:26:53 - mmengine - INFO - Epoch(train) [253][5/6]  lr: 1.059630e-03  eta: 0:26:02  time: 5.591611  data_time: 5.531144  memory: 1654  loss: 0.041089  loss_kpt: 0.041089  acc_pose: 0.995536
+2023/06/04 20:26:55 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:26:55 - mmengine - INFO - Epoch(train) [253][6/6]  lr: 1.054087e-03  eta: 0:25:56  time: 5.498333  data_time: 5.438457  memory: 594  loss: 0.040427  loss_kpt: 0.040427  acc_pose: 1.000000
+2023/06/04 20:27:01 - mmengine - INFO - Epoch(train) [254][1/6]  lr: 1.048556e-03  eta: 0:25:50  time: 5.491830  data_time: 5.432083  memory: 1654  loss: 0.040351  loss_kpt: 0.040351  acc_pose: 0.994048
+2023/06/04 20:27:08 - mmengine - INFO - Epoch(train) [254][2/6]  lr: 1.043038e-03  eta: 0:25:45  time: 5.595508  data_time: 5.535557  memory: 1654  loss: 0.041049  loss_kpt: 0.041049  acc_pose: 0.998512
+2023/06/04 20:27:14 - mmengine - INFO - Epoch(train) [254][3/6]  lr: 1.037533e-03  eta: 0:25:40  time: 5.588960  data_time: 5.528947  memory: 1654  loss: 0.040847  loss_kpt: 0.040847  acc_pose: 0.998512
+2023/06/04 20:27:20 - mmengine - INFO - Epoch(train) [254][4/6]  lr: 1.032042e-03  eta: 0:25:34  time: 5.585268  data_time: 5.525386  memory: 1654  loss: 0.040952  loss_kpt: 0.040952  acc_pose: 0.986607
+2023/06/04 20:27:27 - mmengine - INFO - Epoch(train) [254][5/6]  lr: 1.026563e-03  eta: 0:25:29  time: 5.579841  data_time: 5.519942  memory: 1654  loss: 0.040854  loss_kpt: 0.040854  acc_pose: 0.998512
+2023/06/04 20:27:28 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:27:28 - mmengine - INFO - Epoch(train) [254][6/6]  lr: 1.021097e-03  eta: 0:25:22  time: 5.474354  data_time: 5.414870  memory: 594  loss: 0.040045  loss_kpt: 0.040045  acc_pose: 1.000000
+2023/06/04 20:27:35 - mmengine - INFO - Epoch(train) [255][1/6]  lr: 1.015644e-03  eta: 0:25:17  time: 5.481528  data_time: 5.422489  memory: 1654  loss: 0.039876  loss_kpt: 0.039876  acc_pose: 0.995536
+2023/06/04 20:27:41 - mmengine - INFO - Epoch(train) [255][2/6]  lr: 1.010205e-03  eta: 0:25:12  time: 5.576328  data_time: 5.516989  memory: 1654  loss: 0.040513  loss_kpt: 0.040513  acc_pose: 0.998512
+2023/06/04 20:27:47 - mmengine - INFO - Epoch(train) [255][3/6]  lr: 1.004779e-03  eta: 0:25:06  time: 5.563624  data_time: 5.504803  memory: 1654  loss: 0.040361  loss_kpt: 0.040361  acc_pose: 1.000000
+2023/06/04 20:27:53 - mmengine - INFO - Epoch(train) [255][4/6]  lr: 9.993658e-04  eta: 0:25:01  time: 5.559148  data_time: 5.500707  memory: 1654  loss: 0.040121  loss_kpt: 0.040121  acc_pose: 0.998512
+2023/06/04 20:28:00 - mmengine - INFO - Epoch(train) [255][5/6]  lr: 9.939664e-04  eta: 0:24:56  time: 5.566294  data_time: 5.508236  memory: 1654  loss: 0.039988  loss_kpt: 0.039988  acc_pose: 0.996976
+2023/06/04 20:28:02 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:28:02 - mmengine - INFO - Epoch(train) [255][6/6]  lr: 9.885804e-04  eta: 0:24:49  time: 5.469560  data_time: 5.411892  memory: 594  loss: 0.039347  loss_kpt: 0.039347  acc_pose: 0.994048
+2023/06/04 20:28:08 - mmengine - INFO - Epoch(train) [256][1/6]  lr: 9.832080e-04  eta: 0:24:44  time: 5.474562  data_time: 5.416643  memory: 1654  loss: 0.039164  loss_kpt: 0.039164  acc_pose: 1.000000
+2023/06/04 20:28:14 - mmengine - INFO - Epoch(train) [256][2/6]  lr: 9.778492e-04  eta: 0:24:39  time: 5.571562  data_time: 5.513410  memory: 1654  loss: 0.039779  loss_kpt: 0.039779  acc_pose: 0.997024
+2023/06/04 20:28:20 - mmengine - INFO - Epoch(train) [256][3/6]  lr: 9.725041e-04  eta: 0:24:33  time: 5.556261  data_time: 5.498238  memory: 1654  loss: 0.039748  loss_kpt: 0.039748  acc_pose: 1.000000
+2023/06/04 20:28:27 - mmengine - INFO - Epoch(train) [256][4/6]  lr: 9.671727e-04  eta: 0:24:28  time: 5.560786  data_time: 5.502930  memory: 1654  loss: 0.039548  loss_kpt: 0.039548  acc_pose: 0.998512
+2023/06/04 20:28:33 - mmengine - INFO - Epoch(train) [256][5/6]  lr: 9.618552e-04  eta: 0:24:22  time: 5.551730  data_time: 5.493642  memory: 1654  loss: 0.039505  loss_kpt: 0.039505  acc_pose: 0.995536
+2023/06/04 20:28:34 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:28:34 - mmengine - INFO - Epoch(train) [256][6/6]  lr: 9.565515e-04  eta: 0:24:16  time: 5.463112  data_time: 5.405128  memory: 594  loss: 0.038815  loss_kpt: 0.038815  acc_pose: 1.000000
+2023/06/04 20:28:41 - mmengine - INFO - Epoch(train) [257][1/6]  lr: 9.512617e-04  eta: 0:24:11  time: 5.461287  data_time: 5.402866  memory: 1654  loss: 0.038719  loss_kpt: 0.038719  acc_pose: 0.994048
+2023/06/04 20:28:47 - mmengine - INFO - Epoch(train) [257][2/6]  lr: 9.459859e-04  eta: 0:24:05  time: 5.550983  data_time: 5.492507  memory: 1654  loss: 0.039311  loss_kpt: 0.039311  acc_pose: 0.995536
+2023/06/04 20:28:53 - mmengine - INFO - Epoch(train) [257][3/6]  lr: 9.407242e-04  eta: 0:24:00  time: 5.551274  data_time: 5.492697  memory: 1654  loss: 0.039204  loss_kpt: 0.039204  acc_pose: 1.000000
+2023/06/04 20:28:59 - mmengine - INFO - Epoch(train) [257][4/6]  lr: 9.354766e-04  eta: 0:23:55  time: 5.543244  data_time: 5.484505  memory: 1654  loss: 0.039083  loss_kpt: 0.039083  acc_pose: 0.998512
+2023/06/04 20:29:05 - mmengine - INFO - Epoch(train) [257][5/6]  lr: 9.302432e-04  eta: 0:23:49  time: 5.540112  data_time: 5.481368  memory: 1654  loss: 0.038887  loss_kpt: 0.038887  acc_pose: 1.000000
+2023/06/04 20:29:07 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:29:07 - mmengine - INFO - Epoch(train) [257][6/6]  lr: 9.250240e-04  eta: 0:23:43  time: 5.442660  data_time: 5.384037  memory: 594  loss: 0.038208  loss_kpt: 0.038208  acc_pose: 1.000000
+2023/06/04 20:29:13 - mmengine - INFO - Epoch(train) [258][1/6]  lr: 9.198192e-04  eta: 0:23:38  time: 5.447047  data_time: 5.388691  memory: 1654  loss: 0.038216  loss_kpt: 0.038216  acc_pose: 0.998464
+2023/06/04 20:29:20 - mmengine - INFO - Epoch(train) [258][2/6]  lr: 9.146288e-04  eta: 0:23:32  time: 5.537415  data_time: 5.479317  memory: 1654  loss: 0.038938  loss_kpt: 0.038938  acc_pose: 0.985119
+2023/06/04 20:29:26 - mmengine - INFO - Epoch(train) [258][3/6]  lr: 9.094528e-04  eta: 0:23:27  time: 5.523730  data_time: 5.465510  memory: 1654  loss: 0.039063  loss_kpt: 0.039063  acc_pose: 0.994048
+2023/06/04 20:29:32 - mmengine - INFO - Epoch(train) [258][4/6]  lr: 9.042913e-04  eta: 0:23:22  time: 5.533677  data_time: 5.475323  memory: 1654  loss: 0.038869  loss_kpt: 0.038869  acc_pose: 0.998512
+2023/06/04 20:29:38 - mmengine - INFO - Epoch(train) [258][5/6]  lr: 8.991443e-04  eta: 0:23:16  time: 5.527714  data_time: 5.469321  memory: 1654  loss: 0.038746  loss_kpt: 0.038746  acc_pose: 0.998512
+2023/06/04 20:29:40 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:29:40 - mmengine - INFO - Epoch(train) [258][6/6]  lr: 8.940120e-04  eta: 0:23:10  time: 5.440075  data_time: 5.381980  memory: 594  loss: 0.038078  loss_kpt: 0.038078  acc_pose: 1.000000
+2023/06/04 20:29:46 - mmengine - INFO - Epoch(train) [259][1/6]  lr: 8.888944e-04  eta: 0:23:05  time: 5.434472  data_time: 5.376228  memory: 1654  loss: 0.038188  loss_kpt: 0.038188  acc_pose: 0.998512
+2023/06/04 20:29:53 - mmengine - INFO - Epoch(train) [259][2/6]  lr: 8.837916e-04  eta: 0:22:59  time: 5.524785  data_time: 5.466494  memory: 1654  loss: 0.038781  loss_kpt: 0.038781  acc_pose: 0.998512
+2023/06/04 20:29:59 - mmengine - INFO - Epoch(train) [259][3/6]  lr: 8.787035e-04  eta: 0:22:54  time: 5.517788  data_time: 5.459359  memory: 1654  loss: 0.038651  loss_kpt: 0.038651  acc_pose: 0.997024
+2023/06/04 20:30:05 - mmengine - INFO - Epoch(train) [259][4/6]  lr: 8.736304e-04  eta: 0:22:48  time: 5.518994  data_time: 5.460119  memory: 1654  loss: 0.038645  loss_kpt: 0.038645  acc_pose: 0.998512
+2023/06/04 20:30:12 - mmengine - INFO - Epoch(train) [259][5/6]  lr: 8.685722e-04  eta: 0:22:43  time: 5.519574  data_time: 5.460806  memory: 1654  loss: 0.038593  loss_kpt: 0.038593  acc_pose: 1.000000
+2023/06/04 20:30:13 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:30:13 - mmengine - INFO - Epoch(train) [259][6/6]  lr: 8.635290e-04  eta: 0:22:37  time: 5.422460  data_time: 5.363655  memory: 594  loss: 0.037841  loss_kpt: 0.037841  acc_pose: 0.994048
+2023/06/04 20:30:19 - mmengine - INFO - Epoch(train) [260][1/6]  lr: 8.585009e-04  eta: 0:22:31  time: 5.420713  data_time: 5.361652  memory: 1654  loss: 0.037863  loss_kpt: 0.037863  acc_pose: 1.000000
+2023/06/04 20:30:26 - mmengine - INFO - Epoch(train) [260][2/6]  lr: 8.534878e-04  eta: 0:22:26  time: 5.525926  data_time: 5.466599  memory: 1654  loss: 0.038393  loss_kpt: 0.038393  acc_pose: 1.000000
+2023/06/04 20:30:32 - mmengine - INFO - Epoch(train) [260][3/6]  lr: 8.484900e-04  eta: 0:22:21  time: 5.523597  data_time: 5.464346  memory: 1654  loss: 0.038336  loss_kpt: 0.038336  acc_pose: 0.997024
+2023/06/04 20:30:38 - mmengine - INFO - Epoch(train) [260][4/6]  lr: 8.435075e-04  eta: 0:22:15  time: 5.513992  data_time: 5.454743  memory: 1654  loss: 0.038146  loss_kpt: 0.038146  acc_pose: 1.000000
+2023/06/04 20:30:45 - mmengine - INFO - Epoch(train) [260][5/6]  lr: 8.385402e-04  eta: 0:22:10  time: 5.526947  data_time: 5.467518  memory: 1654  loss: 0.037893  loss_kpt: 0.037893  acc_pose: 0.998512
+2023/06/04 20:30:47 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:30:47 - mmengine - INFO - Epoch(train) [260][6/6]  lr: 8.335883e-04  eta: 0:22:04  time: 5.429874  data_time: 5.370805  memory: 594  loss: 0.037433  loss_kpt: 0.037433  acc_pose: 1.000000
+2023/06/04 20:30:47 - mmengine - INFO - Saving checkpoint at 260 epochs
+2023/06/04 20:30:53 - mmengine - INFO - Epoch(val) [260][1/6]    eta: 0:00:06  time: 1.084245  data_time: 1.063863  memory: 293  
+2023/06/04 20:30:54 - mmengine - INFO - Epoch(val) [260][2/6]    eta: 0:00:05  time: 1.103115  data_time: 1.082472  memory: 293  
+2023/06/04 20:30:55 - mmengine - INFO - Epoch(val) [260][3/6]    eta: 0:00:03  time: 1.101155  data_time: 1.080378  memory: 293  
+2023/06/04 20:30:56 - mmengine - INFO - Epoch(val) [260][4/6]    eta: 0:00:02  time: 1.100389  data_time: 1.079604  memory: 293  
+2023/06/04 20:30:58 - mmengine - INFO - Epoch(val) [260][5/6]    eta: 0:00:01  time: 1.100897  data_time: 1.080118  memory: 293  
+2023/06/04 20:30:58 - mmengine - INFO - Epoch(val) [260][6/6]    eta: 0:00:00  time: 1.082887  data_time: 1.062220  memory: 247  
+2023/06/04 20:30:58 - mmengine - INFO - Evaluating CocoMetric...
+2023/06/04 20:30:58 - mmengine - INFO - Evaluating PCKAccuracy (normalized by ``"bbox_size"``)...
+2023/06/04 20:30:58 - mmengine - INFO - Evaluating AUC...
+2023/06/04 20:30:58 - mmengine - INFO - Evaluating NME...
+2023/06/04 20:30:58 - mmengine - INFO - Epoch(val) [260][6/6]  coco/AP: 0.720222  coco/AP .5: 1.000000  coco/AP .75: 0.907072  coco/AP (M): -1.000000  coco/AP (L): 0.720222  coco/AR: 0.769048  coco/AR .5: 1.000000  coco/AR .75: 0.928571  coco/AR (M): -1.000000  coco/AR (L): 0.769048  PCK: 0.965986  AUC: 0.127608  NME: 0.041077  data_time: 1.062220  time: 1.082887
+2023/06/04 20:31:04 - mmengine - INFO - Epoch(train) [261][1/6]  lr: 8.286518e-04  eta: 0:21:58  time: 5.428510  data_time: 5.369515  memory: 1654  loss: 0.037328  loss_kpt: 0.037328  acc_pose: 0.998512
+2023/06/04 20:31:11 - mmengine - INFO - Epoch(train) [261][2/6]  lr: 8.237309e-04  eta: 0:21:53  time: 5.528692  data_time: 5.469101  memory: 1654  loss: 0.037816  loss_kpt: 0.037816  acc_pose: 1.000000
+2023/06/04 20:31:17 - mmengine - INFO - Epoch(train) [261][3/6]  lr: 8.188255e-04  eta: 0:21:48  time: 5.533378  data_time: 5.473894  memory: 1654  loss: 0.037554  loss_kpt: 0.037554  acc_pose: 0.998512
+2023/06/04 20:31:23 - mmengine - INFO - Epoch(train) [261][4/6]  lr: 8.139357e-04  eta: 0:21:42  time: 5.534476  data_time: 5.475330  memory: 1654  loss: 0.037599  loss_kpt: 0.037599  acc_pose: 0.998512
+2023/06/04 20:31:29 - mmengine - INFO - Epoch(train) [261][5/6]  lr: 8.090615e-04  eta: 0:21:37  time: 5.535400  data_time: 5.476566  memory: 1654  loss: 0.037706  loss_kpt: 0.037706  acc_pose: 0.989583
+2023/06/04 20:31:31 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:31:31 - mmengine - INFO - Epoch(train) [261][6/6]  lr: 8.042031e-04  eta: 0:21:31  time: 5.448728  data_time: 5.390114  memory: 594  loss: 0.037222  loss_kpt: 0.037222  acc_pose: 0.964286
+2023/06/04 20:31:38 - mmengine - INFO - Epoch(train) [262][1/6]  lr: 7.993605e-04  eta: 0:21:25  time: 5.452609  data_time: 5.393971  memory: 1654  loss: 0.037171  loss_kpt: 0.037171  acc_pose: 0.995536
+2023/06/04 20:31:44 - mmengine - INFO - Epoch(train) [262][2/6]  lr: 7.945337e-04  eta: 0:21:20  time: 5.546520  data_time: 5.487666  memory: 1654  loss: 0.037812  loss_kpt: 0.037812  acc_pose: 1.000000
+2023/06/04 20:31:50 - mmengine - INFO - Epoch(train) [262][3/6]  lr: 7.897229e-04  eta: 0:21:14  time: 5.538723  data_time: 5.480034  memory: 1654  loss: 0.037735  loss_kpt: 0.037735  acc_pose: 0.998512
+2023/06/04 20:31:56 - mmengine - INFO - Epoch(train) [262][4/6]  lr: 7.849280e-04  eta: 0:21:09  time: 5.536319  data_time: 5.477482  memory: 1654  loss: 0.037659  loss_kpt: 0.037659  acc_pose: 0.998512
+2023/06/04 20:32:03 - mmengine - INFO - Epoch(train) [262][5/6]  lr: 7.801491e-04  eta: 0:21:04  time: 5.541197  data_time: 5.482263  memory: 1654  loss: 0.037666  loss_kpt: 0.037666  acc_pose: 0.998512
+2023/06/04 20:32:04 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:32:04 - mmengine - INFO - Epoch(train) [262][6/6]  lr: 7.753863e-04  eta: 0:20:58  time: 5.449930  data_time: 5.391260  memory: 594  loss: 0.036827  loss_kpt: 0.036827  acc_pose: 0.994048
+2023/06/04 20:32:11 - mmengine - INFO - Epoch(train) [263][1/6]  lr: 7.706397e-04  eta: 0:20:52  time: 5.454919  data_time: 5.396249  memory: 1654  loss: 0.036800  loss_kpt: 0.036800  acc_pose: 0.998512
+2023/06/04 20:32:17 - mmengine - INFO - Epoch(train) [263][2/6]  lr: 7.659092e-04  eta: 0:20:47  time: 5.548394  data_time: 5.489548  memory: 1654  loss: 0.037477  loss_kpt: 0.037477  acc_pose: 0.994048
+2023/06/04 20:32:23 - mmengine - INFO - Epoch(train) [263][3/6]  lr: 7.611950e-04  eta: 0:20:41  time: 5.546665  data_time: 5.487643  memory: 1654  loss: 0.037373  loss_kpt: 0.037373  acc_pose: 0.998512
+2023/06/04 20:32:30 - mmengine - INFO - Epoch(train) [263][4/6]  lr: 7.564971e-04  eta: 0:20:36  time: 5.549024  data_time: 5.490134  memory: 1654  loss: 0.037349  loss_kpt: 0.037349  acc_pose: 0.994048
+2023/06/04 20:32:36 - mmengine - INFO - Epoch(train) [263][5/6]  lr: 7.518156e-04  eta: 0:20:31  time: 5.547137  data_time: 5.487976  memory: 1654  loss: 0.037367  loss_kpt: 0.037367  acc_pose: 0.998512
+2023/06/04 20:32:37 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:32:37 - mmengine - INFO - Epoch(train) [263][6/6]  lr: 7.471505e-04  eta: 0:20:24  time: 5.447938  data_time: 5.388862  memory: 594  loss: 0.036728  loss_kpt: 0.036728  acc_pose: 0.994048
+2023/06/04 20:32:43 - mmengine - INFO - Epoch(train) [264][1/6]  lr: 7.425019e-04  eta: 0:20:19  time: 5.439409  data_time: 5.379794  memory: 1654  loss: 0.036632  loss_kpt: 0.036632  acc_pose: 0.997024
+2023/06/04 20:32:49 - mmengine - INFO - Epoch(train) [264][2/6]  lr: 7.378698e-04  eta: 0:20:14  time: 5.522477  data_time: 5.462587  memory: 1654  loss: 0.037102  loss_kpt: 0.037102  acc_pose: 1.000000
+2023/06/04 20:32:55 - mmengine - INFO - Epoch(train) [264][3/6]  lr: 7.332544e-04  eta: 0:20:08  time: 5.516445  data_time: 5.456753  memory: 1654  loss: 0.037090  loss_kpt: 0.037090  acc_pose: 1.000000
+2023/06/04 20:33:02 - mmengine - INFO - Epoch(train) [264][4/6]  lr: 7.286556e-04  eta: 0:20:03  time: 5.513756  data_time: 5.453958  memory: 1654  loss: 0.037078  loss_kpt: 0.037078  acc_pose: 0.997024
+2023/06/04 20:33:08 - mmengine - INFO - Epoch(train) [264][5/6]  lr: 7.240735e-04  eta: 0:19:57  time: 5.525521  data_time: 5.465647  memory: 1654  loss: 0.037101  loss_kpt: 0.037101  acc_pose: 0.995536
+2023/06/04 20:33:10 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:33:10 - mmengine - INFO - Epoch(train) [264][6/6]  lr: 7.195081e-04  eta: 0:19:51  time: 5.434079  data_time: 5.374666  memory: 594  loss: 0.036577  loss_kpt: 0.036577  acc_pose: 0.994048
+2023/06/04 20:33:16 - mmengine - INFO - Epoch(train) [265][1/6]  lr: 7.149596e-04  eta: 0:19:46  time: 5.432317  data_time: 5.372988  memory: 1654  loss: 0.036416  loss_kpt: 0.036416  acc_pose: 0.998512
+2023/06/04 20:33:22 - mmengine - INFO - Epoch(train) [265][2/6]  lr: 7.104280e-04  eta: 0:19:40  time: 5.520502  data_time: 5.460785  memory: 1654  loss: 0.036907  loss_kpt: 0.036907  acc_pose: 0.997024
+2023/06/04 20:33:28 - mmengine - INFO - Epoch(train) [265][3/6]  lr: 7.059133e-04  eta: 0:19:35  time: 5.514789  data_time: 5.455407  memory: 1654  loss: 0.036838  loss_kpt: 0.036838  acc_pose: 0.998512
+2023/06/04 20:33:34 - mmengine - INFO - Epoch(train) [265][4/6]  lr: 7.014155e-04  eta: 0:19:30  time: 5.522605  data_time: 5.463087  memory: 1654  loss: 0.036727  loss_kpt: 0.036727  acc_pose: 0.997024
+2023/06/04 20:33:41 - mmengine - INFO - Epoch(train) [265][5/6]  lr: 6.969349e-04  eta: 0:19:24  time: 5.532075  data_time: 5.472831  memory: 1654  loss: 0.036820  loss_kpt: 0.036820  acc_pose: 0.998512
+2023/06/04 20:33:43 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:33:43 - mmengine - INFO - Epoch(train) [265][6/6]  lr: 6.924713e-04  eta: 0:19:18  time: 5.444193  data_time: 5.385232  memory: 594  loss: 0.036239  loss_kpt: 0.036239  acc_pose: 1.000000
+2023/06/04 20:33:50 - mmengine - INFO - Epoch(train) [266][1/6]  lr: 6.880248e-04  eta: 0:19:13  time: 5.460653  data_time: 5.402030  memory: 1654  loss: 0.036259  loss_kpt: 0.036259  acc_pose: 0.998512
+2023/06/04 20:33:56 - mmengine - INFO - Epoch(train) [266][2/6]  lr: 6.835956e-04  eta: 0:19:07  time: 5.555085  data_time: 5.496352  memory: 1654  loss: 0.037053  loss_kpt: 0.037053  acc_pose: 0.992560
+2023/06/04 20:34:03 - mmengine - INFO - Epoch(train) [266][3/6]  lr: 6.791836e-04  eta: 0:19:02  time: 5.558069  data_time: 5.499137  memory: 1654  loss: 0.037042  loss_kpt: 0.037042  acc_pose: 0.998512
+2023/06/04 20:34:09 - mmengine - INFO - Epoch(train) [266][4/6]  lr: 6.747890e-04  eta: 0:18:57  time: 5.554572  data_time: 5.495094  memory: 1654  loss: 0.036789  loss_kpt: 0.036789  acc_pose: 0.997024
+2023/06/04 20:34:15 - mmengine - INFO - Epoch(train) [266][5/6]  lr: 6.704117e-04  eta: 0:18:51  time: 5.547349  data_time: 5.488221  memory: 1654  loss: 0.036716  loss_kpt: 0.036716  acc_pose: 0.994048
+2023/06/04 20:34:17 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:34:17 - mmengine - INFO - Epoch(train) [266][6/6]  lr: 6.660518e-04  eta: 0:18:45  time: 5.457081  data_time: 5.398489  memory: 594  loss: 0.036143  loss_kpt: 0.036143  acc_pose: 1.000000
+2023/06/04 20:34:23 - mmengine - INFO - Epoch(train) [267][1/6]  lr: 6.617094e-04  eta: 0:18:40  time: 5.461975  data_time: 5.403566  memory: 1654  loss: 0.036028  loss_kpt: 0.036028  acc_pose: 0.995536
+2023/06/04 20:34:29 - mmengine - INFO - Epoch(train) [267][2/6]  lr: 6.573845e-04  eta: 0:18:34  time: 5.549956  data_time: 5.491364  memory: 1654  loss: 0.036361  loss_kpt: 0.036361  acc_pose: 0.998512
+2023/06/04 20:34:36 - mmengine - INFO - Epoch(train) [267][3/6]  lr: 6.530772e-04  eta: 0:18:29  time: 5.562267  data_time: 5.503733  memory: 1654  loss: 0.036275  loss_kpt: 0.036275  acc_pose: 0.994048
+2023/06/04 20:34:42 - mmengine - INFO - Epoch(train) [267][4/6]  lr: 6.487875e-04  eta: 0:18:24  time: 5.559368  data_time: 5.500461  memory: 1654  loss: 0.036105  loss_kpt: 0.036105  acc_pose: 0.998512
+2023/06/04 20:34:48 - mmengine - INFO - Epoch(train) [267][5/6]  lr: 6.445156e-04  eta: 0:18:18  time: 5.559666  data_time: 5.500718  memory: 1654  loss: 0.036124  loss_kpt: 0.036124  acc_pose: 0.998413
+2023/06/04 20:34:50 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:34:50 - mmengine - INFO - Epoch(train) [267][6/6]  lr: 6.402613e-04  eta: 0:18:12  time: 5.465522  data_time: 5.407276  memory: 594  loss: 0.035467  loss_kpt: 0.035467  acc_pose: 1.000000
+2023/06/04 20:34:57 - mmengine - INFO - Epoch(train) [268][1/6]  lr: 6.360248e-04  eta: 0:18:07  time: 5.472357  data_time: 5.414015  memory: 1654  loss: 0.035450  loss_kpt: 0.035450  acc_pose: 0.998512
+2023/06/04 20:35:03 - mmengine - INFO - Epoch(train) [268][2/6]  lr: 6.318062e-04  eta: 0:18:01  time: 5.575976  data_time: 5.517451  memory: 1654  loss: 0.036098  loss_kpt: 0.036098  acc_pose: 0.997024
+2023/06/04 20:35:10 - mmengine - INFO - Epoch(train) [268][3/6]  lr: 6.276055e-04  eta: 0:17:56  time: 5.574910  data_time: 5.516533  memory: 1654  loss: 0.036055  loss_kpt: 0.036055  acc_pose: 1.000000
+2023/06/04 20:35:16 - mmengine - INFO - Epoch(train) [268][4/6]  lr: 6.234227e-04  eta: 0:17:50  time: 5.567554  data_time: 5.509307  memory: 1654  loss: 0.036001  loss_kpt: 0.036001  acc_pose: 0.995536
+2023/06/04 20:35:23 - mmengine - INFO - Epoch(train) [268][5/6]  lr: 6.192579e-04  eta: 0:17:45  time: 5.575580  data_time: 5.517144  memory: 1654  loss: 0.035774  loss_kpt: 0.035774  acc_pose: 1.000000
+2023/06/04 20:35:24 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:35:24 - mmengine - INFO - Epoch(train) [268][6/6]  lr: 6.151111e-04  eta: 0:17:39  time: 5.482540  data_time: 5.424558  memory: 594  loss: 0.035345  loss_kpt: 0.035345  acc_pose: 1.000000
+2023/06/04 20:35:30 - mmengine - INFO - Epoch(train) [269][1/6]  lr: 6.109824e-04  eta: 0:17:34  time: 5.476473  data_time: 5.418613  memory: 1654  loss: 0.035382  loss_kpt: 0.035382  acc_pose: 1.000000
+2023/06/04 20:35:36 - mmengine - INFO - Epoch(train) [269][2/6]  lr: 6.068719e-04  eta: 0:17:28  time: 5.569970  data_time: 5.511496  memory: 1654  loss: 0.035852  loss_kpt: 0.035852  acc_pose: 0.998512
+2023/06/04 20:35:43 - mmengine - INFO - Epoch(train) [269][3/6]  lr: 6.027796e-04  eta: 0:17:23  time: 5.572196  data_time: 5.513708  memory: 1654  loss: 0.035837  loss_kpt: 0.035837  acc_pose: 1.000000
+2023/06/04 20:35:49 - mmengine - INFO - Epoch(train) [269][4/6]  lr: 5.987055e-04  eta: 0:17:17  time: 5.569708  data_time: 5.511347  memory: 1654  loss: 0.035961  loss_kpt: 0.035961  acc_pose: 0.997024
+2023/06/04 20:35:55 - mmengine - INFO - Epoch(train) [269][5/6]  lr: 5.946497e-04  eta: 0:17:12  time: 5.565303  data_time: 5.507014  memory: 1654  loss: 0.036041  loss_kpt: 0.036041  acc_pose: 0.998512
+2023/06/04 20:35:57 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:35:57 - mmengine - INFO - Epoch(train) [269][6/6]  lr: 5.906122e-04  eta: 0:17:06  time: 5.468496  data_time: 5.410292  memory: 594  loss: 0.035418  loss_kpt: 0.035418  acc_pose: 1.000000
+2023/06/04 20:36:03 - mmengine - INFO - Epoch(train) [270][1/6]  lr: 5.865932e-04  eta: 0:17:00  time: 5.472143  data_time: 5.413508  memory: 1654  loss: 0.035365  loss_kpt: 0.035365  acc_pose: 1.000000
+2023/06/04 20:36:09 - mmengine - INFO - Epoch(train) [270][2/6]  lr: 5.825925e-04  eta: 0:16:55  time: 5.562002  data_time: 5.503189  memory: 1654  loss: 0.035761  loss_kpt: 0.035761  acc_pose: 1.000000
+2023/06/04 20:36:15 - mmengine - INFO - Epoch(train) [270][3/6]  lr: 5.786104e-04  eta: 0:16:50  time: 5.552128  data_time: 5.493145  memory: 1654  loss: 0.035668  loss_kpt: 0.035668  acc_pose: 0.997024
+2023/06/04 20:36:21 - mmengine - INFO - Epoch(train) [270][4/6]  lr: 5.746468e-04  eta: 0:16:44  time: 5.551493  data_time: 5.492593  memory: 1654  loss: 0.035552  loss_kpt: 0.035552  acc_pose: 0.998512
+2023/06/04 20:36:28 - mmengine - INFO - Epoch(train) [270][5/6]  lr: 5.707018e-04  eta: 0:16:39  time: 5.561955  data_time: 5.503087  memory: 1654  loss: 0.035448  loss_kpt: 0.035448  acc_pose: 0.998512
+2023/06/04 20:36:30 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:36:30 - mmengine - INFO - Epoch(train) [270][6/6]  lr: 5.667754e-04  eta: 0:16:33  time: 5.464130  data_time: 5.405555  memory: 594  loss: 0.034896  loss_kpt: 0.034896  acc_pose: 0.988095
+2023/06/04 20:36:30 - mmengine - INFO - Saving checkpoint at 270 epochs
+2023/06/04 20:36:36 - mmengine - INFO - Epoch(val) [270][1/6]    eta: 0:00:06  time: 1.083704  data_time: 1.063016  memory: 293  
+2023/06/04 20:36:37 - mmengine - INFO - Epoch(val) [270][2/6]    eta: 0:00:05  time: 1.102328  data_time: 1.081526  memory: 293  
+2023/06/04 20:36:38 - mmengine - INFO - Epoch(val) [270][3/6]    eta: 0:00:03  time: 1.102329  data_time: 1.079409  memory: 293  
+2023/06/04 20:36:39 - mmengine - INFO - Epoch(val) [270][4/6]    eta: 0:00:02  time: 1.098983  data_time: 1.076075  memory: 293  
+2023/06/04 20:36:40 - mmengine - INFO - Epoch(val) [270][5/6]    eta: 0:00:01  time: 1.099082  data_time: 1.076183  memory: 293  
+2023/06/04 20:36:41 - mmengine - INFO - Epoch(val) [270][6/6]    eta: 0:00:00  time: 1.081497  data_time: 1.058714  memory: 247  
+2023/06/04 20:36:41 - mmengine - INFO - Evaluating CocoMetric...
+2023/06/04 20:36:41 - mmengine - INFO - Evaluating PCKAccuracy (normalized by ``"bbox_size"``)...
+2023/06/04 20:36:41 - mmengine - INFO - Evaluating AUC...
+2023/06/04 20:36:41 - mmengine - INFO - Evaluating NME...
+2023/06/04 20:36:41 - mmengine - INFO - Epoch(val) [270][6/6]  coco/AP: 0.728425  coco/AP .5: 1.000000  coco/AP .75: 0.942806  coco/AP (M): -1.000000  coco/AP (L): 0.728425  coco/AR: 0.773810  coco/AR .5: 1.000000  coco/AR .75: 0.952381  coco/AR (M): -1.000000  coco/AR (L): 0.773810  PCK: 0.967120  AUC: 0.137018  NME: 0.040443  data_time: 1.058714  time: 1.081497
+2023/06/04 20:36:47 - mmengine - INFO - Epoch(train) [271][1/6]  lr: 5.628677e-04  eta: 0:16:27  time: 5.458425  data_time: 5.400170  memory: 1654  loss: 0.034698  loss_kpt: 0.034698  acc_pose: 0.997024
+2023/06/04 20:36:53 - mmengine - INFO - Epoch(train) [271][2/6]  lr: 5.589787e-04  eta: 0:16:22  time: 5.553243  data_time: 5.494892  memory: 1654  loss: 0.035212  loss_kpt: 0.035212  acc_pose: 0.998512
+2023/06/04 20:37:00 - mmengine - INFO - Epoch(train) [271][3/6]  lr: 5.551086e-04  eta: 0:16:16  time: 5.556144  data_time: 5.497864  memory: 1654  loss: 0.035289  loss_kpt: 0.035289  acc_pose: 0.997024
+2023/06/04 20:37:06 - mmengine - INFO - Epoch(train) [271][4/6]  lr: 5.512572e-04  eta: 0:16:11  time: 5.561835  data_time: 5.503241  memory: 1654  loss: 0.035188  loss_kpt: 0.035188  acc_pose: 0.997024
+2023/06/04 20:37:13 - mmengine - INFO - Epoch(train) [271][5/6]  lr: 5.474247e-04  eta: 0:16:06  time: 5.559679  data_time: 5.501265  memory: 1654  loss: 0.035082  loss_kpt: 0.035082  acc_pose: 0.998464
+2023/06/04 20:37:14 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:37:14 - mmengine - INFO - Epoch(train) [271][6/6]  lr: 5.436111e-04  eta: 0:16:00  time: 5.461908  data_time: 5.403598  memory: 594  loss: 0.034407  loss_kpt: 0.034407  acc_pose: 0.988095
+2023/06/04 20:37:20 - mmengine - INFO - Epoch(train) [272][1/6]  lr: 5.398165e-04  eta: 0:15:54  time: 5.464395  data_time: 5.406090  memory: 1654  loss: 0.034408  loss_kpt: 0.034408  acc_pose: 0.998512
+2023/06/04 20:37:27 - mmengine - INFO - Epoch(train) [272][2/6]  lr: 5.360409e-04  eta: 0:15:49  time: 5.568087  data_time: 5.509451  memory: 1654  loss: 0.034922  loss_kpt: 0.034922  acc_pose: 0.997024
+2023/06/04 20:37:33 - mmengine - INFO - Epoch(train) [272][3/6]  lr: 5.322844e-04  eta: 0:15:43  time: 5.567711  data_time: 5.509391  memory: 1654  loss: 0.035016  loss_kpt: 0.035016  acc_pose: 0.998512
+2023/06/04 20:37:40 - mmengine - INFO - Epoch(train) [272][4/6]  lr: 5.285469e-04  eta: 0:15:38  time: 5.583216  data_time: 5.525097  memory: 1654  loss: 0.035020  loss_kpt: 0.035020  acc_pose: 0.998512
+2023/06/04 20:37:46 - mmengine - INFO - Epoch(train) [272][5/6]  lr: 5.248286e-04  eta: 0:15:32  time: 5.579261  data_time: 5.520952  memory: 1654  loss: 0.034992  loss_kpt: 0.034992  acc_pose: 0.992464
+2023/06/04 20:37:47 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:37:47 - mmengine - INFO - Epoch(train) [272][6/6]  lr: 5.211295e-04  eta: 0:15:27  time: 5.486891  data_time: 5.428813  memory: 594  loss: 0.034290  loss_kpt: 0.034290  acc_pose: 1.000000
+2023/06/04 20:37:54 - mmengine - INFO - Epoch(train) [273][1/6]  lr: 5.174496e-04  eta: 0:15:21  time: 5.483455  data_time: 5.425736  memory: 1654  loss: 0.034218  loss_kpt: 0.034218  acc_pose: 0.995536
+2023/06/04 20:38:00 - mmengine - INFO - Epoch(train) [273][2/6]  lr: 5.137891e-04  eta: 0:15:16  time: 5.572904  data_time: 5.515125  memory: 1654  loss: 0.034728  loss_kpt: 0.034728  acc_pose: 1.000000
+2023/06/04 20:38:06 - mmengine - INFO - Epoch(train) [273][3/6]  lr: 5.101478e-04  eta: 0:15:10  time: 5.584758  data_time: 5.526797  memory: 1654  loss: 0.034795  loss_kpt: 0.034795  acc_pose: 0.995536
+2023/06/04 20:38:12 - mmengine - INFO - Epoch(train) [273][4/6]  lr: 5.065259e-04  eta: 0:15:05  time: 5.585693  data_time: 5.527897  memory: 1654  loss: 0.034804  loss_kpt: 0.034804  acc_pose: 0.997024
+2023/06/04 20:38:18 - mmengine - INFO - Epoch(train) [273][5/6]  lr: 5.029235e-04  eta: 0:14:59  time: 5.584200  data_time: 5.526449  memory: 1654  loss: 0.034875  loss_kpt: 0.034875  acc_pose: 0.997024
+2023/06/04 20:38:20 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:38:20 - mmengine - INFO - Epoch(train) [273][6/6]  lr: 4.993404e-04  eta: 0:14:53  time: 5.482192  data_time: 5.424612  memory: 594  loss: 0.034235  loss_kpt: 0.034235  acc_pose: 1.000000
+2023/06/04 20:38:26 - mmengine - INFO - Epoch(train) [274][1/6]  lr: 4.957769e-04  eta: 0:14:48  time: 5.474356  data_time: 5.416783  memory: 1654  loss: 0.034054  loss_kpt: 0.034054  acc_pose: 1.000000
+2023/06/04 20:38:33 - mmengine - INFO - Epoch(train) [274][2/6]  lr: 4.922330e-04  eta: 0:14:43  time: 5.579949  data_time: 5.522324  memory: 1654  loss: 0.034531  loss_kpt: 0.034531  acc_pose: 0.998512
+2023/06/04 20:38:40 - mmengine - INFO - Epoch(train) [274][3/6]  lr: 4.887086e-04  eta: 0:14:37  time: 5.567948  data_time: 5.510234  memory: 1654  loss: 0.034375  loss_kpt: 0.034375  acc_pose: 1.000000
+2023/06/04 20:38:46 - mmengine - INFO - Epoch(train) [274][4/6]  lr: 4.852039e-04  eta: 0:14:32  time: 5.570927  data_time: 5.513201  memory: 1654  loss: 0.034226  loss_kpt: 0.034226  acc_pose: 0.997024
+2023/06/04 20:38:52 - mmengine - INFO - Epoch(train) [274][5/6]  lr: 4.817188e-04  eta: 0:14:26  time: 5.563629  data_time: 5.505986  memory: 1654  loss: 0.034195  loss_kpt: 0.034195  acc_pose: 0.998512
+2023/06/04 20:38:54 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:38:54 - mmengine - INFO - Epoch(train) [274][6/6]  lr: 4.782535e-04  eta: 0:14:20  time: 5.478121  data_time: 5.420923  memory: 594  loss: 0.033658  loss_kpt: 0.033658  acc_pose: 0.994048
+2023/06/04 20:39:01 - mmengine - INFO - Epoch(train) [275][1/6]  lr: 4.748079e-04  eta: 0:14:15  time: 5.492121  data_time: 5.435069  memory: 1654  loss: 0.033526  loss_kpt: 0.033526  acc_pose: 0.997024
+2023/06/04 20:39:07 - mmengine - INFO - Epoch(train) [275][2/6]  lr: 4.713821e-04  eta: 0:14:10  time: 5.584192  data_time: 5.526606  memory: 1654  loss: 0.034038  loss_kpt: 0.034038  acc_pose: 0.998512
+2023/06/04 20:39:13 - mmengine - INFO - Epoch(train) [275][3/6]  lr: 4.679762e-04  eta: 0:14:04  time: 5.579915  data_time: 5.522238  memory: 1654  loss: 0.033945  loss_kpt: 0.033945  acc_pose: 0.998512
+2023/06/04 20:39:20 - mmengine - INFO - Epoch(train) [275][4/6]  lr: 4.645901e-04  eta: 0:13:59  time: 5.581423  data_time: 5.523605  memory: 1654  loss: 0.034290  loss_kpt: 0.034290  acc_pose: 0.998512
+2023/06/04 20:39:26 - mmengine - INFO - Epoch(train) [275][5/6]  lr: 4.612240e-04  eta: 0:13:53  time: 5.575286  data_time: 5.517108  memory: 1654  loss: 0.034170  loss_kpt: 0.034170  acc_pose: 1.000000
+2023/06/04 20:39:27 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:39:27 - mmengine - INFO - Epoch(train) [275][6/6]  lr: 4.578779e-04  eta: 0:13:47  time: 5.478788  data_time: 5.420750  memory: 594  loss: 0.033837  loss_kpt: 0.033837  acc_pose: 0.976190
+2023/06/04 20:39:34 - mmengine - INFO - Epoch(train) [276][1/6]  lr: 4.545517e-04  eta: 0:13:42  time: 5.483456  data_time: 5.425272  memory: 1654  loss: 0.033586  loss_kpt: 0.033586  acc_pose: 0.998512
+2023/06/04 20:39:40 - mmengine - INFO - Epoch(train) [276][2/6]  lr: 4.512456e-04  eta: 0:13:36  time: 5.575636  data_time: 5.517247  memory: 1654  loss: 0.034118  loss_kpt: 0.034118  acc_pose: 1.000000
+2023/06/04 20:39:46 - mmengine - INFO - Epoch(train) [276][3/6]  lr: 4.479596e-04  eta: 0:13:31  time: 5.567099  data_time: 5.508663  memory: 1654  loss: 0.033993  loss_kpt: 0.033993  acc_pose: 1.000000
+2023/06/04 20:39:52 - mmengine - INFO - Epoch(train) [276][4/6]  lr: 4.446938e-04  eta: 0:13:25  time: 5.554155  data_time: 5.495535  memory: 1654  loss: 0.034069  loss_kpt: 0.034069  acc_pose: 0.992464
+2023/06/04 20:39:59 - mmengine - INFO - Epoch(train) [276][5/6]  lr: 4.414481e-04  eta: 0:13:20  time: 5.558245  data_time: 5.499708  memory: 1654  loss: 0.034072  loss_kpt: 0.034072  acc_pose: 0.998512
+2023/06/04 20:40:00 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:40:00 - mmengine - INFO - Epoch(train) [276][6/6]  lr: 4.382226e-04  eta: 0:13:14  time: 5.462187  data_time: 5.403682  memory: 594  loss: 0.033446  loss_kpt: 0.033446  acc_pose: 1.000000
+2023/06/04 20:40:07 - mmengine - INFO - Epoch(train) [277][1/6]  lr: 4.350173e-04  eta: 0:13:09  time: 5.471049  data_time: 5.412320  memory: 1654  loss: 0.033574  loss_kpt: 0.033574  acc_pose: 1.000000
+2023/06/04 20:40:14 - mmengine - INFO - Epoch(train) [277][2/6]  lr: 4.318323e-04  eta: 0:13:03  time: 5.572279  data_time: 5.513136  memory: 1654  loss: 0.034090  loss_kpt: 0.034090  acc_pose: 0.998512
+2023/06/04 20:40:20 - mmengine - INFO - Epoch(train) [277][3/6]  lr: 4.286677e-04  eta: 0:12:58  time: 5.566634  data_time: 5.507505  memory: 1654  loss: 0.033985  loss_kpt: 0.033985  acc_pose: 1.000000
+2023/06/04 20:40:27 - mmengine - INFO - Epoch(train) [277][4/6]  lr: 4.255234e-04  eta: 0:12:52  time: 5.576018  data_time: 5.517259  memory: 1654  loss: 0.033994  loss_kpt: 0.033994  acc_pose: 0.997024
+2023/06/04 20:40:33 - mmengine - INFO - Epoch(train) [277][5/6]  lr: 4.223996e-04  eta: 0:12:47  time: 5.571952  data_time: 5.513263  memory: 1654  loss: 0.033920  loss_kpt: 0.033920  acc_pose: 1.000000
+2023/06/04 20:40:34 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:40:34 - mmengine - INFO - Epoch(train) [277][6/6]  lr: 4.192961e-04  eta: 0:12:41  time: 5.475457  data_time: 5.417239  memory: 594  loss: 0.033219  loss_kpt: 0.033219  acc_pose: 1.000000
+2023/06/04 20:40:41 - mmengine - INFO - Epoch(train) [278][1/6]  lr: 4.162132e-04  eta: 0:12:36  time: 5.489849  data_time: 5.431610  memory: 1654  loss: 0.033164  loss_kpt: 0.033164  acc_pose: 0.998512
+2023/06/04 20:40:47 - mmengine - INFO - Epoch(train) [278][2/6]  lr: 4.131508e-04  eta: 0:12:30  time: 5.586528  data_time: 5.527872  memory: 1654  loss: 0.033629  loss_kpt: 0.033629  acc_pose: 1.000000
+2023/06/04 20:40:54 - mmengine - INFO - Epoch(train) [278][3/6]  lr: 4.101089e-04  eta: 0:12:25  time: 5.584667  data_time: 5.526272  memory: 1654  loss: 0.033475  loss_kpt: 0.033475  acc_pose: 1.000000
+2023/06/04 20:41:00 - mmengine - INFO - Epoch(train) [278][4/6]  lr: 4.070876e-04  eta: 0:12:19  time: 5.587126  data_time: 5.528402  memory: 1654  loss: 0.033388  loss_kpt: 0.033388  acc_pose: 0.998512
+2023/06/04 20:41:06 - mmengine - INFO - Epoch(train) [278][5/6]  lr: 4.040869e-04  eta: 0:12:14  time: 5.594448  data_time: 5.535725  memory: 1654  loss: 0.033187  loss_kpt: 0.033187  acc_pose: 1.000000
+2023/06/04 20:41:08 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:41:08 - mmengine - INFO - Epoch(train) [278][6/6]  lr: 4.011070e-04  eta: 0:12:08  time: 5.499916  data_time: 5.441202  memory: 594  loss: 0.032603  loss_kpt: 0.032603  acc_pose: 1.000000
+2023/06/04 20:41:15 - mmengine - INFO - Epoch(train) [279][1/6]  lr: 3.981477e-04  eta: 0:12:03  time: 5.506169  data_time: 5.446873  memory: 1654  loss: 0.032619  loss_kpt: 0.032619  acc_pose: 0.997024
+2023/06/04 20:41:20 - mmengine - INFO - Epoch(train) [279][2/6]  lr: 3.952091e-04  eta: 0:11:57  time: 5.590079  data_time: 5.530252  memory: 1654  loss: 0.032960  loss_kpt: 0.032960  acc_pose: 0.998512
+2023/06/04 20:41:27 - mmengine - INFO - Epoch(train) [279][3/6]  lr: 3.922913e-04  eta: 0:11:52  time: 5.591927  data_time: 5.531719  memory: 1654  loss: 0.032943  loss_kpt: 0.032943  acc_pose: 0.995536
+2023/06/04 20:41:33 - mmengine - INFO - Epoch(train) [279][4/6]  lr: 3.893943e-04  eta: 0:11:46  time: 5.586235  data_time: 5.525777  memory: 1654  loss: 0.033093  loss_kpt: 0.033093  acc_pose: 1.000000
+2023/06/04 20:41:39 - mmengine - INFO - Epoch(train) [279][5/6]  lr: 3.865182e-04  eta: 0:11:41  time: 5.582304  data_time: 5.521806  memory: 1654  loss: 0.032923  loss_kpt: 0.032923  acc_pose: 1.000000
+2023/06/04 20:41:41 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:41:41 - mmengine - INFO - Epoch(train) [279][6/6]  lr: 3.836629e-04  eta: 0:11:35  time: 5.486971  data_time: 5.426844  memory: 594  loss: 0.032367  loss_kpt: 0.032367  acc_pose: 1.000000
+2023/06/04 20:41:47 - mmengine - INFO - Epoch(train) [280][1/6]  lr: 3.808286e-04  eta: 0:11:29  time: 5.491053  data_time: 5.430722  memory: 1654  loss: 0.032331  loss_kpt: 0.032331  acc_pose: 1.000000
+2023/06/04 20:41:54 - mmengine - INFO - Epoch(train) [280][2/6]  lr: 3.780152e-04  eta: 0:11:24  time: 5.586948  data_time: 5.526166  memory: 1654  loss: 0.032879  loss_kpt: 0.032879  acc_pose: 0.995536
+2023/06/04 20:42:00 - mmengine - INFO - Epoch(train) [280][3/6]  lr: 3.752228e-04  eta: 0:11:19  time: 5.585872  data_time: 5.524896  memory: 1654  loss: 0.032870  loss_kpt: 0.032870  acc_pose: 0.995536
+2023/06/04 20:42:06 - mmengine - INFO - Epoch(train) [280][4/6]  lr: 3.724514e-04  eta: 0:11:13  time: 5.589179  data_time: 5.527969  memory: 1654  loss: 0.032877  loss_kpt: 0.032877  acc_pose: 1.000000
+2023/06/04 20:42:13 - mmengine - INFO - Epoch(train) [280][5/6]  lr: 3.697010e-04  eta: 0:11:08  time: 5.599752  data_time: 5.538469  memory: 1654  loss: 0.032713  loss_kpt: 0.032713  acc_pose: 0.997024
+2023/06/04 20:42:14 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:42:14 - mmengine - INFO - Epoch(train) [280][6/6]  lr: 3.669718e-04  eta: 0:11:02  time: 5.494492  data_time: 5.433287  memory: 594  loss: 0.032081  loss_kpt: 0.032081  acc_pose: 1.000000
+2023/06/04 20:42:14 - mmengine - INFO - Saving checkpoint at 280 epochs
+2023/06/04 20:42:21 - mmengine - INFO - Epoch(val) [280][1/6]    eta: 0:00:06  time: 1.083563  data_time: 1.060757  memory: 293  
+2023/06/04 20:42:22 - mmengine - INFO - Epoch(val) [280][2/6]    eta: 0:00:05  time: 1.102229  data_time: 1.079392  memory: 293  
+2023/06/04 20:42:23 - mmengine - INFO - Epoch(val) [280][3/6]    eta: 0:00:03  time: 1.099902  data_time: 1.077036  memory: 293  
+2023/06/04 20:42:24 - mmengine - INFO - Epoch(val) [280][4/6]    eta: 0:00:02  time: 1.098872  data_time: 1.076066  memory: 293  
+2023/06/04 20:42:26 - mmengine - INFO - Epoch(val) [280][5/6]    eta: 0:00:01  time: 1.099397  data_time: 1.076585  memory: 293  
+2023/06/04 20:42:26 - mmengine - INFO - Epoch(val) [280][6/6]    eta: 0:00:00  time: 1.081280  data_time: 1.058536  memory: 247  
+2023/06/04 20:42:26 - mmengine - INFO - Evaluating CocoMetric...
+2023/06/04 20:42:26 - mmengine - INFO - Evaluating PCKAccuracy (normalized by ``"bbox_size"``)...
+2023/06/04 20:42:26 - mmengine - INFO - Evaluating AUC...
+2023/06/04 20:42:26 - mmengine - INFO - Evaluating NME...
+2023/06/04 20:42:26 - mmengine - INFO - Epoch(val) [280][6/6]  coco/AP: 0.741017  coco/AP .5: 1.000000  coco/AP .75: 0.945599  coco/AP (M): -1.000000  coco/AP (L): 0.741017  coco/AR: 0.788095  coco/AR .5: 1.000000  coco/AR .75: 0.952381  coco/AR (M): -1.000000  coco/AR (L): 0.788095  PCK: 0.970522  AUC: 0.135261  NME: 0.040025  data_time: 1.058536  time: 1.081280
+2023/06/04 20:42:33 - mmengine - INFO - Epoch(train) [281][1/6]  lr: 3.642636e-04  eta: 0:10:56  time: 5.510637  data_time: 5.449259  memory: 1654  loss: 0.032135  loss_kpt: 0.032135  acc_pose: 0.997024
+2023/06/04 20:42:39 - mmengine - INFO - Epoch(train) [281][2/6]  lr: 3.615766e-04  eta: 0:10:51  time: 5.614890  data_time: 5.553172  memory: 1654  loss: 0.032700  loss_kpt: 0.032700  acc_pose: 0.998512
+2023/06/04 20:42:46 - mmengine - INFO - Epoch(train) [281][3/6]  lr: 3.589108e-04  eta: 0:10:46  time: 5.616133  data_time: 5.554126  memory: 1654  loss: 0.032624  loss_kpt: 0.032624  acc_pose: 0.997024
+2023/06/04 20:42:52 - mmengine - INFO - Epoch(train) [281][4/6]  lr: 3.562662e-04  eta: 0:10:40  time: 5.620566  data_time: 5.558226  memory: 1654  loss: 0.032590  loss_kpt: 0.032590  acc_pose: 0.998512
+2023/06/04 20:42:59 - mmengine - INFO - Epoch(train) [281][5/6]  lr: 3.536429e-04  eta: 0:10:35  time: 5.612584  data_time: 5.550388  memory: 1654  loss: 0.032433  loss_kpt: 0.032433  acc_pose: 1.000000
+2023/06/04 20:43:00 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:43:00 - mmengine - INFO - Epoch(train) [281][6/6]  lr: 3.510408e-04  eta: 0:10:29  time: 5.520919  data_time: 5.458685  memory: 594  loss: 0.031947  loss_kpt: 0.031947  acc_pose: 1.000000
+2023/06/04 20:43:07 - mmengine - INFO - Epoch(train) [282][1/6]  lr: 3.484600e-04  eta: 0:10:23  time: 5.534465  data_time: 5.472370  memory: 1654  loss: 0.031749  loss_kpt: 0.031749  acc_pose: 0.998512
+2023/06/04 20:43:13 - mmengine - INFO - Epoch(train) [282][2/6]  lr: 3.459006e-04  eta: 0:10:18  time: 5.638507  data_time: 5.575902  memory: 1654  loss: 0.032276  loss_kpt: 0.032276  acc_pose: 1.000000
+2023/06/04 20:43:20 - mmengine - INFO - Epoch(train) [282][3/6]  lr: 3.433625e-04  eta: 0:10:12  time: 5.642849  data_time: 5.580232  memory: 1654  loss: 0.032327  loss_kpt: 0.032327  acc_pose: 0.996976
+2023/06/04 20:43:26 - mmengine - INFO - Epoch(train) [282][4/6]  lr: 3.408459e-04  eta: 0:10:07  time: 5.632568  data_time: 5.569896  memory: 1654  loss: 0.032387  loss_kpt: 0.032387  acc_pose: 0.998464
+2023/06/04 20:43:33 - mmengine - INFO - Epoch(train) [282][5/6]  lr: 3.383507e-04  eta: 0:10:02  time: 5.629901  data_time: 5.567135  memory: 1654  loss: 0.032466  loss_kpt: 0.032466  acc_pose: 0.997024
+2023/06/04 20:43:34 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:43:34 - mmengine - INFO - Epoch(train) [282][6/6]  lr: 3.358769e-04  eta: 0:09:56  time: 5.533835  data_time: 5.471285  memory: 594  loss: 0.031894  loss_kpt: 0.031894  acc_pose: 0.982143
+2023/06/04 20:43:41 - mmengine - INFO - Epoch(train) [283][1/6]  lr: 3.334247e-04  eta: 0:09:50  time: 5.541461  data_time: 5.478659  memory: 1654  loss: 0.031961  loss_kpt: 0.031961  acc_pose: 0.995536
+2023/06/04 20:43:47 - mmengine - INFO - Epoch(train) [283][2/6]  lr: 3.309939e-04  eta: 0:09:45  time: 5.633864  data_time: 5.570960  memory: 1654  loss: 0.032376  loss_kpt: 0.032376  acc_pose: 1.000000
+2023/06/04 20:43:53 - mmengine - INFO - Epoch(train) [283][3/6]  lr: 3.285848e-04  eta: 0:09:39  time: 5.620514  data_time: 5.557589  memory: 1654  loss: 0.032337  loss_kpt: 0.032337  acc_pose: 0.998512
+2023/06/04 20:43:59 - mmengine - INFO - Epoch(train) [283][4/6]  lr: 3.261972e-04  eta: 0:09:34  time: 5.614570  data_time: 5.551565  memory: 1654  loss: 0.032514  loss_kpt: 0.032514  acc_pose: 0.998512
+2023/06/04 20:44:05 - mmengine - INFO - Epoch(train) [283][5/6]  lr: 3.238312e-04  eta: 0:09:28  time: 5.612708  data_time: 5.549937  memory: 1654  loss: 0.032437  loss_kpt: 0.032437  acc_pose: 0.998512
+2023/06/04 20:44:07 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:44:07 - mmengine - INFO - Epoch(train) [283][6/6]  lr: 3.214869e-04  eta: 0:09:23  time: 5.521501  data_time: 5.458981  memory: 594  loss: 0.031724  loss_kpt: 0.031724  acc_pose: 1.000000
+2023/06/04 20:44:14 - mmengine - INFO - Epoch(train) [284][1/6]  lr: 3.191642e-04  eta: 0:09:17  time: 5.521421  data_time: 5.458815  memory: 1654  loss: 0.031769  loss_kpt: 0.031769  acc_pose: 0.998512
+2023/06/04 20:44:20 - mmengine - INFO - Epoch(train) [284][2/6]  lr: 3.168633e-04  eta: 0:09:12  time: 5.611644  data_time: 5.549233  memory: 1654  loss: 0.032073  loss_kpt: 0.032073  acc_pose: 0.998512
+2023/06/04 20:44:26 - mmengine - INFO - Epoch(train) [284][3/6]  lr: 3.145840e-04  eta: 0:09:06  time: 5.610734  data_time: 5.548365  memory: 1654  loss: 0.032171  loss_kpt: 0.032171  acc_pose: 0.998512
+2023/06/04 20:44:32 - mmengine - INFO - Epoch(train) [284][4/6]  lr: 3.123265e-04  eta: 0:09:01  time: 5.613337  data_time: 5.550509  memory: 1654  loss: 0.032177  loss_kpt: 0.032177  acc_pose: 1.000000
+2023/06/04 20:44:38 - mmengine - INFO - Epoch(train) [284][5/6]  lr: 3.100908e-04  eta: 0:08:55  time: 5.607659  data_time: 5.544462  memory: 1654  loss: 0.032221  loss_kpt: 0.032221  acc_pose: 0.998512
+2023/06/04 20:44:40 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:44:40 - mmengine - INFO - Epoch(train) [284][6/6]  lr: 3.078769e-04  eta: 0:08:49  time: 5.520450  data_time: 5.457719  memory: 594  loss: 0.031567  loss_kpt: 0.031567  acc_pose: 1.000000
+2023/06/04 20:44:46 - mmengine - INFO - Epoch(train) [285][1/6]  lr: 3.056849e-04  eta: 0:08:44  time: 5.509319  data_time: 5.446249  memory: 1654  loss: 0.031606  loss_kpt: 0.031606  acc_pose: 0.997024
+2023/06/04 20:44:52 - mmengine - INFO - Epoch(train) [285][2/6]  lr: 3.035147e-04  eta: 0:08:38  time: 5.600577  data_time: 5.537276  memory: 1654  loss: 0.032157  loss_kpt: 0.032157  acc_pose: 0.997024
+2023/06/04 20:44:58 - mmengine - INFO - Epoch(train) [285][3/6]  lr: 3.013664e-04  eta: 0:08:33  time: 5.586732  data_time: 5.523642  memory: 1654  loss: 0.032232  loss_kpt: 0.032232  acc_pose: 0.997024
+2023/06/04 20:45:05 - mmengine - INFO - Epoch(train) [285][4/6]  lr: 2.992400e-04  eta: 0:08:28  time: 5.591089  data_time: 5.527814  memory: 1654  loss: 0.032189  loss_kpt: 0.032189  acc_pose: 0.997024
+2023/06/04 20:45:11 - mmengine - INFO - Epoch(train) [285][5/6]  lr: 2.971356e-04  eta: 0:08:22  time: 5.596047  data_time: 5.532910  memory: 1654  loss: 0.032303  loss_kpt: 0.032303  acc_pose: 0.998512
+2023/06/04 20:45:13 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:45:13 - mmengine - INFO - Epoch(train) [285][6/6]  lr: 2.950531e-04  eta: 0:08:16  time: 5.491418  data_time: 5.428398  memory: 594  loss: 0.031742  loss_kpt: 0.031742  acc_pose: 0.994048
+2023/06/04 20:45:19 - mmengine - INFO - Epoch(train) [286][1/6]  lr: 2.929926e-04  eta: 0:08:11  time: 5.495154  data_time: 5.431725  memory: 1654  loss: 0.032065  loss_kpt: 0.032065  acc_pose: 0.982143
+2023/06/04 20:45:25 - mmengine - INFO - Epoch(train) [286][2/6]  lr: 2.909542e-04  eta: 0:08:05  time: 5.586088  data_time: 5.522070  memory: 1654  loss: 0.032596  loss_kpt: 0.032596  acc_pose: 0.998512
+2023/06/04 20:45:31 - mmengine - INFO - Epoch(train) [286][3/6]  lr: 2.889377e-04  eta: 0:08:00  time: 5.582029  data_time: 5.517745  memory: 1654  loss: 0.032787  loss_kpt: 0.032787  acc_pose: 0.994048
+2023/06/04 20:45:38 - mmengine - INFO - Epoch(train) [286][4/6]  lr: 2.869434e-04  eta: 0:07:54  time: 5.585244  data_time: 5.521106  memory: 1654  loss: 0.032862  loss_kpt: 0.032862  acc_pose: 0.992560
+2023/06/04 20:45:45 - mmengine - INFO - Epoch(train) [286][5/6]  lr: 2.849711e-04  eta: 0:07:49  time: 5.592348  data_time: 5.528318  memory: 1654  loss: 0.032926  loss_kpt: 0.032926  acc_pose: 0.998512
+2023/06/04 20:45:46 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:45:46 - mmengine - INFO - Epoch(train) [286][6/6]  lr: 2.830210e-04  eta: 0:07:43  time: 5.499106  data_time: 5.435587  memory: 594  loss: 0.032455  loss_kpt: 0.032455  acc_pose: 1.000000
+2023/06/04 20:45:53 - mmengine - INFO - Epoch(train) [287][1/6]  lr: 2.810930e-04  eta: 0:07:38  time: 5.501328  data_time: 5.437769  memory: 1654  loss: 0.032513  loss_kpt: 0.032513  acc_pose: 0.998512
+2023/06/04 20:45:59 - mmengine - INFO - Epoch(train) [287][2/6]  lr: 2.791871e-04  eta: 0:07:32  time: 5.598886  data_time: 5.535126  memory: 1654  loss: 0.033040  loss_kpt: 0.033040  acc_pose: 1.000000
+2023/06/04 20:46:06 - mmengine - INFO - Epoch(train) [287][3/6]  lr: 2.773034e-04  eta: 0:07:27  time: 5.593247  data_time: 5.529699  memory: 1654  loss: 0.032948  loss_kpt: 0.032948  acc_pose: 1.000000
+2023/06/04 20:46:12 - mmengine - INFO - Epoch(train) [287][4/6]  lr: 2.754420e-04  eta: 0:07:21  time: 5.603897  data_time: 5.540544  memory: 1654  loss: 0.033119  loss_kpt: 0.033119  acc_pose: 0.995536
+2023/06/04 20:46:19 - mmengine - INFO - Epoch(train) [287][5/6]  lr: 2.736028e-04  eta: 0:07:16  time: 5.609638  data_time: 5.546525  memory: 1654  loss: 0.033123  loss_kpt: 0.033123  acc_pose: 1.000000
+2023/06/04 20:46:20 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:46:20 - mmengine - INFO - Epoch(train) [287][6/6]  lr: 2.717858e-04  eta: 0:07:10  time: 5.516444  data_time: 5.453645  memory: 594  loss: 0.032424  loss_kpt: 0.032424  acc_pose: 1.000000
+2023/06/04 20:46:27 - mmengine - INFO - Epoch(train) [288][1/6]  lr: 2.699911e-04  eta: 0:07:05  time: 5.520439  data_time: 5.457912  memory: 1654  loss: 0.032492  loss_kpt: 0.032492  acc_pose: 0.995536
+2023/06/04 20:46:34 - mmengine - INFO - Epoch(train) [288][2/6]  lr: 2.682187e-04  eta: 0:06:59  time: 5.630552  data_time: 5.567949  memory: 1654  loss: 0.032985  loss_kpt: 0.032985  acc_pose: 0.995536
+2023/06/04 20:46:40 - mmengine - INFO - Epoch(train) [288][3/6]  lr: 2.664687e-04  eta: 0:06:54  time: 5.627133  data_time: 5.564684  memory: 1654  loss: 0.033075  loss_kpt: 0.033075  acc_pose: 0.998512
+2023/06/04 20:46:47 - mmengine - INFO - Epoch(train) [288][4/6]  lr: 2.647409e-04  eta: 0:06:48  time: 5.632624  data_time: 5.570556  memory: 1654  loss: 0.033029  loss_kpt: 0.033029  acc_pose: 0.998512
+2023/06/04 20:46:53 - mmengine - INFO - Epoch(train) [288][5/6]  lr: 2.630356e-04  eta: 0:06:43  time: 5.634511  data_time: 5.572583  memory: 1654  loss: 0.032898  loss_kpt: 0.032898  acc_pose: 1.000000
+2023/06/04 20:46:55 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:46:55 - mmengine - INFO - Epoch(train) [288][6/6]  lr: 2.613526e-04  eta: 0:06:37  time: 5.534070  data_time: 5.472526  memory: 594  loss: 0.032322  loss_kpt: 0.032322  acc_pose: 1.000000
+2023/06/04 20:47:01 - mmengine - INFO - Epoch(train) [289][1/6]  lr: 2.596920e-04  eta: 0:06:32  time: 5.524216  data_time: 5.462720  memory: 1654  loss: 0.032252  loss_kpt: 0.032252  acc_pose: 1.000000
+2023/06/04 20:47:07 - mmengine - INFO - Epoch(train) [289][2/6]  lr: 2.580538e-04  eta: 0:06:26  time: 5.627347  data_time: 5.565486  memory: 1654  loss: 0.032713  loss_kpt: 0.032713  acc_pose: 0.997024
+2023/06/04 20:47:14 - mmengine - INFO - Epoch(train) [289][3/6]  lr: 2.564381e-04  eta: 0:06:21  time: 5.621686  data_time: 5.560162  memory: 1654  loss: 0.032533  loss_kpt: 0.032533  acc_pose: 1.000000
+2023/06/04 20:47:20 - mmengine - INFO - Epoch(train) [289][4/6]  lr: 2.548449e-04  eta: 0:06:15  time: 5.612547  data_time: 5.551375  memory: 1654  loss: 0.032421  loss_kpt: 0.032421  acc_pose: 0.998512
+2023/06/04 20:47:27 - mmengine - INFO - Epoch(train) [289][5/6]  lr: 2.532741e-04  eta: 0:06:10  time: 5.617866  data_time: 5.556648  memory: 1654  loss: 0.032407  loss_kpt: 0.032407  acc_pose: 0.997024
+2023/06/04 20:47:28 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:47:28 - mmengine - INFO - Epoch(train) [289][6/6]  lr: 2.517258e-04  eta: 0:06:04  time: 5.520502  data_time: 5.459214  memory: 594  loss: 0.031928  loss_kpt: 0.031928  acc_pose: 0.988095
+2023/06/04 20:47:35 - mmengine - INFO - Epoch(train) [290][1/6]  lr: 2.502001e-04  eta: 0:05:58  time: 5.535082  data_time: 5.473717  memory: 1654  loss: 0.032128  loss_kpt: 0.032128  acc_pose: 1.000000
+2023/06/04 20:47:42 - mmengine - INFO - Epoch(train) [290][2/6]  lr: 2.486969e-04  eta: 0:05:53  time: 5.642579  data_time: 5.581028  memory: 1654  loss: 0.032538  loss_kpt: 0.032538  acc_pose: 0.998512
+2023/06/04 20:47:48 - mmengine - INFO - Epoch(train) [290][3/6]  lr: 2.472162e-04  eta: 0:05:48  time: 5.632542  data_time: 5.570848  memory: 1654  loss: 0.032694  loss_kpt: 0.032694  acc_pose: 1.000000
+2023/06/04 20:47:55 - mmengine - INFO - Epoch(train) [290][4/6]  lr: 2.457582e-04  eta: 0:05:42  time: 5.624903  data_time: 5.563627  memory: 1654  loss: 0.032718  loss_kpt: 0.032718  acc_pose: 1.000000
+2023/06/04 20:48:01 - mmengine - INFO - Epoch(train) [290][5/6]  lr: 2.443227e-04  eta: 0:05:37  time: 5.622486  data_time: 5.560843  memory: 1654  loss: 0.032744  loss_kpt: 0.032744  acc_pose: 0.995536
+2023/06/04 20:48:03 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:48:03 - mmengine - INFO - Epoch(train) [290][6/6]  lr: 2.429098e-04  eta: 0:05:31  time: 5.527160  data_time: 5.465368  memory: 594  loss: 0.032216  loss_kpt: 0.032216  acc_pose: 1.000000
+2023/06/04 20:48:03 - mmengine - INFO - Saving checkpoint at 290 epochs
+2023/06/04 20:48:09 - mmengine - INFO - Epoch(val) [290][1/6]    eta: 0:00:06  time: 1.082783  data_time: 1.060041  memory: 293  
+2023/06/04 20:48:10 - mmengine - INFO - Epoch(val) [290][2/6]    eta: 0:00:05  time: 1.101379  data_time: 1.078573  memory: 293  
+2023/06/04 20:48:11 - mmengine - INFO - Epoch(val) [290][3/6]    eta: 0:00:03  time: 1.099025  data_time: 1.076267  memory: 293  
+2023/06/04 20:48:12 - mmengine - INFO - Epoch(val) [290][4/6]    eta: 0:00:02  time: 1.098396  data_time: 1.075657  memory: 293  
+2023/06/04 20:48:14 - mmengine - INFO - Epoch(val) [290][5/6]    eta: 0:00:01  time: 1.099608  data_time: 1.076901  memory: 293  
+2023/06/04 20:48:14 - mmengine - INFO - Epoch(val) [290][6/6]    eta: 0:00:00  time: 1.081651  data_time: 1.058998  memory: 247  
+2023/06/04 20:48:14 - mmengine - INFO - Evaluating CocoMetric...
+2023/06/04 20:48:14 - mmengine - INFO - Evaluating PCKAccuracy (normalized by ``"bbox_size"``)...
+2023/06/04 20:48:14 - mmengine - INFO - Evaluating AUC...
+2023/06/04 20:48:14 - mmengine - INFO - Evaluating NME...
+2023/06/04 20:48:14 - mmengine - INFO - Epoch(val) [290][6/6]  coco/AP: 0.747873  coco/AP .5: 1.000000  coco/AP .75: 0.946110  coco/AP (M): -1.000000  coco/AP (L): 0.747873  coco/AR: 0.792857  coco/AR .5: 1.000000  coco/AR .75: 0.952381  coco/AR (M): -1.000000  coco/AR (L): 0.792857  PCK: 0.967120  AUC: 0.136735  NME: 0.039610  data_time: 1.058998  time: 1.081651
+2023/06/04 20:48:20 - mmengine - INFO - Epoch(train) [291][1/6]  lr: 2.415196e-04  eta: 0:05:25  time: 5.524895  data_time: 5.462881  memory: 1654  loss: 0.032173  loss_kpt: 0.032173  acc_pose: 0.998512
+2023/06/04 20:48:27 - mmengine - INFO - Epoch(train) [291][2/6]  lr: 2.401520e-04  eta: 0:05:20  time: 5.620032  data_time: 5.557739  memory: 1654  loss: 0.032536  loss_kpt: 0.032536  acc_pose: 0.998512
+2023/06/04 20:48:33 - mmengine - INFO - Epoch(train) [291][3/6]  lr: 2.388070e-04  eta: 0:05:14  time: 5.608214  data_time: 5.546249  memory: 1654  loss: 0.032402  loss_kpt: 0.032402  acc_pose: 0.998512
+2023/06/04 20:48:39 - mmengine - INFO - Epoch(train) [291][4/6]  lr: 2.374848e-04  eta: 0:05:09  time: 5.605441  data_time: 5.543369  memory: 1654  loss: 0.032470  loss_kpt: 0.032470  acc_pose: 1.000000
+2023/06/04 20:48:45 - mmengine - INFO - Epoch(train) [291][5/6]  lr: 2.361852e-04  eta: 0:05:03  time: 5.595383  data_time: 5.532764  memory: 1654  loss: 0.032479  loss_kpt: 0.032479  acc_pose: 0.998512
+2023/06/04 20:48:46 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:48:46 - mmengine - INFO - Epoch(train) [291][6/6]  lr: 2.349084e-04  eta: 0:04:58  time: 5.504872  data_time: 5.442768  memory: 594  loss: 0.031841  loss_kpt: 0.031841  acc_pose: 1.000000
+2023/06/04 20:48:53 - mmengine - INFO - Epoch(train) [292][1/6]  lr: 2.336542e-04  eta: 0:04:52  time: 5.516840  data_time: 5.454500  memory: 1654  loss: 0.031848  loss_kpt: 0.031848  acc_pose: 1.000000
+2023/06/04 20:48:59 - mmengine - INFO - Epoch(train) [292][2/6]  lr: 2.324228e-04  eta: 0:04:47  time: 5.606313  data_time: 5.543773  memory: 1654  loss: 0.032254  loss_kpt: 0.032254  acc_pose: 0.997024
+2023/06/04 20:49:05 - mmengine - INFO - Epoch(train) [292][3/6]  lr: 2.312142e-04  eta: 0:04:41  time: 5.599438  data_time: 5.537284  memory: 1654  loss: 0.032176  loss_kpt: 0.032176  acc_pose: 1.000000
+2023/06/04 20:49:11 - mmengine - INFO - Epoch(train) [292][4/6]  lr: 2.300283e-04  eta: 0:04:36  time: 5.604697  data_time: 5.542145  memory: 1654  loss: 0.032272  loss_kpt: 0.032272  acc_pose: 0.998512
+2023/06/04 20:49:17 - mmengine - INFO - Epoch(train) [292][5/6]  lr: 2.288653e-04  eta: 0:04:30  time: 5.600748  data_time: 5.538071  memory: 1654  loss: 0.032336  loss_kpt: 0.032336  acc_pose: 1.000000
+2023/06/04 20:49:19 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:49:19 - mmengine - INFO - Epoch(train) [292][6/6]  lr: 2.277250e-04  eta: 0:04:25  time: 5.504386  data_time: 5.442295  memory: 594  loss: 0.031782  loss_kpt: 0.031782  acc_pose: 1.000000
+2023/06/04 20:49:25 - mmengine - INFO - Epoch(train) [293][1/6]  lr: 2.266075e-04  eta: 0:04:19  time: 5.515320  data_time: 5.453332  memory: 1654  loss: 0.031690  loss_kpt: 0.031690  acc_pose: 1.000000
+2023/06/04 20:49:32 - mmengine - INFO - Epoch(train) [293][2/6]  lr: 2.255129e-04  eta: 0:04:14  time: 5.607713  data_time: 5.545676  memory: 1654  loss: 0.032128  loss_kpt: 0.032128  acc_pose: 1.000000
+2023/06/04 20:49:38 - mmengine - INFO - Epoch(train) [293][3/6]  lr: 2.244411e-04  eta: 0:04:08  time: 5.613145  data_time: 5.551442  memory: 1654  loss: 0.032041  loss_kpt: 0.032041  acc_pose: 1.000000
+2023/06/04 20:49:44 - mmengine - INFO - Epoch(train) [293][4/6]  lr: 2.233922e-04  eta: 0:04:03  time: 5.615980  data_time: 5.554349  memory: 1654  loss: 0.032039  loss_kpt: 0.032039  acc_pose: 0.997024
+2023/06/04 20:49:50 - mmengine - INFO - Epoch(train) [293][5/6]  lr: 2.223661e-04  eta: 0:03:57  time: 5.608105  data_time: 5.546741  memory: 1654  loss: 0.031831  loss_kpt: 0.031831  acc_pose: 1.000000
+2023/06/04 20:49:52 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:49:52 - mmengine - INFO - Epoch(train) [293][6/6]  lr: 2.213629e-04  eta: 0:03:51  time: 5.505044  data_time: 5.444192  memory: 594  loss: 0.031297  loss_kpt: 0.031297  acc_pose: 1.000000
+2023/06/04 20:49:58 - mmengine - INFO - Epoch(train) [294][1/6]  lr: 2.203826e-04  eta: 0:03:46  time: 5.507440  data_time: 5.446395  memory: 1654  loss: 0.031191  loss_kpt: 0.031191  acc_pose: 0.997024
+2023/06/04 20:50:04 - mmengine - INFO - Epoch(train) [294][2/6]  lr: 2.194252e-04  eta: 0:03:40  time: 5.595637  data_time: 5.534315  memory: 1654  loss: 0.031681  loss_kpt: 0.031681  acc_pose: 1.000000
+2023/06/04 20:50:10 - mmengine - INFO - Epoch(train) [294][3/6]  lr: 2.184907e-04  eta: 0:03:35  time: 5.592228  data_time: 5.531086  memory: 1654  loss: 0.031321  loss_kpt: 0.031321  acc_pose: 1.000000
+2023/06/04 20:50:16 - mmengine - INFO - Epoch(train) [294][4/6]  lr: 2.175791e-04  eta: 0:03:29  time: 5.594674  data_time: 5.533881  memory: 1654  loss: 0.031259  loss_kpt: 0.031259  acc_pose: 1.000000
+2023/06/04 20:50:23 - mmengine - INFO - Epoch(train) [294][5/6]  lr: 2.166905e-04  eta: 0:03:24  time: 5.593387  data_time: 5.532757  memory: 1654  loss: 0.031077  loss_kpt: 0.031077  acc_pose: 1.000000
+2023/06/04 20:50:24 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:50:24 - mmengine - INFO - Epoch(train) [294][6/6]  lr: 2.158248e-04  eta: 0:03:18  time: 5.488647  data_time: 5.428256  memory: 594  loss: 0.030460  loss_kpt: 0.030460  acc_pose: 1.000000
+2023/06/04 20:50:30 - mmengine - INFO - Epoch(train) [295][1/6]  lr: 2.149821e-04  eta: 0:03:13  time: 5.479726  data_time: 5.419332  memory: 1654  loss: 0.030367  loss_kpt: 0.030367  acc_pose: 0.995536
+2023/06/04 20:50:36 - mmengine - INFO - Epoch(train) [295][2/6]  lr: 2.141623e-04  eta: 0:03:07  time: 5.571900  data_time: 5.511456  memory: 1654  loss: 0.030758  loss_kpt: 0.030758  acc_pose: 1.000000
+2023/06/04 20:50:43 - mmengine - INFO - Epoch(train) [295][3/6]  lr: 2.133655e-04  eta: 0:03:02  time: 5.567817  data_time: 5.507152  memory: 1654  loss: 0.030819  loss_kpt: 0.030819  acc_pose: 0.995536
+2023/06/04 20:50:49 - mmengine - INFO - Epoch(train) [295][4/6]  lr: 2.125917e-04  eta: 0:02:56  time: 5.559949  data_time: 5.499429  memory: 1654  loss: 0.030893  loss_kpt: 0.030893  acc_pose: 0.997024
+2023/06/04 20:50:55 - mmengine - INFO - Epoch(train) [295][5/6]  lr: 2.118410e-04  eta: 0:02:51  time: 5.549625  data_time: 5.489355  memory: 1654  loss: 0.030973  loss_kpt: 0.030973  acc_pose: 1.000000
+2023/06/04 20:50:56 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:50:56 - mmengine - INFO - Epoch(train) [295][6/6]  lr: 2.111132e-04  eta: 0:02:45  time: 5.453062  data_time: 5.393048  memory: 594  loss: 0.030352  loss_kpt: 0.030352  acc_pose: 0.994048
+2023/06/04 20:51:02 - mmengine - INFO - Epoch(train) [296][1/6]  lr: 2.104084e-04  eta: 0:02:40  time: 5.448124  data_time: 5.388024  memory: 1654  loss: 0.030299  loss_kpt: 0.030299  acc_pose: 1.000000
+2023/06/04 20:51:09 - mmengine - INFO - Epoch(train) [296][2/6]  lr: 2.097267e-04  eta: 0:02:34  time: 5.551432  data_time: 5.491135  memory: 1654  loss: 0.030726  loss_kpt: 0.030726  acc_pose: 0.998512
+2023/06/04 20:51:16 - mmengine - INFO - Epoch(train) [296][3/6]  lr: 2.090679e-04  eta: 0:02:29  time: 5.551506  data_time: 5.490862  memory: 1654  loss: 0.030570  loss_kpt: 0.030570  acc_pose: 0.998512
+2023/06/04 20:51:21 - mmengine - INFO - Epoch(train) [296][4/6]  lr: 2.084323e-04  eta: 0:02:23  time: 5.528244  data_time: 5.467375  memory: 1654  loss: 0.030651  loss_kpt: 0.030651  acc_pose: 0.996976
+2023/06/04 20:51:28 - mmengine - INFO - Epoch(train) [296][5/6]  lr: 2.078196e-04  eta: 0:02:18  time: 5.524586  data_time: 5.463405  memory: 1654  loss: 0.030603  loss_kpt: 0.030603  acc_pose: 0.998512
+2023/06/04 20:51:29 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:51:29 - mmengine - INFO - Epoch(train) [296][6/6]  lr: 2.072301e-04  eta: 0:02:12  time: 5.425980  data_time: 5.364885  memory: 594  loss: 0.030058  loss_kpt: 0.030058  acc_pose: 1.000000
+2023/06/04 20:51:36 - mmengine - INFO - Epoch(train) [297][1/6]  lr: 2.066636e-04  eta: 0:02:06  time: 5.426171  data_time: 5.365166  memory: 1654  loss: 0.029994  loss_kpt: 0.029994  acc_pose: 0.998512
+2023/06/04 20:51:42 - mmengine - INFO - Epoch(train) [297][2/6]  lr: 2.061201e-04  eta: 0:02:01  time: 5.515046  data_time: 5.453942  memory: 1654  loss: 0.030447  loss_kpt: 0.030447  acc_pose: 1.000000
+2023/06/04 20:51:48 - mmengine - INFO - Epoch(train) [297][3/6]  lr: 2.055998e-04  eta: 0:01:55  time: 5.514813  data_time: 5.453377  memory: 1654  loss: 0.030594  loss_kpt: 0.030594  acc_pose: 0.995536
+2023/06/04 20:51:55 - mmengine - INFO - Epoch(train) [297][4/6]  lr: 2.051025e-04  eta: 0:01:50  time: 5.515044  data_time: 5.453783  memory: 1654  loss: 0.030760  loss_kpt: 0.030760  acc_pose: 0.998512
+2023/06/04 20:52:01 - mmengine - INFO - Epoch(train) [297][5/6]  lr: 2.046283e-04  eta: 0:01:44  time: 5.516843  data_time: 5.455438  memory: 1654  loss: 0.030757  loss_kpt: 0.030757  acc_pose: 0.998512
+2023/06/04 20:52:03 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:52:03 - mmengine - INFO - Epoch(train) [297][6/6]  lr: 2.041772e-04  eta: 0:01:39  time: 5.420202  data_time: 5.358890  memory: 594  loss: 0.030237  loss_kpt: 0.030237  acc_pose: 1.000000
+2023/06/04 20:52:10 - mmengine - INFO - Epoch(train) [298][1/6]  lr: 2.037492e-04  eta: 0:01:33  time: 5.423457  data_time: 5.362118  memory: 1654  loss: 0.030379  loss_kpt: 0.030379  acc_pose: 0.992560
+2023/06/04 20:52:16 - mmengine - INFO - Epoch(train) [298][2/6]  lr: 2.033443e-04  eta: 0:01:28  time: 5.513810  data_time: 5.452464  memory: 1654  loss: 0.030784  loss_kpt: 0.030784  acc_pose: 1.000000
+2023/06/04 20:52:22 - mmengine - INFO - Epoch(train) [298][3/6]  lr: 2.029625e-04  eta: 0:01:22  time: 5.506436  data_time: 5.445091  memory: 1654  loss: 0.030562  loss_kpt: 0.030562  acc_pose: 0.998512
+2023/06/04 20:52:28 - mmengine - INFO - Epoch(train) [298][4/6]  lr: 2.026039e-04  eta: 0:01:17  time: 5.494816  data_time: 5.433477  memory: 1654  loss: 0.030540  loss_kpt: 0.030540  acc_pose: 0.994048
+2023/06/04 20:52:35 - mmengine - INFO - Epoch(train) [298][5/6]  lr: 2.022683e-04  eta: 0:01:11  time: 5.506808  data_time: 5.445651  memory: 1654  loss: 0.030520  loss_kpt: 0.030520  acc_pose: 1.000000
+2023/06/04 20:52:37 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:52:37 - mmengine - INFO - Epoch(train) [298][6/6]  lr: 2.019559e-04  eta: 0:01:06  time: 5.410129  data_time: 5.349070  memory: 594  loss: 0.029987  loss_kpt: 0.029987  acc_pose: 1.000000
+2023/06/04 20:52:43 - mmengine - INFO - Epoch(train) [299][1/6]  lr: 2.016666e-04  eta: 0:01:00  time: 5.410814  data_time: 5.349916  memory: 1654  loss: 0.029812  loss_kpt: 0.029812  acc_pose: 1.000000
+2023/06/04 20:52:49 - mmengine - INFO - Epoch(train) [299][2/6]  lr: 2.014005e-04  eta: 0:00:55  time: 5.502423  data_time: 5.441489  memory: 1654  loss: 0.030293  loss_kpt: 0.030293  acc_pose: 0.997024
+2023/06/04 20:52:55 - mmengine - INFO - Epoch(train) [299][3/6]  lr: 2.011574e-04  eta: 0:00:49  time: 5.500965  data_time: 5.440136  memory: 1654  loss: 0.030334  loss_kpt: 0.030334  acc_pose: 1.000000
+2023/06/04 20:53:02 - mmengine - INFO - Epoch(train) [299][4/6]  lr: 2.009375e-04  eta: 0:00:44  time: 5.496991  data_time: 5.436351  memory: 1654  loss: 0.030321  loss_kpt: 0.030321  acc_pose: 0.998512
+2023/06/04 20:53:08 - mmengine - INFO - Epoch(train) [299][5/6]  lr: 2.007408e-04  eta: 0:00:38  time: 5.505673  data_time: 5.445000  memory: 1654  loss: 0.030199  loss_kpt: 0.030199  acc_pose: 0.998512
+2023/06/04 20:53:09 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:53:09 - mmengine - INFO - Epoch(train) [299][6/6]  lr: 2.005672e-04  eta: 0:00:33  time: 5.408851  data_time: 5.348468  memory: 594  loss: 0.029656  loss_kpt: 0.029656  acc_pose: 1.000000
+2023/06/04 20:53:15 - mmengine - INFO - Epoch(train) [300][1/6]  lr: 2.004167e-04  eta: 0:00:27  time: 5.417952  data_time: 5.358055  memory: 1654  loss: 0.029550  loss_kpt: 0.029550  acc_pose: 1.000000
+2023/06/04 20:53:22 - mmengine - INFO - Epoch(train) [300][2/6]  lr: 2.002894e-04  eta: 0:00:22  time: 5.513246  data_time: 5.453190  memory: 1654  loss: 0.030124  loss_kpt: 0.030124  acc_pose: 1.000000
+2023/06/04 20:53:28 - mmengine - INFO - Epoch(train) [300][3/6]  lr: 2.001852e-04  eta: 0:00:16  time: 5.509624  data_time: 5.449432  memory: 1654  loss: 0.030156  loss_kpt: 0.030156  acc_pose: 0.997024
+2023/06/04 20:53:35 - mmengine - INFO - Epoch(train) [300][4/6]  lr: 2.001042e-04  eta: 0:00:11  time: 5.510838  data_time: 5.450921  memory: 1654  loss: 0.030301  loss_kpt: 0.030301  acc_pose: 0.989487
+2023/06/04 20:53:41 - mmengine - INFO - Epoch(train) [300][5/6]  lr: 2.000463e-04  eta: 0:00:05  time: 5.511920  data_time: 5.452154  memory: 1654  loss: 0.030257  loss_kpt: 0.030257  acc_pose: 1.000000
+2023/06/04 20:53:42 - mmengine - INFO - Exp name: rtmpose-s-ear_20230604_180104
+2023/06/04 20:53:42 - mmengine - INFO - Epoch(train) [300][6/6]  lr: 2.000116e-04  eta: 0:00:00  time: 5.421371  data_time: 5.362121  memory: 594  loss: 0.029688  loss_kpt: 0.029688  acc_pose: 1.000000
+2023/06/04 20:53:42 - mmengine - INFO - Saving checkpoint at 300 epochs
+2023/06/04 20:53:48 - mmengine - INFO - Epoch(val) [300][1/6]    eta: 0:00:06  time: 1.083031  data_time: 1.060366  memory: 293  
+2023/06/04 20:53:50 - mmengine - INFO - Epoch(val) [300][2/6]    eta: 0:00:05  time: 1.101867  data_time: 1.079083  memory: 293  
+2023/06/04 20:53:51 - mmengine - INFO - Epoch(val) [300][3/6]    eta: 0:00:03  time: 1.099872  data_time: 1.077055  memory: 293  
+2023/06/04 20:53:52 - mmengine - INFO - Epoch(val) [300][4/6]    eta: 0:00:02  time: 1.099529  data_time: 1.076795  memory: 293  
+2023/06/04 20:53:53 - mmengine - INFO - Epoch(val) [300][5/6]    eta: 0:00:01  time: 1.100177  data_time: 1.077466  memory: 293  
+2023/06/04 20:53:54 - mmengine - INFO - Epoch(val) [300][6/6]    eta: 0:00:00  time: 1.082228  data_time: 1.059627  memory: 247  
+2023/06/04 20:53:54 - mmengine - INFO - Evaluating CocoMetric...
+2023/06/04 20:53:54 - mmengine - INFO - Evaluating PCKAccuracy (normalized by ``"bbox_size"``)...
+2023/06/04 20:53:54 - mmengine - INFO - Evaluating AUC...
+2023/06/04 20:53:54 - mmengine - INFO - Evaluating NME...
+2023/06/04 20:53:54 - mmengine - INFO - Epoch(val) [300][6/6]  coco/AP: 0.736652  coco/AP .5: 1.000000  coco/AP .75: 0.946853  coco/AP (M): -1.000000  coco/AP (L): 0.736652  coco/AR: 0.788095  coco/AR .5: 1.000000  coco/AR .75: 0.952381  coco/AR (M): -1.000000  coco/AR (L): 0.788095  PCK: 0.968254  AUC: 0.145238  NME: 0.039372  data_time: 1.059627  time: 1.082228

@@ -79,7 +79,7 @@ log_processor = dict(
     num_digits=6,
     _scope_='mmpose')
 log_level = 'INFO'
-load_from = 'work_dirs/rtmpose-s-ear/epoch_190.pth'
+load_from = 'work_dirs/rtmpose-s-ear/epoch_300.pth'
 resume = False
 backend_args = dict(backend='local')
 train_cfg = dict(by_epoch=True, max_epochs=300, val_interval=10)
