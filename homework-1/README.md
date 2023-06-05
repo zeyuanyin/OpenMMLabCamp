@@ -138,7 +138,7 @@ Results are saved in `outputs/G2_RTMDet-RTMPose/`
 
 
 
-## Video
+### Video
 
 ```
 python demo/topdown_demo_with_mmdet.py \
@@ -161,14 +161,17 @@ python demo/topdown_demo_with_mmdet.py \
 
 Results are saved in `outputs/G2_Video/`
 
+<img src="outputs/G2_Video/my_ear.gif" alt="Image" style="width:30%;">
+
+
 <!--
 ![Video](outputs/G2_Video/my_ear.mp4)
  -->
 
-<video controls style="max-width: 30%;">
+<!-- <video controls style="max-width: 30%;">
   <source src="outputs/G2_Video/my_ear.mp4" type="video/mp4">
   Your browser does not support the video tag.
-</video>
+</video> -->
 
 
 ### Error
