@@ -65,7 +65,7 @@ python tools/test.py data/rtmpose-s-ear.py \
 
 ## Results
 
-Object Detection (test on epoch_200.pth)
+### Task 1: Object Detection
 
 [homework-1/log/mmdetection_test/20230604_185806.json](log/mmdetection_test/20230604_185806.json)
 
@@ -86,7 +86,7 @@ Object Detection (test on epoch_200.pth)
 {"coco/bbox_mAP": 0.792, "coco/bbox_mAP_50": 0.955, "coco/bbox_mAP_75": 0.946, "coco/bbox_mAP_s": -1.0, "coco/bbox_mAP_m": -1.0, "coco/bbox_mAP_l": 0.792, "data_time": 0.2294788360595703, "time": 0.34926186908375134}
 ```
 
-Pose Estimation (test on epoch_190.pth)
+### Task 2: Pose Estimation
 
 [homework-1/log/mmpose_test/20230605_114516.json](log/mmpose_test/20230605_114516.json)
 ```
