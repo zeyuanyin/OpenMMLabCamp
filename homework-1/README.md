@@ -106,6 +106,12 @@ Pose Estimation (test on epoch_190.pth)
 
 ## Prediction Demo
 
+<div align=left>
+<img width=30% src="outputs/G2_RTMDet-RTMPose/my_ear.png"/>
+<img width=21.6% src="outputs/G2_Video/my_ear.gif"/>
+</div>
+
+
 ### Single Image
 
 ```
@@ -132,11 +138,6 @@ python demo/topdown_demo_with_mmdet.py \
 
 Results are saved in `outputs/G2_RTMDet-RTMPose/`
 
-<img src="outputs/G2_RTMDet-RTMPose/my_ear.png" alt="Image" style="width:30%;">
-
-
-
-
 
 ### Video
 
@@ -161,7 +162,7 @@ python demo/topdown_demo_with_mmdet.py \
 
 Results are saved in `outputs/G2_Video/`
 
-<img src="outputs/G2_Video/my_ear.gif" alt="Image" style="width:30%;">
+<!-- <img src="outputs/G2_Video/my_ear.gif" alt="Image" style="width:30%;"> -->
 
 
 <!--
