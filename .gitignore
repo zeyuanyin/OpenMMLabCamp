@@ -1,8 +1,11 @@
 */zh_code/
-# */data/
+*/data/
+*/fruit_data/
 *.zip
 
 mmdetection/
 mmpose/
+mmpretrain/
 
 *ipynb
+*pth

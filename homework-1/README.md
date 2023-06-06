@@ -1,4 +1,4 @@
-# Homework 1
+# Homework 1: Ear keypoint detection based on RTMPose
 
 [[Description]](https://github.com/open-mmlab/OpenMMLabCamp/issues/97)
 
@@ -6,14 +6,13 @@
 
 [[Data]](https://drive.google.com/file/d/1zeOMs3i-1cRw6QZESp5mUwH0iozx0RZW/view?usp=drive_link)
 
-
 ## Environment Setup
 
 1. Install MMdetection & MMpose
 2. Move data and runing python files to the corresponding data folder
 
-
 Code file organization:
+
 ```
 code/
 ├── mmdetection/
@@ -33,15 +32,18 @@ code/
 ### Task 1: Object Detection
 
 Run the following command to train the model:
+
 ```
 cd mmdetection
 python tools/train.py data/rtmdet_tiny_ear.py
 ```
+
 ~1 hour on RTX 4090 GPU.
 
 Training log and model weights will be saved at `work_dirs` folder.
 
 Run the following command to test the model:
+
 ```
 python tools/test.py data/rtmdet_tiny_ear.py \
         work_dirs/rtmdet_tiny_ear/epoch_200.pth
@@ -50,18 +52,20 @@ python tools/test.py data/rtmdet_tiny_ear.py \
 ### Task 2: Pose Estimation
 
 Run the following command to train the model:
+
 ```
 cd mmpose
 python tools/train.py data/rtmpose_s_ear.py
 ```
+
 ~3 hour on RTX 4090 GPU.
 
 Run the following command to test the model:
+
 ```
 python tools/test.py data/rtmpose-s-ear.py \
         work_dirs/rtmpose-s-ear/epoch_300.pth
 ```
-
 
 ## Results
 
@@ -89,6 +93,7 @@ python tools/test.py data/rtmpose-s-ear.py \
 ### Task 2: Pose Estimation
 
 [homework-1/log/mmpose_test/20230605_114516.json](log/mmpose_test/20230605_114516.json)
+
 ```
  Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets= 20 ] =  0.737
  Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets= 20 ] =  1.000
@@ -110,7 +115,6 @@ python tools/test.py data/rtmpose-s-ear.py \
 <img width=30% src="outputs/G2_RTMDet-RTMPose/my_ear.png"/>
 <img width=21.6% src="outputs/G2_Video/my_ear.gif"/>
 </div>
-
 
 ### Single Image
 
@@ -138,7 +142,6 @@ python demo/topdown_demo_with_mmdet.py \
 
 Results are saved in `outputs/G2_RTMDet-RTMPose/`
 
-
 ### Video
 
 ```
@@ -164,7 +167,6 @@ Results are saved in `outputs/G2_Video/`
 
 <!-- <img src="outputs/G2_Video/my_ear.gif" alt="Image" style="width:30%;"> -->
 
-
 <!--
 ![Video](outputs/G2_Video/my_ear.mp4)
  -->
@@ -174,8 +176,8 @@ Results are saved in `outputs/G2_Video/`
   Your browser does not support the video tag.
 </video> -->
 
-
 ### Error
+
 ```
 Traceback (most recent call last):
   File "demo/topdown_demo_with_mmdet.py", line 292, in <module>
@@ -186,6 +188,7 @@ cv2.error: OpenCV(4.7.0) /io/opencv/modules/highgui/src/window.cpp:1338: error: 
 ```
 
 Comment out line 265-266 in `demo/topdown_demo_with_mmdet.py`
+
 ```
 # if cv2.waitKey(5) & 0xFF == 27:
 #     break
