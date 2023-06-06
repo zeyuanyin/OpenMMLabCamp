@@ -97,3 +97,14 @@ All parameters are default in `resnet50_8xb32_in1k.py` -> 60.6982%
 ```
 {"accuracy/top1": 60.69819641113281, "accuracy/top5": 91.66666412353516, "data_time": 0.0024173736572265627, "time": 0.01637766361236572}
 ```
+
+Since we finetune a pretrained model, we set a smaller learning rate and do not need too many epochs.
+
+```
+lr: 0.1 -> 0.01
+epochs: 100 -> 10
+-----
+top1: 60.6982% -> 80.2928%
+```
+
+[homework-2/log/train_lr0.01_epoch10/20230606_171745/vis_data/20230606_171745.json](log/train_lr0.01_epoch10/20230606_171745/vis_data/20230606_171745.json)

@@ -1,13 +1,13 @@
 # optimizer
 optim_wrapper = dict(
-    optimizer=dict(type='SGD', lr=0.1, momentum=0.9, weight_decay=0.0001))
+    optimizer=dict(type='SGD', lr=0.01, momentum=0.9, weight_decay=0.0001)) # lr: 0.1 -> 0.01
 
 # learning policy
 param_scheduler = dict(
     type='MultiStepLR', by_epoch=True, milestones=[30, 60, 90], gamma=0.1)
 
 # train, val, test setting
-train_cfg = dict(by_epoch=True, max_epochs=100, val_interval=1)
+train_cfg = dict(by_epoch=True, max_epochs=10, val_interval=1) # epoch: 100 -> 20
 val_cfg = dict()
 test_cfg = dict()
 
