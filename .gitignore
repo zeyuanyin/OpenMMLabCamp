@@ -7,5 +7,5 @@ mmdetection/
 mmpose/
 mmpretrain/
 
-*ipynb
+homework-1/*/*.ipynb
 *pth
