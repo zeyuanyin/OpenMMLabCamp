@@ -1,6 +1,6 @@
 # Homework 2: Fruit classification based on ResNet50
 
-[[Description]](https://github.com/open-mmlab/OpenMMLabCamp/issues/ )
+[[Description]](https://github.com/open-mmlab/OpenMMLabCamp/issues/115 )
 
 [[Code Base]](https://github.com/open-mmlab/mmpretrain)
 
@@ -99,6 +99,8 @@ All parameters are default in `resnet50_8xb32_in1k.py` -> 60.6982%
 ```
 
 Since we finetune a pretrained model, we set a smaller learning rate and do not need too many epochs.
+
+(Notice: long training results in better performance, but we do not need to do so in this homework. The requirement is to finetune a model with the acc@1 > 60%.)
 
 ```
 lr: 0.1 -> 0.01
