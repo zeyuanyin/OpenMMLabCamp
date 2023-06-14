@@ -134,3 +134,33 @@ python test_img.py
 <img width=30% src="test_img/watermelon_pred.png"/>
 </div>
 
+
+
+## Inference on Watermelon Video
+
+Video Source: https://www.youtube.com/watch?v=yFPB5wct9KU
+
+
+```
+# Very slow
+
+python mmsegmentation/demo/video_demo.py \
+        ../test_img/watermelon.mp4 \
+        pspnet-Watermelon.py \
+        ../log/Watermelon/iter_3000.pth \
+        --device cuda:0 \
+        --output-file ../test_img/watermelon_pred.mp4 \
+        --opacity 0.5
+```
+
+
+```
+# Fast
+
+python test_video.py
+```
+
+<div align=left>
+<img width=30% src="./test_img/watermelon.gif"/>
+<img width=30% src="./test_img/watermelon_pred.gif"/>
+</div>
