@@ -1,16 +1,18 @@
 # Homework 5: N Ways to Play ControlNet
 
 [[Description]](https://github.com/open-mmlab/OpenMMLabCamp/issues/409)
+
 [[Code Base]](https://github.com/TommyZihao/MMagic_Tutorials)
+
 [[Video]](https://www.bilibili.com/video/BV1gM4y1n7vP/)
 
 
 Prompt: `Room with white ceiling, wooden style, a big window and beautiful scenery outside the windows.`
 
 <div align=left>
-<img width=262px height=262px src="./test_img/room.png"/>
-<img width=30% src="./test_img/control_0.png"/>
-<img width=30% src="./test_img/sample_0.png"/>
+<img width=280px height=280px src="./test_img/room.png"/>
+<img width=280px src="./test_img/control_0.png"/>
+<img width=280px src="./test_img/sample_0.png"/>
 </div>
 
 <div align=left>
