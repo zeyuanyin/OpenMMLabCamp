@@ -8,6 +8,7 @@ mmpose/
 mmpretrain/
 mmyolo/
 mmsegmentation/
+mmagic/
 
 homework-1/*/*.ipynb
 homework-3/*/*.ipynb
